@@ -1,0 +1,851 @@
+IAfrika	África
+IJapani	Japão
+IMelika Eningizimu	América do Sul
+INoki	Noruega
+INgilandi	Inglaterra
+IsiKotilandi	Escócia
+IWelisi	País de Gales
+I-Ayilendi	República da Irlanda
+ISpeyini	Espanha
+IMelika	Estados Unidos
+IFinlandi	Finlândia
+ISwidi	Suécia
+IDenimaki	Dinamarca
+IPolandi	Polónia
+ILithuwaniya	Lituânia
+ITaliya	Itália
+I-Ostriya	Áustria
+IGreki	Grécia
+ITheki	Turquia
+IPhothugali	Portugal
+IYurobhu	Europa
+I-Eshiya	Ásia
+IMelika Enyakatho	América do Norte
+I-Antatika	Antártida
+Wikipedia	Wikipédia
+Netherlands	Países Baixos
+New York (idolobha)	Nova Iorque
+IBerlini	Berlim
+Ikhompiyutha	Computador
+Barack Obama	Barack Obama
+ILondon	Londres
+Ihhabhula	Maçã
+IParisi	Paris
+IMekisiko	México
+California	Califórnia
+IKenya	Quénia
+I-Ithiopia	Etiópia
+IGana	Gana
+Ibhubesi	Leão
+IFulansi	França
+Isi-Esperanto	Esperanto
+Inja	Canis lupus familiaris
+Umbuso Ohlangeneyo	Reino Unido
+Ikati	Gato
+IShayina	República Popular da China
+IsiFulentshi	Língua francesa
+IBrazili	Brasil
+IRashiya	Rússia
+Ulwandle	Mar
+IJalimani	Alemanha
+IBelarusi	Bielorrússia
+IsiJalimani	Língua alemã
+I-Ayisilandi	Islândia
+UNkulunkulu	Deus
+I-Estoniya	Estónia
+David Cameron	David Cameron
+USatureni	Saturno (planeta)
+George W. Bush	George W. Bush
+ILatviya	Letónia
+ITsheki	República Checa
+ISlovaki	Eslováquia
+IVilnyusi	Vilnius
+IBulgariya	Bulgária
+Azerbaijan	Azerbaijão
+IMalta	Malta
+Indolobha yaseVathikhani	Vaticano
+USanti Marino	San Marino
+Belize	Belize
+Volkswagen	Volkswagen
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+IRiphabliki yaseNingizimu Afrika	África do Sul
+IAljiriya	Argélia
+IWarshawa	Varsóvia
+Amanzi	Água
+Isi-Icelandic	Língua islandesa
+ITshile	Chile
+Apple	Apple
+UVenusi	Vénus (planeta)
+U-Uranu	Urano (planeta)
+UNepetuni	Netuno (planeta)
+UPluto	Plutão
+Facebook	Facebook
+Ubuntu (uhlelo)	Ubuntu
+Imathemathiki	Matemática
+U2	U2
+ILatin	Língua latina
+ISerbiya	Sérvia
+Inyanga	Lua
+I-Ostreliya	Austrália
+Peru	Peru
+Mount Everest	Monte Everest
+Ilanga	Sol
+I-Osheaniya	Oceania
+Uhlelo Lemihlaba YeLanga	Sistema Solar
+Wikimedia Commons	Wikimedia Commons
+Football Club Internazionale Milano	Football Club Internazionale Milano
+Umculo	Música
+IMoskwa	Moscovo
+IsiTaliya	Língua italiana
+ITshedi	Chade
+INyuzilandi	Nova Zelândia
+INdiya	Índia
+Ubuciko bomlomo	Contos de fadas
+IFiji	Fiji
+Venezuela	Venezuela
+I-Amsterdami	Amesterdão
+Isilwane	Animalia
+IKolombiya	Colômbia
+UbuBudha	Budismo
+Umthofu	Cobre
+Leonardo da Vinci	Leonardo da Vinci
+Massachusetts	Massachusetts
+Guatemala	Guatemala
+Connecticut	Connecticut
+Hawaii	Havaí
+Honduras	Honduras
+El Salvador	El Salvador
+I-Irani	Irão
+I-Iraki	Iraque
+Costa Rica	Costa Rica
+Isreyili	Israel
+Panama	Panamá
+IYemen	Iémen
+IsiPholisi	Língua polaca
+Nicaragua	Nicarágua
+Florida	Flórida
+Arizona	Arizona
+Utah	Utah
+IPakistani	Paquistão
+Sri Lanka	Sri Lanka
+Joseph Stalin	Josef Stalin
+I-YouTube	YouTube
+IViyetnami	Vietname
+I-Afganistani	Afeganistão
+Igolide	Ouro
+Bangladesh	Bangladesh
+IMali	Mali
+I-Angola	Angola
+ITanzania	Tanzânia
+Central African Republic	República Centro-Africana
+ITogo	Togo
+ITunisia	Tunísia
+IZambiya	Zâmbia
+IZimbabwe	Zimbabwe
+ISudan yaseNingizimu	Sudão do Sul
+IBenini	Benim
+IButswana	Botswana
+IBukhina Faso	Burkina Faso
+IBurundi	Burundi
+IsiKhomorosi	Comores
+IKongo	República do Congo
+IRiphabliki Labantu weKongo	República Democrática do Congo
+IJibuthi	Djibouti
+IGini Enkabazwe	Guiné Equatorial
+I-Eritrea	Eritreia
+IGaboni	Gabão
+IGambia	Gâmbia
+IGini	Guiné
+IGini Bisawu	Guiné-Bissau
+Ugu Emhlophe	Costa do Marfim
+IKamerooni	Camarões
+IKhepi Vedhi	Cabo Verde
+OSotho	Lesoto
+ILiberia	Libéria
+ILibiya	Líbia
+IMadagasika	Madagáscar
+IMalawi	Malawi
+IMoritaniya	Mauritânia
+IMorishisi	Maurícia
+IMorokho	Marrocos
+IMozambiki	Moçambique
+INamibhiya	Namíbia
+INayighe	Níger
+INigeria	Nigéria
+IYuganda	Uganda
+IRuwanda	Ruanda
+ISawu Tome noPhrinitshipeyi	São Tomé e Príncipe
+ISenegal	Senegal
+IsiSeyisheli	Seicheles
+ISiera Liyoni	Serra Leoa
+ISomalia	Somália
+ISudan	Sudão
+ISwazilandi	Suazilândia
+Amazwe Ohlangeneyo	Organização das Nações Unidas
+IPraha	Praga
+Isiliva	Prata
+Bill Clinton	Bill Clinton
+Usain Bolt	Usain Bolt
+John Lennon	John Lennon
+Wyoming	Wyoming
+Idaho	Idaho
+Washington (isifunda eMelika)	Washington
+Nevada	Nevada
+Colorado	Colorado
+Chicago	Chicago
+Ama-Beatles	The Beatles
+IsiSpeyini	Língua castelhana
+Virginia	Virgínia
+New York Isifunda	Nova Iorque (estado)
+Maryland	Maryland
+Vladimir Lenin	Lenin
+Pennsylvania	Pensilvânia
+I-Uetersen	Uetersen
+New Jersey	Nova Jérsia
+Indiana	Indiana
+Texas	Texas
+ITokyo	Tóquio
+I-Athene	Atenas
+IRiga	Riga
+IBhayibheli	Bíblia
+IHochiminh	Cidade de Ho Chi Minh
+True Jesus Church	Verdadeira Igreja de Jesus
+IsiNgisi	Língua inglesa
+IDonghoi	Dong Hoi
+Concepción, ITshile	Concepción (Chile)
+IKiyevi	Kiev
+2000	2000
+2001	2001
+2012	2012
+2009	2009
+2013	2013
+2014	2014
+1991	1991
+1993	1993
+3 uJanuwali	3 de janeiro
+Kurów	Kurów
+8 uFebruwari	8 de fevereiro
+1985	1985
+1981	1981
+1969	1969
+Paul McCartney	Paul McCartney
+S.S. Lazio	Società Sportiva Lazio
+Ringo Starr	Ringo Starr
+George Harrison	George Harrison
+1968	1968
+25 uJuni	25 de junho
+14 uJulayi	14 de julho
+29 uJulayi	29 de julho
+Ibhola	Futebol
+29 uAgasti	29 de agosto
+Michael Jackson	Michael Jackson
+17 uSepthemba	17 de setembro
+5 uNovemba	5 de novembro
+Algiers	Argel
+Amazon.com	Amazon.com
+IGaborone	Gaborone
+IHarara	Harare
+IPitoli	Pretória
+Wikipedia:Sandbox	Wikipédia:Página de testes
+Ilaptop	Laptop
+Umfula	Rio
+Osasco	Osasco
+Curitiba	Curitiba
+Corbin Bleu	Corbin Bleu
+Category:Imathemathiki	Categoria:Matemática
+Euro	Euro
+IDola	Dólar dos Estados Unidos
+Celine Dion	Céline Dion
+IsiQongo	Capital
+IsiPutukezi	Língua portuguesa
+1948	1948
+1958	1958
+IsiJapani	Língua japonesa
+Ikhasi Elikhulu	Wikipédia:Página principal
+ISaratov	Saratov
+Ikhilikithi	Críquete
+Umbhoxo	Rugby
+IKapa	Cidade do Cabo
+ITheku	Durban
+Michelangelo	Michelangelo
+Pablo Picasso	Pablo Picasso
+Iziqhingi iKhaneli	Canárias
+Ceuta	Ceuta
+IMelilla	Melilha
+Category:Candidates for speedy deletion	Categoria:!Páginas para eliminação rápida
+Ipiyano	Piano
+Category:Ukufunda umkhathi	Categoria:Astronomia
+IsiKrowati	Língua croata
+IsiKhathalani	Língua catalã
+UBudha	Buda
+Iqoqo i-Afrika	União Africana
+IBhange woMhlaba	Banco Mundial
+Imvu	Ovis aries
+Indlovu	Elefante
+IsiHolandi	Língua neerlandesa
+Ukuhumusha	Tradução
+IsiRashiya	Língua russa
+Vladimir Putin	Vladimir Putin
+Yurobhu Idaladala	História da Europa
+1884	1884
+IsiShayina	Língua chinesa
+Imvelo	Natureza
+Winston Churchill	Winston Churchill
+Nelson Mandela	Nelson Mandela
+Category:Umculo	Categoria:Música
+Icilongo	Trompete
+Ikhofi	Café
+Ubisi	Leite
+Intaba	Montanha
+Miami, Florida	Miami
+IsiSwidishi	Língua sueca
+IsiTsheki	Língua tcheca
+IsiLatviya	Língua letã
+IsiLithuwaniya	Língua lituana
+IsiGreki	Língua grega
+Iphengwini	Pinguim
+Ugenesis	Gênesis
+Isi-Indonesia	Língua indonésia
+IsiHebheru	Língua hebraica
+IPod	IPod
+Martin Luther	Martinho Lutero
+Gerald Ford	Gerald Ford
+Richard Nixon	Richard Nixon
+Lyndon B. Johnson	Lyndon B. Johnson
+Michael Schumacher	Michael Schumacher
+Elizabeth II	Isabel II do Reino Unido
+John F. Kennedy	John F. Kennedy
+Ronald Reagan	Ronald Reagan
+IsiZulu	Língua zulu
+Fernando Alonso	Fernando Alonso
+Category:Venezuela	Categoria:Venezuela
+Robert Mugabe	Robert Mugabe
+Ushizi	Queijo
+Izambane	Batata
+Imifino	Hortaliça
+Category:IBrazili	Categoria:Brasil
+Ama-elementhi	Elemento (química)
+Isigubhu	Tambor
+Ukhamba	Olaria
+Silvio Berlusconi	Silvio Berlusconi
+Abayizithulu	Surdez
+Mona Lisa	Mona Lisa
+IsiXhosa	Língua xhosa
+IMac	IMac
+IsiOsithani	Língua occitana
+IsiBhunu	Língua africâner
+Template:Location map Zimbabwe	Predefinição:Mapa de localização/Zimbabwe
+Template:Location map South Africa	Predefinição:Mapa de localização/África do Sul
+Indlulamithi	Girafa
+Queen	Queen
+Freddie Mercury.	Freddie Mercury
+ICrailsheim	Crailsheim
+Vermont	Vermont
+IMayotte	Mayotte
+IRiyunion	Reunião (ilha)
+Umakhalekhukhwini	Telefone celular
+INhatrang	Nha Trang
+Rafael Correa	Rafael Correa
+Umfula Thames	Rio Tâmisa
+Motorhead	Motörhead
+UKhisimusi	Natal
+Lady Gaga	Lady Gaga
+IVungtau	Vũng Tàu
+IPhasika	Páscoa
+ILondon Kakhulu	Grande Londres
+Idolobha weLondon	Cidade de Londres
+Die Antwoord	Die Antwoord
+Inyamazane	Cervidae
+Iqhwa	Gelo
+IMoshchena	Mostchena
+Utamatisi	Tomate
+George H. W. Bush	George H. W. Bush
+IPaltoga	Paltoga
+Isichazamazwi	Dicionário
+Jimmy Carter	Jimmy Carter
+Inkondlo yesizwe	Hino nacional
+Avatar	Avatar (filme)
+Upondo	Libra esterlina
+Felidae	Felidae
+IDanang	Da Nang
+Canidae	Canídeos
+Imvubu yolwandle	Sirenia
+IMadira	Região Autónoma da Madeira
+University Niccolò Cusano	Università degli Studi Niccolò Cusano
+IMelika Wenkaba	América Central
+Shaka	Shaka Zulu
+Pinnipedia	Pinípedes
+Avril Lavigne	Avril Lavigne
+IsiHawayi	Língua havaiana
+IsiSwazi	Língua suázi
+Impophoma	Queda de água
+Justin Bieber	Justin Bieber
+Ibhulonze	Bronze
+IsiTswana	Língua tswana
+Ngolimi lwezandla	Língua de sinais
+IsiSuthu	Língua soto do sul
+Rotterdam	Roterdão
+Mošovce	Mošovce
+Shakira	Shakira
+IGoli	Joanesburgo
+Isonto	Igreja
+Imitholoji lamaGreki	Mitologia grega
+I-eliki	Alce
+IsiNdebele	Língua ndebele do sul
+Rihanna	Rihanna
+Umoya ongcwele	Espírito Santo
+Internet Movie Database	Internet Movie Database
+Arara	Arara (Paraíba)
+IBloemfontein	Bloemfontein
+Inyamazane yase-Athiki	Rena
+Radio Studio 54 Network	Rádio Studio 54 Network
+Porto Alegre	Porto Alegre
+Inkalankala	Caranguejo
+God Save the Queen	God Save the Queen
+Iwalerosi	Morsa
+Demi Lovato	Demi Lovato
+Ibhayisikobho	Sala de cinema
+Castel Goffredo	Castel Goffredo
+The Star-Spangled Banner	The Star-Spangled Banner
+The Doors	The Doors
+John Cale	John Cale
+Nadine Gordimer	Nadine Gordimer
+Template:Commonscat	Predefinição:Commonscat
+Hans Holbein the Younger	Hans Holbein, o Jovem
+Isifo segciwane le-Ebola	Doença por vírus Ébola
+Category:Amafilimu	Categoria:Filmes
+Jacob Zuma	Jacob Zuma
+C. C. Catch	C.C. Catch
+Alla Pugatshova	Alla Pugacheva
+KwaZulu-Natal	KwaZulu-Natal
+African National Congress	Congresso Nacional Africano
+Selena Gomez	Selena Gomez
+Amaqanda	Ovo (alimento)
+Thabo Mbeki	Thabo Mbeki
+IHolandi	Holanda (região)
+2001: A Space Odyssey	2001: A Space Odyssey
+The Velvet Underground	The Velvet Underground
+Marin County	Condado de Marin
+Liya Kebede	Liya Kebede
+Ibhayi	Porto Elizabeth
+IKipi laseNtshonalanga	Cabo Ocidental
+Isayiklopsi	Ciclope
+The Last Supper	A Última Ceia (Leonardo da Vinci)
+AmaZulu	Zulus
+KwaXhosa	Cabo Oriental
+Brighton	Brighton
+Mpumalanga	Mpumalanga
+IKipi laseNyakatho	Cabo Setentrional
+IGauteng	Gauteng
+Limpopo	Limpopo (África do Sul)
+Frederik Willem de Klerk	Frederik Willem de Klerk
+Kgalema Motlanthe	Kgalema Motlanthe
+Joan Miró	Joan Miró
+Nina Badrić	Nina Badrić
+Henri Rousseau	Henri Rousseau
+IFleyistata	Estado Livre
+T.A.T.u.	T.A.T.u.
+Nyakatho-Ntshonalanga	Noroeste (África do Sul)
+Caselle Landi	Caselle Landi
+University of London	Universidade de Londres
+Syngman Rhee	Syngman Rhee
+David (Michelangelo)	David (Michelangelo)
+Boris Johnson	Boris Johnson
+Ostankino Tower	Torre Ostankino
+IRandi	Rand
+Pietermaritzburg	Pietermaritzburg
+Chang Myon	Chang Myon
+Lou Reed	Lou Reed
+Transvaal Province	Transvaal
+Plazas de soberanía	Plazas de soberanía
+Izifundazwe zaseNingizimu Afrika	Províncias da África do Sul
+Yun Bo-seon	Yun Bo-seon
+Insindiso	Salvação
+Umbuso waseNingizimu Afrika	União Sul-Africana
+Oscar Pistorius	Oscar Pistorius
+Freshlyground	Freshlyground
+IMito	Mito (Ibaraki)
+SliTaz	SliTaz
+University La Sapienza	Universidade de Roma @@@u0026La Sapienza"
+Bhisho	Bhisho
+Steve Biko	Steve Biko
+The Vitruvian Man	Homem vitruviano
+Soweto	Soweto
+Alexa Internet	Alexa Internet
+Nkosi Sikelel' iAfrika	Hino nacional da África do Sul
+Ingelosi	Anjo
+Pietà (Michelangelo)	Pietà (Michelangelo)
+Julie Newmar	Julie Newmar
+OpenSolaris	OpenSolaris
+Impalampala	Palanca-negra
+Skin Diamond	Skin Diamond
+Ladysmith Black Mambazo	Ladysmith Black Mambazo
+Trevor Jones	Trevor Jones
+Marie Luv	Marie Luv
+Umongameli waseNingizimu Afrika	Presidente da África do Sul
+Lacey Duvalle	Lacey Duvalle
+Marjorie Estiano	Marjorie Estiano
+Jan van Riebeeck	Jan van Riebeeck
+Ibhola lezinyawo	Futebol (desambiguação)
+Of Montreal	Of Montreal
+Maurice Sendak	Maurice Sendak
+Teamgeist	Adidas Teamgeist
+James Deen	James Deen
+Marek Grechuta	Marek Grechuta
+Lucky Dube	Lucky Dube
+Nyomi Banxxx	Nyomi Banxxx
+AmaZulu F.C.	AmaZulu Football Club
+Sara Takanashi	Sara Takanashi
+Heo Jeong	Heo Jeong
+Louis-Nicolas Clérambault	Louis-Nicolas Clérambault
+Paramore	Paramore
+Izinkundla	Estádio
+Himno Nacional de Chile	Hino nacional do Chile
+IQuakenbrück	Quakenbrück
+Ron Jeremy	Ron Jeremy
+Vereeniging	Vereeniging
+Wayne Coyne	Wayne Coyne
+University of the Witwatersrand	Universidade de Witwatersrand
+Pierre Woodman	Pierre Woodman
+Indluzele	Búbalu
+Igogo	Antílope-salta-rochas
+Abahlali baseMjondolo	Abahlali baseMjondolo
+University of South Africa	Universidade da África do Sul
+The Weather Girls	The Weather Girls
+Isaga wesizwe	Lista de lemas
+Adult Film Database	Adult Film Database
+Jonava	Jonava
+Inxala	Pelea capreolus
+Abantu abansundu	Negros
+Boksburg	Boksburg
+Londinium	Londínio
+Pornhub	Pornhub
+IsiNguni	Línguas ngúni
+Tiburon	Tiburon (Califórnia)
+Mvezo	Mvezo
+Vrahovice	Vrahovice
+Internet Adult Film Database	Internet Adult Film Database
+Isifunda weLondon	Londres (condado)
+University of Sussex	Universidade de Sussex
+AbAfrika baseningizimu	Demografia da África do Sul
+The Ambassadors (Holbein)	Os Embaixadores
+WP:IPA	Wikipédia:AFI
+El Chavo del 8	El Chavo del Ocho
+Agnes Monica	Agnes Monica
+Pornopedia	Pornopedia
+Category:IJalimani	Categoria:Alemanha
+Category:IMelika	Categoria:Estados Unidos
+Category:IRashiya	Categoria:Rússia
+Category:Umbuso Ohlanganeyo	Categoria:Reino Unido
+Category:IJapani	Categoria:Japão
+Category:IMekisiko	Categoria:México
+Category:Ningizimu Afrika	Categoria:África do Sul
+Izilimi zaseNingizimu Afrika	Línguas da África do Sul
+Category:IPolandi	Categoria:Polónia
+Category:IPhothugali	Categoria:Portugal
+Category:IViyetnamu	Categoria:Vietname
+Category:Umdlalo	Categoria:Desportos
+Category:ISayensi	Categoria:Ciência
+Category:Ubefa 2012	Categoria:Mortos em 2012
+Rhomani	Roma Antiga
+Category:Ububudha	Categoria:Budismo
+Category:Ubukrestu	Categoria:Cristianismo
+Tatum Keshwar	Tatum Keshwar
+University of Fort Hare	Universidade de Fort Hare
+Edson Celulari	Edson Celulari
+ǀXam	Língua ǀxam
+Alexandra, Gauteng	Alexandra (Gauteng)
+About (disambiguation)	About
+Category:Stubs	Categoria:!Esboços
+Category:Amazwekazi	Categoria:Continentes
+Cláudia Raia	Cláudia Raia
+Edmond Debeaumarché	Edmond Debeaumarché
+Helena Ranaldi	Helena Ranaldi
+Maitê Proença	Maitê Proença
+Portal:Umculo	Portal:Música
+Venus and Amor	Vênus e Amor
+Henri Castelli	Henri Castelli
+EEast rand	East Rand
+Fernanda Vasconcellos	Fernanda Vasconcellos
+Template:Succession box	Predefinição:Caixa de sucessão
+Category:Amabhendi	Categoria:Grupos musicais
+WP:IPA for Spanish	Wikipédia:AFI para castelhano
+XVideos	XVideos
+University Guglielmo Marconi	Università degli Studi Guglielmo Marconi
+Category:Izwe	Categoria:Países
+Wikipedia:Administrators	Wikipédia:Administradores
+Wikipedia:Requests for adminship	Wikipédia:Pedidos de administração
+Category:Internet	Categoria:Internet
+Wikipedia:Vital 100	Wikipédia:Lista dos artigos que toda Wikipédia deve ter/Nível 2
+IGibhithe	Egito
+Template:Bot	Predefinição:Robô
+IKhanada	Canadá
+Category:ITsheki	Categoria:República Checa
+Category:IEstoniya	Categoria:Estónia
+Category:ILatviya	Categoria:Letónia
+Category:ILithuwaniya	Categoria:Lituânia
+Category:ISwidi	Categoria:Suécia
+Category:ISlovakiya	Categoria:Eslováquia
+Izulu	Céu (religião)
+Category:IBerlin	Categoria:Berlim
+Category:IYurophu	Categoria:Europa
+Template:Documentation	Predefinição:Documentação
+Sung Jae-gi	Sung Jae-ki
+Template:Softredirect	Predefinição:Pseudorredirecionamento
+Template:Delete	Predefinição:ER
+Category:Ulimi	Categoria:Línguas
+Wikipedia:Statistics	Wikipédia:Estatísticas
+Template:Navbox	Predefinição:Navbox
+Umqansi womthethosisekelo	Constituição Hill
+IQowland	Qowland
+Category:Abantu baphilile	Categoria:Pessoas vivas
+Template:Clear	Predefinição:Limpar
+Template:Col-break	Predefinição:Col-break
+Template:Col-begin	Predefinição:Col-begin
+Template:Trim	Predefinição:Trim
+Template:Nowrap	Predefinição:Nowrap
+Wikipedia:Vital articles	Wikipédia:Artigos essenciais
+Category:IAfrika	Categoria:África
+Category:IGauteng	Categoria:Província de Gauteng
+Category:KwaZulu-Natal	Categoria:Província de KwaZulu-Natal
+Template:Babel	Predefinição:Babel
+Template:Commons	Predefinição:Commons
+Template:Reflist	Predefinição:Referências
+Template:Stub	Predefinição:Esboço
+Template:See also	Predefinição:VT
+Template:User de	Predefinição:User de
+Template:User es	Predefinição:User es
+Template:User en-2	Predefinição:User en-2
+Template:User en	Predefinição:User en
+Template:User fr-1	Predefinição:User fr-1
+Template:User sk	Predefinição:User sk
+Template:User fr-2	Predefinição:User fr-2
+Category:Izilimi zaseNingizimu Afrika	Categoria:Línguas da África do Sul
+Category:Izilimi weNamibhiya	Categoria:Línguas da Namíbia
+Category:IAshiya	Categoria:Ásia
+Category:IMelika eNingizimu	Categoria:América do Sul
+Template:Mod	Predefinição:Mod
+Template:SIL	Predefinição:ISO639-3Documentação
+Template:Infobox football club	Predefinição:Info/Futebol/Clube
+Template:Welcome	Predefinição:Bem-vindo(a)
+Template:Country data BEL	Predefinição:Country data Bélgica
+Template:Continent-based templates	Predefinição:Continente-baseada em templates
+Template:Football kit	Predefinição:EquipamentoFutebol
+Template:Country data South Africa	Predefinição:Dados de país/África do Sul
+Template:Category handler	Predefinição:Cat handler
+Template:Official website	Predefinição:Oficial
+Category:Izinkondlo zamazwe	Categoria:Hinos nacionais
+Template:Country data Egypt	Predefinição:Country data Egito
+Template:S-start	Predefinição:Começa caixa
+Template:Nom	Predefinição:Ind
+Template:Cite journal	Predefinição:Citar periódico
+Template:Wikibooks	Predefinição:Wikilivros
+Template:S-aft	Predefinição:S-aft
+Category:IParisi	Categoria:Paris
+Category:User en	Categoria:Usuários en
+Category:User en-2	Categoria:Usuário en-2
+Template:Infobox	Predefinição:Info
+Template:Template other	Predefinição:Template other
+Template:Legend	Predefinição:Legenda
+Template:Lang-bg	Predefinição:Lang-bg
+Template:Cite web	Predefinição:Citar web
+Template:Country data	Predefinição:Dados de país
+Template:Won	Predefinição:Ven
+Template:Pp-template	Predefinição:Pp-template
+Template:Min	Predefinição:Min
+Template:Wiktionary	Predefinição:Wikcionário
+Category:Abongameli yamazwe	Categoria:Presidentes
+Category:Language user templates	Categoria:!Predefinições de babel
+Template:Country data Algeria	Predefinição:Country data Argélia
+Template:List of African capitals	Predefinição:Lista de capitais da África
+Template:Infobox ethnic group	Predefinição:Info/Grupo étnico
+Template:Country data Venezuela	Predefinição:Country data Venezuela
+Template:Allmusic	Predefinição:Allmusic
+Template:Country data Botswana	Predefinição:Country data Botswana
+Template:Infobox model	Predefinição:Info/Modelo
+Category:Abafileyo 1884	Categoria:Mortos em 1884
+Template:Country data China	Predefinição:Country data Chine
+Template:Country data SUI	Predefinição:Country data Suíça
+Template:ParmPart	Predefinição:ParmPart
+Template:Country data Zimbabwe	Predefinição:Country data Zimbabwe
+Template:Increase	Predefinição:Aumento
+Template:Infobox website	Predefinição:Info/Sítio
+Template:Image label end	Predefinição:Image label end
+Template:MedalSport	Predefinição:Medalhas Esporte
+Template:Columns	Predefinição:Colunas
+Template:Myspace	Predefinição:Myspace
+Template:Female adult bio	Predefinição:Info/Bio adulto
+Template:Lang-af	Predefinição:Lang-af
+Template:NASDAQ	Predefinição:NASDAQ
+Template:Image label small	Predefinição:Image label small
+Template:IYurophu	Predefinição:Mapa detalhado da Europa
+Template:S-ttl	Predefinição:S-ttl
+Template:S-bef	Predefinição:S-bef
+Template:Oppose	Predefinição:Discordo
+Template:Largest cities	Predefinição:Maiores cidades
+Template:Lang-ru	Predefinição:Lang-ru
+Template:URL	Predefinição:URL
+Template:Lower	Predefinição:Lower
+Template:Resize	Predefinição:Redimensionar
+Template:Lang-nl	Predefinição:Lang-nl
+Template:Country data Israel	Predefinição:Country data Israel
+Template:Country data South Korea	Predefinição:Country data Coreia do Sul
+Category:Amadolobha e-Netherlands	Categoria:Cidades dos Países Baixos
+Category:User sk	Categoria:Usuários sk
+Template:IncreaseNegative	Predefinição:Aumento negativo
+Category:User sk-N	Categoria:Usuário sk
+Category:User en-N	Categoria:Usuário en
+Template:N/a	Predefinição:N/a
+Template:Country data United Kingdom	Predefinição:Country data Reino Unido
+Category:Izifunda weMelika	Categoria:Estados dos Estados Unidos
+Wikipedia:Babel	Wikipédia:Babel
+Category:Umlando idaladala	Categoria:História da Antiguidade
+Category:INgilandi	Categoria:Inglaterra
+Template:Lang-it	Predefinição:Lang-it
+Leilani Leeane	Leilani Leeane
+Template:Country data Brazil	Predefinição:Country data Brasil
+Category:Izimpucuko	Categoria:Civilizações
+Category:Amazwe eAfrika	Categoria:Países de África
+Category:Ubezalwa ngo-1452	Categoria:Nascidos em 1452
+Template:Column-width	Predefinição:Column-width
+Category:User ru	Categoria:Usuários ru
+Category:User ru-3	Categoria:Usuário ru-3
+Category:Abongameli yaseNingizimu Afrika	Categoria:Presidentes da África do Sul
+Category:Ubefa ngo-1519	Categoria:Mortos em 1519
+Category:Ubezalwa ngo-1676	Categoria:Nascidos em 1676
+Template:En icon	Predefinição:((en))
+Template:Lang	Predefinição:Lang
+Category:Abapendi	Categoria:Pintores
+Template:Lang-sw	Predefinição:Lang-sw
+Category:Ubezalwa ngo-1483	Categoria:Nascidos em 1483
+Category:Ubezalwa ngo-1844	Categoria:Nascidos em 1844
+Category:Ubezalwa ngo-1873	Categoria:Nascidos em 1873
+Category:Ubezalwa 1928	Categoria:Nascidos em 1928
+Category:Ubezalwa ngo-1961	Categoria:Nascidos em 1961
+Category:Ubezalwa ngo-1972	Categoria:Nascidos em 1972
+Template:Afdb name	Predefinição:Afdb nome
+Template:As of	Predefinição:Desde
+Template:Twitter	Predefinição:Twitter
+Category:Abafileyo 1745	Categoria:Mortos em 1745
+Category:Ubefa ngo-1749	Categoria:Mortos em 1749
+Category:Abafileyo 1781	Categoria:Mortos em 1781
+Template:Main	Predefinição:Artigo principal
+Category:New York Isifunda	Categoria:Estado de Nova Iorque
+Category:Hawaii	Categoria:Havaí
+Template:IAFD name	Predefinição:IAFD nome
+Category:Felidae	Categoria:Felídeos
+Category:IBenini	Categoria:Benim
+Category:Ugu Emhlophe	Categoria:Costa do Marfim
+Template:Side box	Predefinição:Side box
+Category:Amazwe kwamazwe Ohlangeneyo	Categoria:Estados-membros da Organização das Nações Unidas
+Template:Citation/core	Predefinição:Citation/core
+Category:Abafileyo 1816	Categoria:Mortos em 1816
+Category:Abafileyo 1828	Categoria:Mortos em 1828
+Category:Abafileyo 1840	Categoria:Mortos em 1840
+Category:Abafileyo 1872	Categoria:Mortos em 1872
+Category:Ubefa ngo-1905	Categoria:Mortos em 1905
+Category:Ubefa ngo-1910	Categoria:Mortos em 1910
+Category:Abafileyo 1913	Categoria:Mortos em 1913
+Category:Abafileyo 1968	Categoria:Mortos em 1968
+Category:Abafileyo 2000	Categoria:Mortos em 2000
+Category:2001	Categoria:2001
+Category:2009	Categoria:2009
+Category:IZimbabwe	Categoria:Zimbabwe
+Category:IHolandi	Categoria:Holanda
+Template:DecreasePositive	Predefinição:Baixa positiva
+Template:Unbulleted list	Predefinição:Lista sem marcas
+Category:Ababhali womculo baseFulansi	Categoria:Compositores da França
+Category:AbAfrika baseningizimu	Categoria:Sul-africanos
+Category:Izintatheli isiNgisi	Categoria:Jornalistas do Reino Unido
+Category:Abafileyo 1933	Categoria:Mortos em 1933
+Category:IRhomani idaladala	Categoria:Roma Antiga
+AbeLungu	Raça caucasiana
+Category:Abongameli weMelika	Categoria:Presidentes dos Estados Unidos
+Category:Amazwe Caribbean	Categoria:Países do Caribe
+Category:Amazwe e-Osheaniya	Categoria:Países da Oceania
+Category:Amazwe eMelika Enyakatho	Categoria:Países da América do Norte
+Paradise Cay	Paradise Cay (Califórnia)
+Category:Izithelo	Categoria:Frutos
+Category:Amafilimu waseNingizimu Afrika	Categoria:Filmes da África do Sul
+Category:Izilimi weBotswana	Categoria:Línguas do Botsuana
+Category:Izifunda we-Afrika	Categoria:Regiões da África
+Category:ILondon	Categoria:Londres
+Category:Isilwane	Categoria:Animais
+Category:Amazwe eMelika eNingizimu	Categoria:Países da América do Sul
+Category:Amakoloni weSpeyini edlulile	Categoria:Antigos territórios espanhóis
+Category:IMelika Wenkaba	Categoria:América Central
+Template:MedalCompetition	Predefinição:MedalCompetition
+Category:Amadolobha eRiphabliki yaseNingizimu Afrika	Categoria:Cidades da África do Sul
+Category:Imidwebo nga-Leonardo da Vinci	Categoria:Pinturas de Leonardo da Vinci
+Category:Afrika Eningizimu	Categoria:África Austral
+Category:Afrika Enyakatho	Categoria:África do Norte
+Category:Afrika Empumalanga	Categoria:África Oriental
+Category:IMelika Enyakatho	Categoria:América do Norte
+Category:Ezingcolile ifilimu abadlali	Categoria:Estrelas pornográficas
+Category:I-Osheaniya	Categoria:Oceania
+Category:IYurobhu Enyakatho	Categoria:Europa do Norte
+Category:Amabhendi weMzansi	Categoria:Bandas da África do Sul
+The Prodigy	The Prodigy
+Category:Izilimi weZimbabwe	Categoria:Línguas do Zimbábue
+Category:IGoli	Categoria:Joanesburgo
+Category:Iziqongo eyurobhu	Categoria:Capitais da Europa
+Portal:Izilwane	Portal:Zoologia
+Template:Td	Predefinição:Td
+Template:FULLROOTPAGENAME	Predefinição:FULLROOTPAGENAME
+Category:Izinyuvesi weNingizimu Afrika	Categoria:Universidades da África do Sul
+Template:Convert/ft	Predefinição:Convert/ft
+Template:Convert/m	Predefinição:Convert/m
+Template:Convert/pround	Predefinição:Convert/pround
+Template:Convert/x/AonSoff	Predefinição:Convert/x/AonSoff
+Template:Lang-pl	Predefinição:Lang-pl
+Category:Izifunda wama-Netherlands	Categoria:Regiões dos Países Baixos
+Thokoza	Thokoza
+Trojany	Trojany
+Template:Yo icon	Predefinição:Yo icon
+Template:Lang-oc	Predefinição:Lang-oc
+Template:Lang-gd	Predefinição:Lang-gd
+Template:IPA audio link	Predefinição:IPA audio link
+Category:Vilnius	Categoria:Vilnius
+Template:Sister	Predefinição:Irmão
+Category:Abafundi weBalliol, Oxford	Categoria:Ex-alunos do Balliol College (Oxford)
+Category:Amazwe eMelika Wenkaba	Categoria:Países da América Central
+Category:Iziqhingi we-Afrika	Categoria:Ilhas da África
+Category:Izilimi seSotho-seTswana	Categoria:Línguas soto-setswana
+Category:Abadlali wama-Beatles	Categoria:Membros de The Beatles
+Template:Image label begin	Predefinição:Image label begin
+Category:Amadolobha	Categoria:Cidades
+Category:Izinyuvesi yombuso Ohlangeneyo	Categoria:Universidades da Inglaterra
+Category:Ubezalwa ngo-1946	Categoria:Nascidos em 1946
+Category:Amalokishi eRiphabliki waseNingizimu Afrika	Categoria:Townships na África do Sul
+Category:Ubezalwa ngo-1924	Categoria:Nascidos em 1924
+Category:Ukuzala ngo-1964	Categoria:Nascidos em 1964
+Template:Frac	Predefinição:Frac
+Template:Start date	Predefinição:Data de início
+Template:MedalBronze	Predefinição:MedalBronze
+Template:MedalSilver	Predefinição:MedalSilver
+Template:Largest cities of South Africa	Predefinição:Cidades mais populosas da África do Sul
+Template:P1	Predefinição:P1
+Template:Wayback	Predefinição:Wayback
+Template:Gauteng Province	Predefinição:Província de Gauteng
+Template:Sigfig	Predefinição:Sigfig
+Template:MedalCountry	Predefinição:MedalCountry
+Template:S-ach	Predefinição:S-ach
+Template:Longitem	Predefinição:Longitem
+Template:Dec to frac	Predefinição:Dec to frac
+Template:Xpda	Predefinição:Xpda
+Template:Significant figures/rnd	Predefinição:Sigfig/rnd
+Template:Style/IPA	Predefinição:Style/IPA
+Template:Style/yid	Predefinição:Style/yid
+Template:Xpd5op3p3p3c	Predefinição:Xpd5op3p3p3c
+Template:Xpd/url	Predefinição:Xpd/url
+Template:Xpd/w	Predefinição:Xpd/w
+Module:Yesno	Módulo:Yesno
+Module:Arguments	Módulo:Arguments
+Special:RecentChanges	Especial:Mudanças recentes
+Module:Math	Módulo:Math
+Module:InfoboxImage	Módulo:InfoboxImage
+Mya Mason	Mya Mason
+Hydie Waters	Hydie Waters
+Coco Brown	Coco Brown
+Saysa Ferraz	Saysa Ferraz
+Industrial and Mining Water Research Unit	Industrial and Mining Water Research Unit (IMWaRU)

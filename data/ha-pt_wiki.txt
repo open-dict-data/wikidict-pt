@@ -1,0 +1,539 @@
+Afirka	África
+Japan	Japão
+Norway	Noruega
+Ireland	República da Irlanda
+Hungariya	Hungria
+An Spàinn	Espanha
+Amurika	Estados Unidos
+Beljik	Bélgica
+Luksamburg	Luxemburgo
+Duniya	Terra
+Yan-adam	Homo sapiens
+Finland	Finlândia
+Sweden	Suécia
+Denmark	Dinamarca
+Poland	Polónia
+Lithuania	Lituânia
+Italiya	Itália
+Switzerland	Suíça
+Austriya	Áustria
+Greek	Grécia
+Turkiyya	Turquia
+Portugal	Portugal
+Turai	Europa
+Asiya	Ásia
+Amirka ta Arewa	América do Norte
+Wikipedia	Wikipédia
+Berlin	Berlim
+Airbus	Airbus
+Na'ura	Computador
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Paris
+Kenya	Quénia
+Ethiopia	Etiópia
+Zaki	Leão
+Faransa	França
+Esperanto	Esperanto
+Kare	Canis lupus familiaris
+Birtaniya	Reino Unido
+Kyanwa	Gato
+Sin	República Popular da China
+Kifi	Peixe
+Rasha	Rússia
+Teku	Mar
+São Paulo	São Paulo (cidade)
+Jamus	Alemanha
+Iceland	Islândia
+Istoniya	Estónia
+Jirgin sama	Avião
+Ɗaya	Um
+Biyu	Dois
+Uku	Três
+Huɗu	Quatro
+Biyar	Cinco
+Laitfiya	Letónia
+Ukraniya	Ucrânia
+Kazech	República Checa
+Slofakiya	Eslováquia
+Sloveniya	Eslovénia
+MOldufiniya	Moldávia
+Romainiya	Roménia
+Bulgairiya	Bulgária
+Masadoiniya	República da Macedónia
+Albaniya	Albânia
+Kroatiya	Croácia
+Azerbaijan	Azerbaijão
+Andorra	Andorra
+Cyprus	Chipre
+Georgia (country)	Geórgia
+Kazakystan	Cazaquistão
+Malta	Malta
+Monaco	Mónaco
+Montenegro	Montenegro
+Vatican	Vaticano
+San Marino	San Marino
+Indonesiya	Indonésia
+Afirka ta kudu	África do Sul
+Aljeriya	Argélia
+Uzbekistan	Uzbequistão
+Ruwa	Água
+Chile	Chile
+Isa Almasihu	Jesus
+Singafora	Singapura
+Ilmi	Ciência
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrein
+Armeniya	Arménia
+Serbiya	Sérvia
+Wata	Lua
+Santanbul	Istambul
+Asturaliya	Austrália
+Koriya ta Arewa	Coreia do Norte
+Kambodiya	Camboja
+Musulunci	Islão
+Rana	Sol
+Angela Merkel	Angela Merkel
+Timor-Leste	Timor-Leste
+Duniyoyi	Planeta
+Cadi	Chade
+Indiya	Índia
+Mangolia	Mongólia
+Dabba	Animalia
+Shuka	Plantae
+Kaza	Gallus gallus domesticus
+Jersey	Jersey
+Aladu	Sus domesticus
+Iran	Irão
+Irak	Iraque
+Isra'ila	Israel
+Yemen	Iémen
+Jordan	Jordânia
+Kyrgystan	Quirguistão
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Líbano
+Maldives	Maldivas
+Maleziya	Malásia
+Myanmar	Myanmar
+Nepal	Nepal
+Oman	Omã
+Pakistan	Paquistão
+Qatar	Catar
+Saudiyya	Arábia Saudita
+Sri Lanka	Sri Lanka
+Siriya	Síria
+Tajikistan	Tajiquistão
+Thailand	Tailândia
+Turkmenistan	Turquemenistão
+Taraiyar larabawa	Emirados Árabes Unidos
+Vietnam	Vietname
+Koriya ta Kudu	Coreia do Sul
+Da Simpsons	Os Simpsons
+Afghanistan	Afeganistão
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Butão
+Brunei	Brunei
+Filipin	Filipinas
+Togo	Togo
+Benin	Benim
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	República Democrática do Congo
+Gine	Guiné
+Kameru	Camarões
+Libya	Líbia
+Muritaniya	Mauritânia
+Nijar	Níger
+Nijeriya	Nigéria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Júlio César
+Sudan	Sudão
+Majalisar Ɗinkin Duniya	Organização das Nações Unidas
+Kofi Annan	Kofi Annan
+Montevideo	Montevidéu
+Biri	Macaco
+Augustus	Augusto
+Gibraltar	Gibraltar
+Mota	Automóvel
+Buenos Aires	Buenos Aires
+Abarba	Ananás
+Zinedine Yazid Zidane	Zinédine Zidane
+Baibûl	Bíblia
+Gaskiyan Cocin Isa	Verdadeira Igreja de Jesus
+Concepción, Chile	Concepción (Chile)
+Końskowola	Końskowola
+Maciji	Serpente
+Kimiya	Química
+Lima	Lima
+Santiago de Chile	Santiago (Chile)
+Osasco	Osasco
+Dong Hoi Filin	Aeroporto de Dong Hoi
+Curitiba	Curitiba
+Confucius	Confúcio
+Kiristancìì	Cristianismo
+Nahiya	Continente
+Tsuntsu	Aves
+Main Page	Wikipédia:Página principal
+Saratov	Saratov
+Bus	Ônibus
+Åland	Åland
+Makkah	Meca
+Canary Islands	Canárias
+Category:Candidates for speedy deletion	Categoria:!Páginas para eliminação rápida
+Sahara	Deserto do Saara
+Kyautar Nobel	Prémio Nobel
+Sauro	Culicidae
+Raƙumi	Camelo
+Giwa	Elefante
+Ƙudan zuma	Anthophila
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Categoria:França
+Hakkokin Yan-adam	Direitos humanos
+Hong Kong	Hong Kong
+Rio de Janeiro	Rio de Janeiro (cidade)
+Addini	Religião
+Muhammad	Maomé
+Isle of Man	Ilha de Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Árvore
+APACHE	Servidor Apache
+Lissafi	Número
+Masara	Milho
+Ƙasashen Duniya	Lista de Estados soberanos
+Dabbar beya	Ursidae
+Sankara	Cancro
+Kurãme	Surdez
+Polio	Poliomielite
+Makaman nukiliya	Bomba nuclear
+Macau	Macau
+Raƙumin dawa	Girafa
+Template:Link FA	Predefinição:Link FA
+Wikipedia:Community Portal	Wikipédia:Esplanada
+Jimina	Avestruz
+Tara	Nove
+Jaki	Equus africanus asinus
+Tuje	Abetarda
+Jamhuriyar Sin	Ilha Formosa
+Bakwai	Sete
+Takwas	Oito
+Dabbar rendiya	Cervidae
+Tafarnuwa	Alho
+Shida	Seis
+Moshchena	Mostchena
+Paltoga	Paltoga
+Selena	Selena
+Goma	Dez
+Guernsey	Guernsey
+Kahuhu	Poupa-eurasiática
+Kyankyaso	Barata
+Galantoyi	Cegonha-branca
+Kada	Crocodylia
+Kurciya	Rola
+Zaƙami	Datura stramonium
+Hausawa	Hauçás
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	Dez Mandamentos
+Damisa	Leopardo
+Ido	Língua ido
+Larabawa	Árabes
+Madinah	Medina
+Gyaɗa	Amendoim
+Ɗari	Cem
+Hawainiya	Camaleão
+Firinji	Frigorífico
+Khomeini	Ruhollah Khomeini
+Ɗaɗɗoya	Manjericão-de-folha-larga
+Zirin Gaza	Faixa de Gaza
+Radio Studio 54 Network	Rádio Studio 54 Network
+Ashirin	Vinte
+Arbaʼin	Quarenta
+Palestin autonomija	Autoridade Nacional Palestiniana
+Talatin	Trinta
+Dubu	Mil
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Triângulo das Bermudas
+Dabgi	Orictéropo
+Kotun Shari'ar Miyagun Laifuka	Corte Penal Internacional
+Template:Commonscat	Predefinição:Commonscat
+Afirnawan Amirka	Afro-americano
+Ƙwayoyin cuta na Ebola	Doença por vírus Ébola
+Hausa	Língua haúça
+Ali Khamenei	Ali Khamenei
+Sittin	Sessenta
+Tsamiya	Tamarindus
+Kuɓewa	Quiabo
+Rogo	Manihot esculenta
+Karkandan	Rinoceronte-negro
+Cutar murar aladu	Pandemia de gripe A de 2009
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Abbott (bakin dutse)	Abbot (cratera)
+Abbe (bakin dutse)	Abbe (cratera)
+Tattalin arzikin duniya	Crise financeira
+Dila	Chacal-dourado
+Balbela	Garça-vaqueira
+Rimi	Mafumeira
+Zamfara	Zamfara (estado)
+Zariya	Zaria
+Zirman	Mamona
+Kuka	Adansonia digitata
+Ɓauna	Búfalo-africano
+Kwari	Musca domestica
+Gweba	Goiabeira
+Zabo	Numididae
+Dage	Ratel
+Herzegovina	Herzegovina
+CFA franc ( sefar yammaci Afirka)	Franco CFA
+Kaduna	Kaduna (cidade)
+Gwaggon biri	Babuíno-anúbis
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Testudinata
+Gwaza	Taro
+Soso	Luffa
+Zogale	Acácia-branca
+Casaʼin	Noventa
+Jibda	Civeta-africana
+Dumya	Pato-ferrão
+Ƙirƙa	Chlorocebus aethiops
+Batsiya	Ourebia ourebi
+43 (adadan)	Quarenta e três
+Zawo	Aba-aba
+Shamuwa	Cegonha-de-abdim
+Baba	Indigofera
+Dadis Mousa Camara	Moussa Dadis Camara
+Agadez	Agadèz
+Mazo	Bauala
+Marek Grechuta	Marek Grechuta
+Ajami	Escrita ajami
+Gauraka	Grou-coroado
+Baƙurna	Cephalophus rufilatus
+Kumurci	Naja nigricollis
+Matiyu	Evangelho segundo Mateus
+Kwara	Kwara (estado)
+Julia Savicheva	Yulia Savicheva
+Gwamki	Palanca-vermelha
+Tan Son Nhat Filin	Aeroporto Internacional Tan Son Nhat
+Gaiwa	Protopterus annectens
+Babba da jaka	Marabu
+Labarin kasa na Nijeriya	Geografia da Nigéria
+Waaken Santanbul	Guandu
+Jihar Katsina	Katsina (estado)
+Danya	Marula
+Kano	Kano (estado)
+Ybe	Yobe (estado)
+Tamanin	Oitenta
+Sabaʼin	Setenta
+Hamsin	Cinquenta
+Yanyawa	Vulpes pallida
+Wushi-wushi	Marreca-caneleira
+Ƙirinjijiya	Irerê
+Gada	Sylvicapra grimmia
+Da Nang Filin	Aeroporto Internacional de Da Nang
+VietJet Air	VietJet Air
+51 (adadan)	Cinquenta e um
+Ca Mau Filin	Aeroporto de Ca Mau
+Help:Contents	Ajuda:Página principal
+Alan A'Court	Alan A'Court
+Katsina	Katsina (cidade)
+Kabarai	Tecelão-malhado
+Sisita	Peito-celeste-de-face-carmesim
+Cilakowa	Bico-de-serra-cinzento
+Jetstar Pacific Airlines	Pacific Airlines
+Aya	Cyperus esculentus
+Category:Turkiyya	Categoria:Turquia
+Category:Afirka ta kudu	Categoria:África do Sul
+Category:Nijeriya	Categoria:Nigéria
+Category:Vietnam	Categoria:Vietname
+Category:Tsuntsu	Categoria:Aves
+Category:Shuka	Categoria:Plantas
+Category:Addini	Categoria:Religião
+Category:Duniya	Categoria:Terra
+Hausa Bakwai	Reinos hauçás
+Gafiya	Cricetomys gambianus
+Karfasa	Tilapia
+LGBT hakkin a Afrika	Homossexualidade na África
+Shaho	Águia
+Tsada	Ximenia americana
+Kimba	Pimenta-da-áfrica
+Riɗi	Gergelim
+Category:Stubs	Categoria:!Esboços
+Edmond Debeaumarché	Edmond Debeaumarché
+Rukuɓu	Caruru (planta)
+Template:Tl	Predefinição:Ligação para predefinição
+Template:Userbox	Predefinição:Userbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Category:Ƙasā̀shē	Categoria:Países
+Wikipedia:Administrators	Wikipédia:Administradores
+Wikipedia:Vital 100	Wikipédia:Lista dos artigos que toda Wikipédia deve ter/Nível 2
+Misra	Egito
+Yawan Jama'a, Yana da Muhimmanci	Population Matters
+Template:Bot	Predefinição:Robô
+Kanada	Canadá
+Category:Slovakia	Categoria:Eslováquia
+Category:Tūrai	Categoria:Europa
+Template:Documentation	Predefinição:Documentação
+Wikipedia:Community portal	Wikipédia:Portal comunitário
+Category:User languages	Categoria:!Wikipedistas por idioma
+Sung Jae-ki	Sung Jae-ki
+Template:Softredirect	Predefinição:Pseudorredirecionamento
+Template:Delete	Predefinição:ER
+Category:Wikipedia	Categoria:Wikipédia
+Wikipedia:General disclaimer	Wikipédia:Aviso geral
+Wikipedia:Statistics	Wikipédia:Estatísticas
+Template:Navbox	Predefinição:Navbox
+Template:=	Predefinição:=
+Template:Navbar	Predefinição:Tnavbar
+Template:Unicode	Predefinição:Unicode
+Template:Col-break	Predefinição:Col-break
+Template:Col-begin	Predefinição:Col-begin
+Wikipedia:Vital articles	Wikipédia:Artigos essenciais
+Category:Afirka	Categoria:África
+Category:Adadan	Categoria:Números
+Template:Babel	Predefinição:Babel
+Template:Reflist	Predefinição:Referências
+Template:Stub	Predefinição:Esboço
+Template:User af-1	Predefinição:User af-1
+Template:User ar-1	Predefinição:User ar-1
+Template:User ast-1	Predefinição:User ast-1
+Template:User az	Predefinição:User az
+Template:User bar-1	Predefinição:User bar-1
+Template:See also	Predefinição:VT
+Template:User da-2	Predefinição:User da-2
+Template:User da	Predefinição:User da
+Template:User ca-1	Predefinição:User ca-1
+Template:User be-2	Predefinição:User be-2
+Template:User da-1	Predefinição:User da-1
+Template:User cs-1	Predefinição:User cs-1
+Template:User bg-1	Predefinição:User bg-1
+Template:User de	Predefinição:User de
+Template:User de-1	Predefinição:User de-1
+Template:User el	Predefinição:User el
+Template:User de-3	Predefinição:User de-3
+Template:User en-3	Predefinição:User en-3
+Template:User el-1	Predefinição:User el-1
+Template:User en-1	Predefinição:User en-1
+Template:User en-2	Predefinição:User en-2
+Template:User en-4	Predefinição:User en-4
+Template:User en	Predefinição:User en
+Template:User de-2	Predefinição:User de-2
+Template:User tr-2	Predefinição:User tr-2
+Template:User tr	Predefinição:User tr
+Category:Asiya	Categoria:Ásia
+Category:User uk	Categoria:Usuários uk
+Category:User uk-N	Categoria:Usuário uk
+Template:Mod	Predefinição:Mod
+Template:SIL	Predefinição:ISO639-3Documentação
+Template:User uk	Predefinição:User uk
+Template:ITA	Predefinição:ITA
+Template:Wikivar	Predefinição:Wikivar
+Template:Country showdata	Predefinição:Country showdata
+Template:Image label	Predefinição:Image label
+Template:Ambox	Predefinição:Ambox
+Template:Infobox Country	Predefinição:Info/País
+Template:Documentation/docname	Predefinição:Documentação/nomedoc
+Template:Tmbox	Predefinição:Tmbox
+Template:Cite journal	Predefinição:Citar periódico
+Category:User en-4	Categoria:Utilizador en-4
+Category:User en	Categoria:Usuários en
+Category:User en-2	Categoria:Usuário en-2
+Template:Infobox	Predefinição:Info
+Template:Cite web	Predefinição:Citar web
+Template:Ombox	Predefinição:Ombox
+Template:Country data	Predefinição:Dados de país
+Template:Pp-template	Predefinição:Pp-template
+Template:Mbox templates	Predefinição:Mbox templates
+Template:IPA	Predefinição:AFI
+Category:Amurika	Categoria:América
+Template:MONTHNAME	Predefinição:MONTHNAME
+Template:Namespace detect	Predefinição:Namespace detect
+Template:Country data Nigeria	Predefinição:Country data Nigéria
+Template:Image label end	Predefinição:Image label end
+Template:Tlx	Predefinição:Tlx
+Template:Purge	Predefinição:Purgar
+Template:Sportivo	Predefinição:Info/esporte/atleta
+Template:Country flag2	Predefinição:Country flag2
+Kungiyar Agaji Ta Red Cross Ta Duniya	Comitê Internacional da Cruz Vermelha
+Template:Image label small	Predefinição:Image label small
+Template:Tūrai	Predefinição:Mapa detalhado da Europa
+Template:Pp-meta	Predefinição:Pp-meta
+Template:Mbox	Predefinição:Mbox
+Template:Disambig	Predefinição:Desambiguação
+Template:Divbox	Predefinição:Caixa
+Template:Dated maintenance category	Predefinição:Categoria de manutenção datada
+Category:User az	Categoria:Usuários az
+Category:User be	Categoria:Usuários be
+Category:User cs-1	Categoria:Usuário cs-1
+Category:User da-1	Categoria:Usuário da-1
+Category:User ar-1	Categoria:Usuário ar-1
+Category:User be-2	Categoria:Usuário be-2
+Category:User da-2	Categoria:Usuário da-2
+Category:User tr-2	Categoria:Usuário tr-2
+Category:User af	Categoria:Usuários af
+Category:User af-1	Categoria:Usuário af-1
+Category:User als	Categoria:Usuários als
+Category:User als-1	Categoria:Usuário als-1
+Category:User ar	Categoria:Usuários ar
+Category:User ast	Categoria:Usuários ast
+Category:User ast-1	Categoria:Usuário ast-1
+Category:User az-N	Categoria:Usuário az
+Category:User bar	Categoria:Usuários bar
+Category:User bar-1	Categoria:Usuário bar-1
+Category:User bg	Categoria:Usuários bg
+Category:User bg-1	Categoria:Usuário bg-1
+Category:User ca	Categoria:Usuários ca
+Category:User ca-1	Categoria:Usuário ca-1
+Category:User cs	Categoria:Usuários cs
+Category:User da	Categoria:Usuários da
+Category:User de	Categoria:Usuários de
+Category:User de-2	Categoria:Usuário de-2
+Category:User de-3	Categoria:Usuário de-3
+Category:User el	Categoria:Usuários el
+Category:User el-1	Categoria:Usuário el-1
+Category:User el-N	Categoria:Usuário el
+Category:User en-3	Categoria:Usuário en-3
+Category:User en-N	Categoria:Usuário en
+Template:Nastaliq	Predefinição:Nastaliq
+Category:User tr	Categoria:Usuários tr
+Category:User tr-N	Categoria:Usuário tr
+Category:Bishiya	Categoria:Árvores
+Template:As of	Predefinição:Desde
+Category:Kudi	Categoria:Moedas
+Template:DecreasePositive	Predefinição:Baixa positiva
+Category:Ingila kwallon kafa players	Categoria:Futebolistas da Inglaterra
+Category:Kifi	Categoria:Peixes
+Category:Amfani	Categoria:Frutos
+Category:Dabba	Categoria:Animais
+Kabewa	Abobrinha
+Iska	Ar
+Template:FULLROOTPAGENAME	Predefinição:FULLROOTPAGENAME
+Template:Flag	Predefinição:Flag
+Trojany	Trojany
+Doya	Inhame
+Template:Image label begin	Predefinição:Image label begin
+Template:Ns has subpages	Predefinição:Ns has subpages
+Template:Ombox/core	Predefinição:Ombox/core
+Category:User en-1	Categoria:Usuário en-1
+Category:User de-1	Categoria:Usuário de-1
+Category:User da-N	Categoria:Usuário da
+Template:Start date	Predefinição:Data de início
+Module:Citation/CS1/Whitelist	Módulo:Citation/CS1/Whitelist
+Malan boɗe ido	Borboleta
+Template:Tmbox/core	Predefinição:Tmbox/core
+Special:RecentChanges	Especial:Mudanças recentes
+Module:Citation/CS1	Módulo:Citation/CS1
+Module:Citation/CS1/Configuration	Módulo:Citation/CS1/Configuration
+Module:InfoboxImage	Módulo:InfoboxImage
+Module:Infobox	Módulo:Infobox

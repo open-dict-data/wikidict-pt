@@ -1,0 +1,3909 @@
+આફ્રિકા	África
+જાપાન	Japão
+દક્ષિણ અમેરિકા	América do Sul
+નોર્વે	Noruega
+વેલ્સ	País de Gales
+નોર્ધન આયર્લેન્ડ	Irlanda do Norte
+હંગેરી	Hungria
+સ્પેન	Espanha
+સંયુક્ત રાજ્ય અમેરિકા	Estados Unidos
+બેલ્જિયમ	Bélgica
+લક્ઝેમ્બર્ગ	Luxemburgo
+બ્રહ્માંડ	Universo
+પૃથ્વી	Terra
+મનુષ્ય	Homo sapiens
+ફીનલેંડ	Finlândia
+સ્વિડન	Suécia
+પોલેંડ	Polónia
+લિથુઆનિયા	Lituânia
+ઈટલી	Itália
+સ્વિત્ઝરલેન્ડ	Suíça
+ઑસ્ટ્રિયા	Áustria
+ગ્રીસ	Grécia
+તુર્કસ્તાન	Turquia
+પોર્ટુગલ	Portugal
+યુરોપ	Europa
+એશિયા	Ásia
+ઉત્તર અમેરિકા	América do Norte
+ઍન્ટાર્કટિકા	Antártida
+વિકિપીડિયા	Wikipédia
+નેધરલેંડ	Países Baixos
+PHP (પ્રોગ્રામિંગ ભાષા)	PHP
+એર બસ	Airbus
+સંગણક	Computador
+ઇન્ટરનેટ	Internet
+ઉરુગ્વે	Uruguai
+કમ્પ્યુટર પ્રિન્ટર	Impressora
+લંડન	Londres
+એલેક્ઝાન્ડ્રિયા	Alexandria
+સફરજન	Maçã
+પૅરિસ	Paris
+ગૂગલ	Google
+મેક્સિકો	México
+સોમવાર	Segunda-feira
+જાન્યુઆરી	Janeiro
+ફેબ્રુઆરી	Fevereiro
+માર્ચ	Março
+મંગળ (ગ્રહ)	Marte (planeta)
+કેન્યા	Quénia
+ઇથિયોપિયા	Etiópia
+ઘાના	Gana
+એપ્રિલ	Abril
+મે	Maio
+જૂન	Junho
+જુલાઇ	Julho
+ઓગસ્ટ	Agosto
+સપ્ટેમ્બર	Setembro
+ઓક્ટોબર	Outubro
+નવેમ્બર	Novembro
+ડિસેમ્બર	Dezembro
+મંગળવાર	Terça-feira
+બુધવાર	Quarta-feira
+ગુરુવાર	Quinta-feira
+શુક્રવાર	Sexta-feira
+શનિવાર	Sábado
+રવિવાર	Domingo
+એશિયાઇ સિંહ	Leão
+ફ્રાન્સ	França
+યુનાઇટેડ કિંગડમ	Reino Unido
+ચીન	República Popular da China
+માછલી	Peixe
+ઇથેનોલ	Etanol
+મદ્યાર્ક યુક્ત પીણું	Bebida alcoólica
+બ્રાઝિલ	Brasil
+રશિયા	Rússia
+કાળો સમુદ્ર	Mar Negro
+અલાબામા	Alabama
+ક્વિબેક	Quebec
+વિકિમીડિયા ફાઉન્ડેશન	Wikimedia
+જીમ્મી વેલ્સ	Jimmy Wales
+જર્મની	Alemanha
+બેલારુસ	Bielorrússia
+જર્મન ભાષા	Língua alemã
+આઈસલેંડ	Islândia
+ઈશ્વર	Deus
+ઈસ્ટોનિયા	Estónia
+શનિ (ગ્રહ)	Saturno (planeta)
+૧	Um
+૦ (શૂન્ય)	0 (número)
+લાટવિયા	Letónia
+યુક્રેન	Ucrânia
+સ્લોવાકિયા	Eslováquia
+સ્લોવેનિયા	Eslovénia
+મોલ્દોવા	Moldávia
+રોમાનિયા	Roménia
+બલ્ગેરિયા	Bulgária
+મેસેડોનિયા	República da Macedónia
+આલ્બેનિયા	Albânia
+ક્રોએશિયા	Croácia
+અઝેરબીજાન	Azerbaijão
+સાયપ્રસ	Chipre
+જ્યોર્જીયા (દેશ)	Geórgia
+કઝાકિસ્તાન	Cazaquistão
+માલ્ટા	Malta
+મોનૅકો	Mónaco
+મોન્ટેનીગ્રો	Montenegro
+સાન મૅરિનો	San Marino
+ઍફીલ ટાવર	Torre Eiffel
+ઇન્ટેલ કોર્પોરેશન	Intel Corporation
+કોમ્પ્યુટર કીબોર્ડ	Teclado (informática)
+જાવા (પ્રોગ્રામિંગ ભાષા)	Java (linguagem de programação)
+ઈંડોનેશિયા	Indonésia
+મોઝાર્ટ	Wolfgang Amadeus Mozart
+દક્ષિણ આફ્રિકા	África do Sul
+વિકિસ્રોત	Wikisource
+ઉઝબેકિસ્તાન	Uzbequistão
+પાણી	Água
+ચીલી	Chile
+ઇસુ	Jesus
+ગૅલિલિયો ગૅલિલિ	Galileu Galilei
+બુધ (ગ્રહ)	Mercúrio (planeta)
+ઇતિહાસ	História
+શુક્ર (ગ્રહ)	Vénus (planeta)
+ભાષા	Linguagem
+પ્રેમ	Amor
+આકાશગંગા	Galáxia
+ગુરુ (ગ્રહ)	Júpiter (planeta)
+યુરેનસ (ગ્રહ)	Urano (planeta)
+નૅપ્ચ્યુન (ગ્રહ)	Netuno (planeta)
+ખગોળશાસ્ત્ર	Astronomia
+સિંગાપુર	Singapura
+વિજ્ઞાન	Ciência
+પ્લૂટો	Plutão
+ફ્રી સૉફ્ટવૅર	Software livre
+લીચેસ્ટેઈન	Liechtenstein
+રમત-ગમત	Desporto
+ફેસબુક	Facebook
+જુલિયન અસાંજે	Julian Assange
+બીજું વિશ્વ યુદ્ધ	Segunda Guerra Mundial
+ભ્રષ્ટાચાર	Corrupção
+વોડકા	Vodca
+ઉબુન્ટુ (ઓપરેટિંગ સિસ્ટમ)	Ubuntu
+ગણિત	Matemática
+બહેરીન	Bahrein
+આર્મેનિયા	Arménia
+ચંદ્ર	Lua
+ઑસ્ટ્રેલિયા	Austrália
+ભૌતિકશાસ્ત્ર	Física
+આર્જેન્ટીના	Argentina
+પેરુ (દેશ)	Peru
+જીવવિજ્ઞાન	Biologia
+અજાણી ઊડતી વસ્તુ	Objeto voador não identificado
+ઉત્તર કોરિયા	Coreia do Norte
+કમ્બોડીયા	Camboja
+કુરાન	Alcorão
+ડાયનાસોર	Dinossauros
+પ્રાણીશાસ્ત્ર	Zoologia
+ઇસ્લામ	Islão
+વર્લ્ડ વાઈડ વેબ	World Wide Web
+સ્ત્રી	Mulher
+કોમ્પ્યુટર વાયરસ	Vírus de computador
+હિરોશિમા અને નાગાસાકી પરનો અણુ હુમલો	Bombardeamentos de Hiroshima e Nagasaki
+મિલાન	Milão
+લીંબુ	Limão
+કેળાં	Banana
+ફૂલ	Flor
+માઉન્ટ એવરેસ્ટ	Monte Everest
+શહેર	Cidade
+નેપોલિયન બોનાપાર્ટ	Napoleão Bonaparte
+સૂર્ય	Sol
+લૂઈ પાશ્ચર	Louis Pasteur
+પ્રકાશવર્ષ	Ano-luz
+ગામ	Aldeia
+સૂર્યમંડળ	Sistema Solar
+ચેમ્પ્સ-એલીસીસ (પેરિસ)	Champs-Élysées
+ઉદકજન	Hidrogénio
+હીલિયમ	Hélio
+નર્ક	Inferno
+વિકિમીડિયા કૉમન્સ	Wikimedia Commons
+લિથિયમ	Lítio
+બેરિલિયમ	Berílio
+દિવસ	Dia
+પૂર્વ તિમોર	Timor-Leste
+વર્ષ	Ano
+ઓસ્લો	Oslo
+કૃષ્ણ વિવર	Buraco negro
+સિરસ (વામન ગ્રહ)	Ceres (planeta anão)
+હૌમેયા (વામન ગ્રહ)	Haumea
+મેકમેક (વામન ગ્રહ)	Makemake
+બોરોન	Boro
+કાર્બન	Carbono
+નત્રલવાયુ	Azoto
+પ્રાણવાયુ (ઑક્સીજન)	Oxigénio
+ગ્રહ	Planeta
+સંગીત	Música
+ઉષ્ણતામાપક	Termômetro
+ફ્લોરિન	Flúor
+નિયોન	Néon
+ચૅડ	Chade
+ક્ષારાતુ	Sódio
+ઉત્તર	Norte
+મેગ્નેશિયમ	Magnésio
+સ્ફટયાતુ	Alumínio
+દક્ષિણ	Sul
+ભારત	Índia
+સિલિકોન	Silício
+ફ્રાંસીયમ	Frâncio
+ફોસ્ફરસ	Fósforo
+લોખંડ	Ferro
+પશ્ચિમ	Oeste
+ગંધક	Enxofre
+સમોઆ	Samoa
+નીરજી	Cloro
+વિલિયમ શેક્સપીયર	William Shakespeare
+આર્ગોન	Árgon
+નૌરુ	Nauru
+પોટેશિયમ	Potássio
+કેલ્શિયમ	Cálcio
+સીસું	Chumbo
+મંગોલિયા	Mongólia
+સ્કેન્ડિયમ	Escândio
+ટાઇટેનિયમ	Titânio
+વેનેઝુએલા	Venezuela
+ચેસ	Xadrez
+વેનેડિયમ	Vanádio
+વર્ણાતુ	Crômio
+ઘોડો	Equus ferus caballus
+હથિયારો	Arma
+પ્રાણી	Animalia
+સુરીનામ	Suriname
+મેંગેનિઝ	Manganês
+ગુયાના	Guiana
+કલા	Arte
+ઈક્વેડોર	Equador
+રિનીયમ	Rênio
+કોલમ્બિયા	Colômbia
+કોબાલ્ટ	Cobalto
+ટંગસ્ટન	Tungstênio
+નિકલ	Níquel
+બૌદ્ધ ધર્મ	Budismo
+બોલીવિયા	Bolívia
+ઓસ્મીયમ	Ósmio
+તાંબુ	Cobre
+ટ્રિનિદાદ અને ટોબેગો	Trinidad e Tobago
+જસત	Zinco
+ન્યૂ હેમ્પશાયર	Nova Hampshire
+લિઓનાર્ડો દ વિન્ચી	Leonardo da Vinci
+ગૂગલ ક્રોમ	Google Chrome
+હોન્ડુરાસ	Honduras
+હૈતી	Haiti
+ઈરાન	Irão
+ઈરાક	Iraque
+શાણપણ	Sapiência
+ઈઝરાયલ	Israel
+પનામા	Panamá
+યેમેન	Iémen
+જૉર્ડન	Jordânia
+કિર્ગિસ્તાન	Quirguistão
+કુવૈત	Kuwait
+લાઓસ	Laos
+લેબેનાન	Líbano
+માલદીવ્સ	Maldivas
+અમેરિકા	América
+મલેશિયા	Malásia
+બર્મા	Myanmar
+નેપાળ	Nepal
+ઓમાન	Omã
+પાકિસ્તાન	Paquistão
+જેમ્સ બોન્ડ	James Bond
+કતાર (અરબસ્તાન)	Catar
+સાઉદી અરેબિયા	Arábia Saudita
+શ્રીલંકા	Sri Lanka
+સ્ટાલિન	Josef Stalin
+સિરિયા	Síria
+પ્લેટો	Platão
+ગેલિયમ	Gálio
+તાજિકિસ્તાન	Tajiquistão
+ચીની ગણતંત્ર	República da China
+યુ ટ્યુબ	YouTube
+જર્મેનિયમ	Germânio
+એરિસ્ટોટલ	Aristóteles
+થાઇલેન્ડ	Tailândia
+સોમલ	Arsênio
+તુર્કમેનિસ્તાન	Turquemenistão
+સેલિનીયમ	Selênio
+ઈરિડીયમ	Irídio
+બ્રોમિન	Bromo
+પ્લેટિનમ	Platina
+વિયેતનામ	Vietname
+ચાર્લી ચૅપ્લિન	Charlie Chaplin
+દક્ષિણ કોરિયા	Coreia do Sul
+ક્રિપ્ટોન	Crípton
+અફઘાનિસ્તાન	Afeganistão
+રુબિડીયમ	Rubídio
+સોનું	Ouro
+સુએઝ નહેર	Canal de Suez
+બાંગ્લાદેશ	Bangladesh
+સોક્રેટિસ	Sócrates
+ભૂતાન	Butão
+બ્રુનેઈ	Brunei
+ટાન્ઝાનિયા	Tanzânia
+પારો	Mercúrio (elemento químico)
+ફીલીપાઈન્સ	Filipinas
+થેલીયમ	Tálio
+આઇઝેક ન્યુટન	Isaac Newton
+આલ્બર્ટ આઇન્સ્ટાઇન	Albert Einstein
+સ્ટ્રોન્શિયમ	Estrôncio
+ઈટ્રીયમ	Ítrio
+બિસ્મથ	Bismuto
+ટોગો	Togo
+ટ્યુનિશિયા	Tunísia
+બેઇજિંગ	Pequim
+બેનિન	Benim
+પોલોનીયમ	Polônio
+એસ્ટાટીન	Ástato
+મહાત્મા ગાંધી	Mahatma Gandhi
+મડાગાસ્કર	Madagáscar
+સ્ટુટગાર્ટ	Estugarda
+નાઈજર	Níger
+નાઈજેરિયા	Nigéria
+ચાર્લ્સ ડાર્વિન	Charles Darwin
+ઝિર્કોનિયમ	Zircônio
+નાયોબિયમ	Nióbio
+જવાહરલાલ નેહરુ	Jawaharlal Nehru
+જુલિયસ સીઝર	Júlio César
+સુદાન	Sudão
+સ્વાઝીલેન્ડ	Suazilândia
+મેઘધનુષ	Arco-íris
+મોલિબ્ડેનમ	Molibdênio
+ટેક્નેશિયમ	Tecnécio
+ચયાપચય	Metabolismo
+નરેન્દ્ર મોદી	Narendra Modi
+ગુજરાત	Gujarate
+ઉત્ક્રાંતિ	Evolução
+સંયુક્ત રાષ્ટ્રસંઘ	Organização das Nações Unidas
+અમદાવાદ	Ahmedabad
+ભૂગોળ	Geografia
+મગજ	Cérebro
+સંજ્ઞા	Substantivo
+રુથેનિયમ	Rutênio
+રોડિયમ	Ródio
+પલેડિયમ	Paládio
+ચાંદી	Prata
+કેડમિયમ	Cádmio
+ઈંડિયમ	Índio (elemento químico)
+ટીન	Estanho
+યુરેનિયમ	Urânio
+એંટિમની	Antimônio
+ટેલુરિયમ	Telúrio
+પ્લુટોનીયમ	Plutónio
+આયોડિન	Iodo
+નેપ્ચ્યુનીયમ	Neptúnio
+ઝેનોન	Xenônio
+સીસીયમ	Césio
+પ્રોટેક્ટિનીયમ	Protactínio
+બેરિયમ	Bário
+થોરીયમ	Tório
+હાફનીયમ	Háfnio
+એક્ટિનીયમ	Actínio
+ટેન્ટેલમ	Tântalo (elemento químico)
+રેડિયમ	Rádio (elemento químico)
+રેડૉન	Rádon
+ઈન્દિરા ગાંધી	Indira Gandhi
+જામનગર	Jamnagar
+મુંબઈ	Bombaim
+આંધ્ર પ્રદેશ	Andra Pradexe
+અરુણાચલ પ્રદેશ	Arunachal Pradesh
+આસામ	Assam
+બિહાર	Bihar
+છત્તીસગઢ	Chhattisgarh
+ગોઆ	Goa
+હરિયાણા	Haryana
+હિમાચલ પ્રદેશ	Himachal Pradesh
+જમ્મુ અને કાશ્મીર	Jammu e Caxemira
+ઝારખંડ	Jharkhand
+કર્ણાટક	Karnataka
+કેરળ	Querala
+મધ્ય પ્રદેશ	Madhya Pradesh
+યુસૈન બોલ્ટ	Usain Bolt
+મહારાષ્ટ્ર	Maharashtra
+મણિપુર	Manipur
+મેઘાલય	Meghalaya
+બ્રુસ સ્પ્રિન્ગસ્ટીન	Bruce Springsteen
+રુથરફોર્ડીયમ	Rutherfórdio
+ડૂબનીયમ	Dúbnio
+સીબોર્ગીયમ	Seabórgio
+હિંદ મહાસાગર	Oceano Índico
+કેરેબિયન સાગર	Mar do Caribe
+બોહ્રીયમ	Bóhrio
+હેસીયમ	Hássio
+માઈટનિરીયમ	Meitnério
+ડાર્મસ્ટેડીયમ	Darmstácio
+રેન્ટજિનીયમ	Roentgênio
+કોપરનિસીયમ	Copernício
+ધ બિટલ્સ	The Beatles
+શિયાળો	Inverno
+ઉનાળો	Verão
+સમપ્રકાશીય ઘટના કે વિષુવકાલ	Equinócio
+ફિલાડેલ્ફિયા, પેન્સિલવેનિયા	Filadélfia
+કોલકાતા	Calcutá
+ચેન્નઈ	Chennai
+દિલ્હી	Deli
+ઢાકા	Daca
+બેંગલોર	Bangalore
+પશ્ચિમ બંગાળ	Bengala Ocidental
+હૈદરાબાદ	Hyderabad (Andhra Pradesh)
+ઇસ્લામાબાદ	Islamabad
+ત્રિપુરા	Tripura
+વાંદરો	Macaco
+સિરીયમ	Cério
+પ્રેસિયોડિમિયમ	Praseodímio
+નિયોડીમીયમ	Neodímio
+લેનિન	Lenin
+યુરોપિયમ	Európio
+ઊએતેર્સેન્	Uetersen
+ઇન્ડિયાના	Indiana
+નોકિયા	Nokia
+મોટરગાડી	Automóvel
+ટ્રાજન	Trajano
+રોજર ફેડરર	Roger Federer
+રાજસ્થાન	Rajastão
+તમિલનાડુ	Tamil Nadu
+હોકી	Hóquei em campo
+ક્રોહનનો રોગ	Doença de Crohn
+ઉત્તર પ્રદેશ	Uttar Pradesh
+ઉત્તરાખંડ	Uttarakhand
+મિઝોરમ	Mizoram
+સિક્કિમ	Siquim
+ટેનેસી	Tennessee
+નાગપુર	Nagpur
+કારાકાસ	Caracas
+પુના	Pune
+આયોવા	Iowa
+નેબ્રાસ્કા	Nebraska
+કેન્સાસ	Kansas
+હિંદી ભાષા	Língua hindi
+મરાઠી ભાષા	Língua marata
+ગણેશ	Ganexa
+મિઝોરી	Missouri
+લ્યુઇસિયાના	Luisiana
+નાગાલેંડ	Nagaland
+અરકાનસાસ	Arkansas
+નીલ આર્મસ્ટ્રૉંગ	Neil Armstrong
+ઉર્દુ ભાષા	Língua urdu
+ઓક્લાહોમા	Oklahoma
+બુડાપેસ્ટ	Budapeste
+લેન્થેનમ	Lantânio
+પ્રોમેથિયમ	Promécio
+સમેરિયમ	Samário
+ગેડોલિનીયમ	Gadolínio
+ટર્બિયમ	Térbio
+ડીસ્પ્રોસીયમ	Disprósio
+બાઇબલ	Bíblia
+હોલ્મીયમ	Hólmio
+અર્બિયમ	Érbio
+થુલિયમ	Túlio
+ઈટરબિયમ	Itérbio
+લ્યુટેશિયમ	Lutécio
+સત્ય ઇસુ દેવળ	Verdadeira Igreja de Jesus
+અંગ્રેજી ભાષા	Língua inglesa
+અમેરિસીયમ	Amerício
+ક્યુરીયમ	Cúrio
+બર્કેલીયમ	Berquélio
+કેલિફોર્નીયમ	Califórnio
+આઇન્સ્ટેનીયમ	Einstênio
+ફર્મીયમ	Férmio
+મેન્ડેલિવીયમ	Mendelévio
+નોબેલીયમ	Nobélio
+લોરેન્સીયમ	Laurêncio
+ગુરુના ચંદ્રો	Satélites de Júpiter
+કઞ્સ્કવલા	Końskowola
+૨૦૦૧	2001
+વિકિટ્રાવેલ	Wikitravel
+૧૯૯૩	1993
+૧૯૧૦	1910
+સાપ	Serpente
+મુખ મૈથુન	Sexo oral
+જાન્યુઆરી ૧	1 de janeiro
+જાન્યુઆરી ૨	2 de janeiro
+સુભાષચંદ્ર બોઝ	Subhas Chandra Bose
+જાન્યુઆરી ૩	3 de janeiro
+જાન્યુઆરી ૪	4 de janeiro
+જાન્યુઆરી ૫	5 de janeiro
+જાન્યુઆરી ૬	6 de janeiro
+જાન્યુઆરી ૭	7 de janeiro
+જાન્યુઆરી ૮	8 de janeiro
+જાન્યુઆરી ૯	9 de janeiro
+જાન્યુઆરી ૧૦	10 de janeiro
+જાન્યુઆરી ૧૧	11 de janeiro
+જાન્યુઆરી ૧૨	12 de janeiro
+જાન્યુઆરી ૧૩	13 de janeiro
+બર્મિંગહામ	Birmingham
+જાન્યુઆરી ૧૪	14 de janeiro
+જાન્યુઆરી ૧૫	15 de janeiro
+જાન્યુઆરી ૧૬	16 de janeiro
+જાન્યુઆરી ૧૭	17 de janeiro
+જાન્યુઆરી ૧૮	18 de janeiro
+જાન્યુઆરી ૧૯	19 de janeiro
+જાન્યુઆરી ૨૦	20 de janeiro
+જાન્યુઆરી ૨૧	21 de janeiro
+જાન્યુઆરી ૨૨	22 de janeiro
+જાન્યુઆરી ૨૩	23 de janeiro
+જાન્યુઆરી ૨૪	24 de janeiro
+જાન્યુઆરી ૨૫	25 de janeiro
+જાન્યુઆરી ૨૬	26 de janeiro
+માઇક્રોસોફ્ટ	Microsoft
+જાન્યુઆરી ૨૭	27 de janeiro
+જાન્યુઆરી ૨૮	28 de janeiro
+જાન્યુઆરી ૨૯	29 de janeiro
+જાન્યુઆરી ૩૦	30 de janeiro
+જાન્યુઆરી ૩૧	31 de janeiro
+ડિસેમ્બર ૨	2 de dezembro
+ડિસેમ્બર ૧	1 de dezembro
+ડિસેમ્બર ૩	3 de dezembro
+ડિસેમ્બર ૭	7 de dezembro
+ડિસેમ્બર ૫	5 de dezembro
+ડિસેમ્બર ૮	8 de dezembro
+ડિસેમ્બર ૧૦	10 de dezembro
+ડિસેમ્બર ૬	6 de dezembro
+ડિસેમ્બર ૯	9 de dezembro
+પિંક ફ્લોઇડ	Pink Floyd
+ડિસેમ્બર ૪	4 de dezembro
+ફેબ્રુઆરી ૧	1 de fevereiro
+ફેબ્રુઆરી ૨	2 de fevereiro
+ફેબ્રુઆરી ૩	3 de fevereiro
+કુરોવ	Kurów
+ફેબ્રુઆરી ૪	4 de fevereiro
+ફેબ્રુઆરી ૫	5 de fevereiro
+ફેબ્રુઆરી ૬	6 de fevereiro
+ફેબ્રુઆરી ૭	7 de fevereiro
+ફેબ્રુઆરી ૮	8 de fevereiro
+ફેબ્રુઆરી ૯	9 de fevereiro
+ફેબ્રુઆરી ૧૦	10 de fevereiro
+રસાયણ શાસ્ત્ર	Química
+ફેબ્રુઆરી ૧૪	14 de fevereiro
+ફેબ્રુઆરી ૧૩	13 de fevereiro
+ફેબ્રુઆરી ૧૫	15 de fevereiro
+ફેબ્રુઆરી ૧૧	11 de fevereiro
+ફેબ્રુઆરી ૧૨	12 de fevereiro
+ફેબ્રુઆરી ૧૯	19 de fevereiro
+ફેબ્રુઆરી ૧૭	17 de fevereiro
+ફેબ્રુઆરી ૧૬	16 de fevereiro
+ફેબ્રુઆરી ૧૮	18 de fevereiro
+ફેબ્રુઆરી ૨૦	20 de fevereiro
+ફેબ્રુઆરી ૨૧	21 de fevereiro
+ફેબ્રુઆરી ૨૨	22 de fevereiro
+ફેબ્રુઆરી ૨૩	23 de fevereiro
+ફેબ્રુઆરી ૨૪	24 de fevereiro
+ફેબ્રુઆરી ૨૫	25 de fevereiro
+ફેબ્રુઆરી ૨૬	26 de fevereiro
+ફેબ્રુઆરી ૨૭	27 de fevereiro
+ફેબ્રુઆરી ૨૮	28 de fevereiro
+ડિસેમ્બર ૧૧	11 de dezembro
+ફેબ્રુઆરી ૨૯	29 de fevereiro
+ડિસેમ્બર ૧૨	12 de dezembro
+C શાર્પ (પ્રોગ્રામિંગ ભાષા)	C Sharp
+ડિસેમ્બર ૧૩	13 de dezembro
+ડિસેમ્બર ૧૪	14 de dezembro
+ડિસેમ્બર ૧૫	15 de dezembro
+માર્ચ ૨	2 de março
+માર્ચ ૩	3 de março
+માર્ચ ૫	5 de março
+માર્ચ ૧	1 de março
+માર્ચ ૭	7 de março
+માર્ચ ૮	8 de março
+માર્ચ ૪	4 de março
+માર્ચ ૧૦	10 de março
+માર્ચ ૧૧	11 de março
+માર્ચ ૬	6 de março
+માર્ચ ૧૩	13 de março
+માર્ચ ૯	9 de março
+માર્ચ ૧૨	12 de março
+માર્ચ ૧૫	15 de março
+માર્ચ ૧૪	14 de março
+C++(પ્રોગ્રામિંગ ભાષા)	C++
+ડિસેમ્બર ૧૬	16 de dezembro
+ડિસેમ્બર ૧૭	17 de dezembro
+માર્ચ ૧૬	16 de março
+માર્ચ ૧૭	17 de março
+માર્ચ ૧૮	18 de março
+માર્ચ ૧૯	19 de março
+માર્ચ ૨૦	20 de março
+માર્ચ ૨૧	21 de março
+માર્ચ ૨૨	22 de março
+ડિસેમ્બર ૧૮	18 de dezembro
+માર્ચ ૨૩	23 de março
+ડિસેમ્બર ૧૯	19 de dezembro
+માર્ચ ૨૪	24 de março
+માર્ચ ૨૫	25 de março
+ડિસેમ્બર ૨૦	20 de dezembro
+માર્ચ ૨૬	26 de março
+માર્ચ ૨૭	27 de março
+માર્ચ ૨૮	28 de março
+માર્ચ ૨૯	29 de março
+માર્ચ ૩૦	30 de março
+માર્ચ ૩૧	31 de março
+એપ્રિલ ૧૫	15 de abril
+એપ્રિલ ૧૩	13 de abril
+એપ્રિલ ૧૨	12 de abril
+એપ્રિલ ૧૪	14 de abril
+એપ્રિલ ૧૧	11 de abril
+એપ્રિલ ૧૦	10 de abril
+એપ્રિલ ૮	8 de abril
+એપ્રિલ ૯	9 de abril
+એપ્રિલ ૭	7 de abril
+એપ્રિલ ૬	6 de abril
+એપ્રિલ ૫	5 de abril
+એપ્રિલ ૪	4 de abril
+એપ્રિલ ૩	3 de abril
+એપ્રિલ ૧	1 de abril
+એપ્રિલ ૨	2 de abril
+એપ્રિલ ૧૬	16 de abril
+એપ્રિલ ૧૭	17 de abril
+એપ્રિલ ૧૮	18 de abril
+એપ્રિલ ૧૯	19 de abril
+એપ્રિલ ૨૦	20 de abril
+એપ્રિલ ૨૧	21 de abril
+એપ્રિલ ૨૨	22 de abril
+એપ્રિલ ૨૩	23 de abril
+એપ્રિલ ૨૪	24 de abril
+એપ્રિલ ૨૫	25 de abril
+એપ્રિલ ૨૬	26 de abril
+એપ્રિલ ૨૭	27 de abril
+એપ્રિલ ૨૮	28 de abril
+એપ્રિલ ૨૯	29 de abril
+એપ્રિલ ૩૦	30 de abril
+મે ૧	1 de maio
+મે ૨	2 de maio
+મે ૩	3 de maio
+મે ૪	4 de maio
+મે ૫	5 de maio
+મે ૬	6 de maio
+મે ૭	7 de maio
+મે ૮	8 de maio
+મે ૯	9 de maio
+મે ૧૦	10 de maio
+મે ૧૧	11 de maio
+મે ૧૨	12 de maio
+મે ૧૩	13 de maio
+મે ૧૪	14 de maio
+મે ૧૫	15 de maio
+મે ૧૬	16 de maio
+મે ૧૭	17 de maio
+મે ૧૮	18 de maio
+મે ૧૯	19 de maio
+મે ૨૦	20 de maio
+મે ૨૧	21 de maio
+મે ૨૨	22 de maio
+મે ૨૩	23 de maio
+મે ૨૪	24 de maio
+મે ૨૫	25 de maio
+મે ૨૬	26 de maio
+મે ૨૭	27 de maio
+મે ૨૮	28 de maio
+મે ૨૯	29 de maio
+મે ૩૦	30 de maio
+મે ૩૧	31 de maio
+ડિસેમ્બર ૨૧	21 de dezembro
+જૂન ૧૪	14 de junho
+જૂન ૧૫	15 de junho
+જૂન ૧૩	13 de junho
+જૂન ૧૦	10 de junho
+જૂન ૭	7 de junho
+જૂન ૧૧	11 de junho
+જૂન ૯	9 de junho
+જૂન ૧૨	12 de junho
+જૂન ૬	6 de junho
+જૂન ૮	8 de junho
+જૂન ૫	5 de junho
+જૂન ૩	3 de junho
+જૂન ૨	2 de junho
+જૂન ૧	1 de junho
+જૂન ૪	4 de junho
+ડિસેમ્બર ૨૨	22 de dezembro
+જૂન ૧૬	16 de junho
+જૂન ૩૦	30 de junho
+જૂન ૨૯	29 de junho
+જૂન ૨૮	28 de junho
+જૂન ૨૬	26 de junho
+જૂન ૨૫	25 de junho
+જૂન ૨૨	22 de junho
+જૂન ૨૭	27 de junho
+જૂન ૨૪	24 de junho
+જૂન ૨૦	20 de junho
+જૂન ૨૩	23 de junho
+જૂન ૧૯	19 de junho
+જૂન ૧૮	18 de junho
+જૂન ૨૧	21 de junho
+જૂન ૧૭	17 de junho
+ડિસેમ્બર ૨૩	23 de dezembro
+આર્નોલ્ડ શ્વાર્ઝેનેગર	Arnold Schwarzenegger
+જુલાઇ ૧૫	15 de julho
+જુલાઇ ૧૩	13 de julho
+જુલાઇ ૧૨	12 de julho
+જુલાઇ ૧૦	10 de julho
+જુલાઇ ૯	9 de julho
+જુલાઇ ૧૪	14 de julho
+જુલાઇ ૮	8 de julho
+જુલાઇ ૭	7 de julho
+જુલાઇ ૬	6 de julho
+જુલાઇ ૫	5 de julho
+જુલાઇ ૨	2 de julho
+જુલાઇ ૪	4 de julho
+જુલાઇ ૩	3 de julho
+જુલાઇ ૧	1 de julho
+જુલાઇ ૧૧	11 de julho
+ડિસેમ્બર ૨૪	24 de dezembro
+જુલાઇ ૩૧	31 de julho
+જુલાઇ ૩૦	30 de julho
+જુલાઇ ૨૯	29 de julho
+જુલાઇ ૨૮	28 de julho
+જુલાઇ ૨૭	27 de julho
+જુલાઇ ૨૫	25 de julho
+જુલાઇ ૨૪	24 de julho
+જુલાઇ ૨૩	23 de julho
+જુલાઇ ૨૬	26 de julho
+જુલાઇ ૨૨	22 de julho
+જુલાઇ ૧૯	19 de julho
+જુલાઇ ૨૧	21 de julho
+જુલાઇ ૨૦	20 de julho
+જુલાઇ ૧૭	17 de julho
+જુલાઇ ૧૮	18 de julho
+જુલાઇ ૧૬	16 de julho
+અસોસિએશન ફુટબોલ	Futebol
+ડિસેમ્બર ૨૫	25 de dezembro
+ડિસેમ્બર ૨૬	26 de dezembro
+ઓગસ્ટ ૧૪	14 de agosto
+ઓગસ્ટ ૧૫	15 de agosto
+ઓગસ્ટ ૧૩	13 de agosto
+ઓગસ્ટ ૧૨	12 de agosto
+ઓગસ્ટ ૧૧	11 de agosto
+ઓગસ્ટ ૧૦	10 de agosto
+ઓગસ્ટ ૮	8 de agosto
+ઓગસ્ટ ૭	7 de agosto
+ઓગસ્ટ ૯	9 de agosto
+ઓગસ્ટ ૫	5 de agosto
+ઓગસ્ટ ૪	4 de agosto
+ઓગસ્ટ ૨	2 de agosto
+ઓગસ્ટ ૩	3 de agosto
+ઓગસ્ટ ૬	6 de agosto
+ઓગસ્ટ ૧	1 de agosto
+આઇપેડ (iPad)	IPad
+ડિસેમ્બર ૨૭	27 de dezembro
+સબમરીન	Submarino
+ઓગસ્ટ ૧૬	16 de agosto
+ઓગસ્ટ ૨૯	29 de agosto
+ઓગસ્ટ ૨૮	28 de agosto
+ઓગસ્ટ ૩૦	30 de agosto
+ઓગસ્ટ ૨૫	25 de agosto
+ઓગસ્ટ ૨૬	26 de agosto
+ઓગસ્ટ ૨૩	23 de agosto
+ઓગસ્ટ ૨૭	27 de agosto
+ઓગસ્ટ ૨૧	21 de agosto
+ઓગસ્ટ ૨૦	20 de agosto
+ઓગસ્ટ ૨૪	24 de agosto
+ઓગસ્ટ ૧૮	18 de agosto
+ઓગસ્ટ ૧૭	17 de agosto
+ઓગસ્ટ ૨૨	22 de agosto
+ઓગસ્ટ ૧૯	19 de agosto
+ઓગસ્ટ ૩૧	31 de agosto
+માઇકલ જેકસન	Michael Jackson
+ડિસેમ્બર ૨૮	28 de dezembro
+સપ્ટેમ્બર ૧૫	15 de setembro
+સપ્ટેમ્બર ૧૪	14 de setembro
+સપ્ટેમ્બર ૧૩	13 de setembro
+સપ્ટેમ્બર ૧૨	12 de setembro
+સપ્ટેમ્બર ૮	8 de setembro
+સપ્ટેમ્બર ૧૧	11 de setembro
+સપ્ટેમ્બર ૭	7 de setembro
+સપ્ટેમ્બર ૧૦	10 de setembro
+સપ્ટેમ્બર ૫	5 de setembro
+સપ્ટેમ્બર ૪	4 de setembro
+સપ્ટેમ્બર ૯	9 de setembro
+સપ્ટેમ્બર ૨	2 de setembro
+સપ્ટેમ્બર ૬	6 de setembro
+સપ્ટેમ્બર ૧	1 de setembro
+સપ્ટેમ્બર ૩	3 de setembro
+ડિસેમ્બર ૨૯	29 de dezembro
+સપ્ટેમ્બર ૩૦	30 de setembro
+સપ્ટેમ્બર ૨૯	29 de setembro
+સપ્ટેમ્બર ૨૮	28 de setembro
+સપ્ટેમ્બર ૨૭	27 de setembro
+સપ્ટેમ્બર ૨૬	26 de setembro
+સપ્ટેમ્બર ૨૫	25 de setembro
+સપ્ટેમ્બર ૨૩	23 de setembro
+સપ્ટેમ્બર ૨૨	22 de setembro
+સપ્ટેમ્બર ૨૪	24 de setembro
+સપ્ટેમ્બર ૨૧	21 de setembro
+સપ્ટેમ્બર ૨૦	20 de setembro
+સપ્ટેમ્બર ૧૮	18 de setembro
+સપ્ટેમ્બર ૧૭	17 de setembro
+સપ્ટેમ્બર ૧૯	19 de setembro
+સપ્ટેમ્બર ૧૬	16 de setembro
+ડિસેમ્બર ૩૦	30 de dezembro
+ડિસેમ્બર ૩૧	31 de dezembro
+ઓક્ટોબર ૧	1 de outubro
+ઓક્ટોબર ૧૫	15 de outubro
+ઓક્ટોબર ૧૨	12 de outubro
+ઓક્ટોબર ૧૦	10 de outubro
+ઓક્ટોબર ૧૪	14 de outubro
+ઓક્ટોબર ૯	9 de outubro
+ઓક્ટોબર ૮	8 de outubro
+ઓક્ટોબર ૧૩	13 de outubro
+ઓક્ટોબર ૭	7 de outubro
+ઓક્ટોબર ૧૧	11 de outubro
+ઓક્ટોબર ૬	6 de outubro
+ઓક્ટોબર ૪	4 de outubro
+ઓક્ટોબર ૫	5 de outubro
+ઓક્ટોબર ૩	3 de outubro
+ઓક્ટોબર ૨	2 de outubro
+બકરી	Capra aegagrus hircus
+ઓક્ટોબર ૩૧	31 de outubro
+ઓક્ટોબર ૩૦	30 de outubro
+ઓક્ટોબર ૨૯	29 de outubro
+ઓક્ટોબર ૨૮	28 de outubro
+ઓક્ટોબર ૨૬	26 de outubro
+ઓક્ટોબર ૨૫	25 de outubro
+ઓક્ટોબર ૨૪	24 de outubro
+ઓક્ટોબર ૨૭	27 de outubro
+ઓક્ટોબર ૨૨	22 de outubro
+ઓક્ટોબર ૨૩	23 de outubro
+ઓક્ટોબર ૨૦	20 de outubro
+ઓક્ટોબર ૨૧	21 de outubro
+ઓક્ટોબર ૧૯	19 de outubro
+ઓક્ટોબર ૧૭	17 de outubro
+ઓક્ટોબર ૧૬	16 de outubro
+ઓક્ટોબર ૧૮	18 de outubro
+નવેમ્બર ૧૫	15 de novembro
+નવેમ્બર ૧૪	14 de novembro
+નવેમ્બર ૧૩	13 de novembro
+નવેમ્બર ૧૨	12 de novembro
+નવેમ્બર ૧૧	11 de novembro
+નવેમ્બર ૧૦	10 de novembro
+નવેમ્બર ૭	7 de novembro
+નવેમ્બર ૮	8 de novembro
+નવેમ્બર ૯	9 de novembro
+નવેમ્બર ૬	6 de novembro
+નવેમ્બર ૫	5 de novembro
+નવેમ્બર ૪	4 de novembro
+નવેમ્બર ૩	3 de novembro
+નવેમ્બર ૨	2 de novembro
+નવેમ્બર ૧	1 de novembro
+પારામારિબો	Paramaribo
+નવેમ્બર ૩૦	30 de novembro
+નવેમ્બર ૨૯	29 de novembro
+નવેમ્બર ૨૮	28 de novembro
+નવેમ્બર ૨૭	27 de novembro
+નવેમ્બર ૨૬	26 de novembro
+નવેમ્બર ૨૫	25 de novembro
+નવેમ્બર ૨૩	23 de novembro
+નવેમ્બર ૨૪	24 de novembro
+નવેમ્બર ૨૧	21 de novembro
+નવેમ્બર ૨૦	20 de novembro
+નવેમ્બર ૨૨	22 de novembro
+નવેમ્બર ૧૯	19 de novembro
+નવેમ્બર ૧૮	18 de novembro
+નવેમ્બર ૧૭	17 de novembro
+નવેમ્બર ૧૬	16 de novembro
+કાઠમંડુ	Catmandu
+સીડની	Sydney
+મેલબોર્ન	Melbourne
+પર્થ	Perth (Austrália Ocidental)
+નાઈલ નદી	Rio Nilo
+કોંગો નદી	Rio Congo
+ધૂમકેતુ	Cometa
+જાકાર્તા	Jacarta
+જાવા (ટાપુ)	Java
+એડિડાસ	Adidas
+વિકિપીડિયા:પ્રયોગસ્થળ	Wikipédia:Página de testes
+વિકિપીડિયા:સ્વાગત	Wikipédia:Introdução
+કમ્પ્યુટર હાર્ડવેર	Hardware
+નકશો	Mapa
+નવસાર	Amoníaco
+ડૉંગ હેકટર એરપોર્ટ	Aeroporto de Dong Hoi
+શૂન્યાવકાશ	Espaço sideral
+આત્મકથા	Autobiografia
+ખગોળીય દૂરબીન	Telescópio
+માઇલી સાઇરસ	Miley Cyrus
+માર્જરિન	Margarina
+મધરબોર્ડ	Placa-mãe
+USB ડ્રાઇવ	USB flash drive
+પંજાબ (પાકિસ્તાન)	Punjab (Paquistão)
+મહાબોધિ મંદિર	Templo Mahabodhi
+સહ્યાદ્રિ પર્વતમાળા	Gates Ocidentais
+ભારતની પર્વતીય રેલ્વે	Caminhos de Ferro de Montanha na Índia
+કન્ફ્યુશિયસ	Confúcio
+કોર્બીન બ્લુ	Corbin Bleu
+શ્રેણી:ગણિત	Categoria:Matemática
+ફરો દ્વિપસમૂહ	Ilhas Feroe
+સુરત	Surate
+સાયપ્રસનો રાષ્ટ્રધ્વજ	Bandeira de Chipre
+ઢાંચો:Country data Iran	Predefinição:Country data Irã
+બાલી	Bali
+માળો (પક્ષી)	Ninho
+લૅરી પેજ	Larry Page
+ગંગા નદી	Rio Ganges
+સેલિન ડીયોન	Céline Dion
+ખંડ	Continente
+એડિલેઇડ	Adelaide (Austrália)
+પક્ષી	Aves
+રાજધાની	Capital
+ઢાંચો:ઇસ્લામ	Predefinição:Islã
+ગુજરાતી ભાષા	Língua gujarati
+મહિનો	Mês
+ઢાંચો:Portal	Predefinição:Portal
+હુઆંગ ઝીયાન-ફાન	Huang Xianfan
+બિલ ગેટ્સ	Bill Gates
+જ્ઞાનકોશ	Enciclopédia
+મુખપૃષ્ઠ	Wikipédia:Página principal
+સિંધવ	Halita
+બાસ્કેટબોલ (રમત)	Basquetebol
+ક્રિકેટ	Críquete
+યુરેશીયા	Eurásia
+હિમાલય	Himalaia
+કેપ ટાઉન	Cidade do Cabo
+કેસ્પિયન સમુદ્ર	Mar Cáspio
+વિન્સેન્ટ વેન ગો	Vincent van Gogh
+વૅલેન્શિયા નો પ્રદેશ	Comunidade Valenciana
+મોહેં-જો-દડો	Mohenjo-daro
+પેટ્રા	Petra
+એવર્ટન ફૂટબોલ ક્લબ	Everton Football Club
+મક્કા	Meca
+ચે ગૂવેરા	Che Guevara
+નોવાક યોકોવિચ	Novak Djokovic
+એરબસ એ ૩૮૦	Airbus A380
+ચિચેન ઇત્ઝા	Chichén Itzá
+તમિલ ભાષા	Língua tâmil
+ચા	Chá
+માર્કો પોલો	Marco Polo
+પોર્ટલેન્ડ, ઑરેગોન	Portland (Oregon)
+મૂડીવાદ	Capitalismo
+દેશ	País
+હિલેરી ક્લિન્ટન	Hillary Clinton
+કોનકોર્ડ	Concorde
+ડોનાલ્ડ ડક	Pato Donald
+સ્ટ્રાસબોર્ગ (ફ્રાન્સ)	Estrasburgo
+ક્રોએશિયન ભાષા	Língua croata
+શેતાન	Diabo
+રેનો	Renault
+કાલિદાસ	Calidasa
+ઉલ્કાઓ	Meteoroide
+ગૌતમ બુદ્ધ	Buda
+જૈવ તકનીક	Biotecnologia
+વિશ્વ બેંક	Banco Mundial
+લોકશાહી	Democracia
+વૈશ્વિકરણ	Globalização
+નોબૅલ પારિતોષિક	Prémio Nobel
+ઇંગ્લેન્ડના એલિઝાબેથ પ્રથમ	Isabel I de Inglaterra
+રવિન્દ્રનાથ ટાગોર	Rabindranath Tagore
+માર્ક ટ્વેઇન	Mark Twain
+ઍલન ટ્યુરિંગ	Alan Turing
+આતંકવાદ	Terrorismo
+નાઝીવાદ	Nazismo
+વાસ્કો દ ગામા	Vasco da Gama
+સિંધુ	Rio Indo
+કાન	Orelha
+આંખ	Olho
+ગીત	Canção
+હાથી	Elefante
+કીડી	Formiga
+આન્દ્રે અગાસી	Andre Agassi
+રીંગણ	Beringela
+હિમવર્ષા	Neve
+ડેબિયન	Debian
+વિશ્વ વેપાર સંગઠન	Organização Mundial do Comércio
+ચાઇનીઝ ભાષા	Língua chinesa
+કુદરત	Natureza
+રક્ત	Sangue
+કંકાલતંત્ર	Esqueleto
+ફેફસાં	Pulmão humano
+મેઘ	Chuva
+વૈશ્વિક ઉષ્ણતા	Aquecimento global
+ધરતીકંપ	Sismo
+સત્ય	Verdade
+કોમ્પ્યુટર માઉસ	Rato (informática)
+નેલ્સન મંડેલા	Nelson Mandela
+માર્ટિન લ્યૂથર કિંગ	Martin Luther King Jr.
+અવતરણ ચિહ્ન	Aspas
+કુદરતી આફતો	Desastre natural
+પૂર	Inundação
+સુનામી	Tsunami
+જ્વાળામુખી	Vulcão
+વાદળ	Nuvem
+ત્રિકોણમિતિ	Trigonometria
+ભૂમિતિ	Geometria
+તેલુગુ ભાષા	Língua telugu
+ગ્રીક મૂળાક્ષરો	Alfabeto grego
+શ્રેણી:ફ્રાન્સ	Categoria:França
+શ્રેણી:સંગીત	Categoria:Música
+શ્રેણી:સાહિત્ય	Categoria:Literatura
+નવલકથા	Romance
+મહાભારત	Mahabharata
+પોપટ	Periquito
+હેરી પોટર	Harry Potter
+મશક વાજું	Gaita de fole
+પીડોફિલિયા (બાળ યૌનશોષણ)	Pedofilia
+સિકંદર	Alexandre, o Grande
+સંસ્કૃતિ	Civilização
+પુરુષ	Homem
+લગ્ન	Casamento
+ફાંસીની સજા	Pena de morte
+ગુલામી પ્રથા	Escravidão
+દૂધ	Leite
+પર્વત	Montanha
+અશોક	Asoka
+અકબર	Akbar
+હોંગકોંગ	Hong Kong
+કરાચી	Carachi
+લાગોસ	Lagos (Nigéria)
+આર્કિમીડીઝ	Arquimedes
+થૉમસ ઍડિસન	Thomas Edison
+યુક્લિડ	Euclides
+ડોમેન નામ પ્રણાલી	Domain Name System
+સંકેતલિપિ	Criptografia
+ઈન્ટરનેટ પ્રોટોકોલ	Protocolo de Internet
+પ્રસારણ નિયંત્રણ પ્રોટોકોલ	Transmission Control Protocol
+યુનિકોડ	Unicode
+સત્યજીત રે	Satyajit Ray
+નક્ષત્ર	Constelação
+નૉર્વેજિયન ભાષા	Língua norueguesa
+ચાણક્ય	Cautília
+બાગમતી પ્રાંત (નેપાળ)	Bagmati
+નોઆમ ચોમ્સ્કી	Noam Chomsky
+ભેરી પ્રાંત (નેપાળ)	Bheri
+મુસા	Moisés
+ધવલાગિરી પ્રાંત (નેપાળ)	Dhaulagiri (zona)
+હિંદુ ધર્મ	Hinduísmo
+અણુ	Átomo
+પ્રકાશ	Luz
+ગંડકી પ્રાંત (નેપાળ)	Gandaki
+તાજ મહેલ	Taj Mahal
+જનકપુર પ્રાંત (નેપાળ)	Janakpur (zona)
+ઇ-મેઇલ	E-mail
+કર્ણાલી પ્રાંત (નેપાળ)	Karnali
+ફારસી ભાષા	Língua persa
+કોશી પ્રાંત (નેપાળ)	Kosi (Nepal)
+લુમ્બિની પ્રાંત (નેપાળ)	Lumbini (Nepal)
+મહાકાલી પ્રાંત (નેપાળ)	Mahakali
+મેચી પ્રાંત (નેપાળ)	Mechi
+ઇબ્રાહિમ	Abraão
+નારાયણી પ્રાંત (નેપાળ)	Narayani (Nepal)
+રાપ્તી પ્રાંત (નેપાળ)	Rapti (Nepal)
+સગરમાથા પ્રાંત (નેપાળ)	Sagarmatha (Nepal)
+સેતી પ્રાંત (નેપાળ)	Seti (Nepal)
+યુનાઇટેડ સ્ટેટ્સ આર્મી	Exército dos Estados Unidos
+લુમ્બિની	Lumbini
+જૈન ધર્મ	Jainismo
+યહૂદી ધર્મ	Judaísmo
+લાઓત્સે	Lao Zi
+જીમેઇલ	Gmail
+યોગ	Ioga
+સિમા કીઆન	Sima Qian
+મનોવિજ્ઞાન	Psicologia
+મહાવીર સ્વામી	Mahavira
+ટિમ્બક્ટુ	Tombuctu
+મુહમ્મદ	Maomé
+ખેડબ્રહ્મા	Khedbrahma
+આઇપોડ	IPod
+સચિન તેંડુલકર	Sachin Tendulkar
+અબ્દુલ કલામ	A. P. J. Abdul Kalam
+બીબીસી	British Broadcasting Corporation
+શાહરૂખ ખાન	Shahrukh Khan
+કૅટરિના કૈફ	Katrina Kaif
+આમિર ખાન	Aamir Khan
+અમિતાભ બચ્ચન	Amitabh Bachchan
+કન્ફયુસીયસ ધર્મ	Confucionismo
+તાઓ ધર્મ	Taoismo
+જરથોસ્તી ધર્મ	Zoroastrismo
+બંગાળી ભાષા	Língua bengali
+જીભ	Língua
+ચેલ્સી ફૂટબોલ ક્લબ	Chelsea Football Club
+આર્સેનલ ફૂટબોલ ક્લબ	Arsenal Football Club
+સ્વાદુપિંડ	Pâncreas
+ફૉકલેન્ડ ટાપુઓ	Ilhas Malvinas
+બ્લૂઝ	Blues
+ઇરોડ	Erode
+પ્રાથમિક શાળા	Escola primária
+સેલમ	Salem (Tamil Nadu)
+કોઇમ્બતુર	Coimbatore
+ઊટકામંડ	Udhagamandalam
+મૈસૂર	Mysore
+નીલગિરિ	Montes Nilgiri (sul da Índia)
+રફેલ નડાલ	Rafael Nadal
+રાહુલ ગાંધી	Rahul Gandhi
+ભારતીય રાષ્ટ્રીય કોંગ્રેસ	Partido do Congresso Nacional Indiano
+ભારતીય જનતા પાર્ટી	Partido do Povo Indiano
+દિવાળી	Diwali
+દરિયાઈ બોગદું (ઇંગ્લેન્ડ-ફ્રાન્સ)	Eurotúnel
+હોળી	Holi
+પાયથાગોરસ	Pitágoras
+કુંભ મેળો	Khumba Mela
+કોલોસીયમ	Coliseu de Roma
+સપ્તર્ષિ	Grande Carro
+ડેવિડ બેકહામ	David Beckham
+આવર્ત કોષ્ટક	Tabela periódica
+કબૂતર	Columbidae
+અંધાપો	Cegueira
+ચીઝ	Queijo
+દ્રાક્ષ	Uva
+ટાઇગર વુડ્સ	Tiger Woods
+બટાકાં	Batata
+શાકભાજી	Hortaliça
+સ્નૂકર	Snooker
+ઇજનેરી	Engenharia
+પ્રત્યાયન	Comunicação
+સંસ્કૃત ભાષા	Sânscrito
+રુધિરાભિસરણ તંત્ર	Sistema circulatório
+IP એડ્રેસ	Endereço IP
+પ્રશ્નચિહ્ન	Ponto de interrogação
+વર્લ્ડ ટ્રેડ સેન્ટર	World Trade Center
+ફ્રિડમ ટાવર	1 World Trade Center
+મીઠું	Sal de cozinha
+ફિડલ કાસ્ટ્રો	Fidel Castro
+મેનહટન	Manhattan
+તત્વ	Elemento (química)
+આર્યભટ્ટ	Ariabata
+શિવ	Shiva
+વિષ્ણુ	Vixnu
+લોકલ એરિયા નેટવર્ક	Rede de área local
+વાઈડ એરિયા નેટવર્ક	Rede de longa distância
+વિદ્યુત-ચુંબકીય તરંગો	Radiação eletromagnética
+બ્રહ્મા	Brama
+બળ	Força
+ચુંબકીયક્ષેત્ર	Campo magnético
+ગુરુત્વાકર્ષણ	Gravidade
+માર્શલ આર્ટસ	Artes marciais
+જુડો	Judô
+દળ	Massa
+ધાતુ	Metal
+વાયુ	Gás
+પ્રવાહી	Líquido
+ઘન	Sólido
+કૃષિ	Agricultura
+કપાસ	Algodão
+કપડાં	Roupa
+તાપમાન	Temperatura
+ધાતુશાસ્ત્ર	Metalurgia
+કાગળ	Papel
+ક્ષેત્રફળ	Área
+દેનપસાર	Dempassar
+સેકન્ડ	Segundo
+મકાઈ	Milho
+માટીકામ	Olaria
+સ્ટેફી ગ્રાફ	Steffi Graf
+હવામાન	Tempo (meteorologia)
+લાહોર	Lahore
+મેસોપોટેમીયા	Mesopotâmia
+પ્રાચીન ઇજિપ્ત	Antigo Egito
+ગુપ્ત સામ્રાજ્ય	Império Gupta
+સ્લીપિંગ બ્યૂટી	A Bela Adormecida (conto)
+સિન્ડ્રેલા	Cinderela
+રાજકોટ	Rajkot
+વડોદરા	Vadodara
+મિકી માઉસ	Mickey Mouse
+પ્રકાશસંશ્લેષણ	Fotossíntese
+કર્કરોગ (કેન્સર)	Cancro
+ઘઉં	Trigo
+બધિરતા	Surdez
+ગ્રેગોરીયન પંચાંગ	Calendário gregoriano
+નિકોટિન	Nicotina
+હૃદયરોગનો હુમલો	Infarto agudo do miocárdio
+મલેરિયા	Malária
+કુપોષણ	Má-nutrição
+ગુપ્તરોગ	Doença sexualmente transmissível
+એડ્સ	Síndrome da imunodeficiência adquirida
+ક્ષય રોગ	Tuberculose
+મધુપ્રમેહ	Diabetes mellitus
+ઢાંચો:Location map India	Predefinição:Mapa de localização/Índia
+બુર્જ દુબઈ	Burj Khalifa
+ચીનની મહાન દિવાલ	Muralha da China
+પિરામિડ	Pirâmide (arquitetura)
+ફેશન	Moda
+તલવાર	Espada
+પેલે	Pelé
+જયોર્જ સોરોસ	George Soros
+વિનોબા ભાવે	Vinoba Bhave
+સ્ટ્રોબેરી	Morango
+વર્ડપ્રેસ	WordPress
+લીચી (ફળ)	Litchi chinensis
+નારિયેળ	Coqueiro
+દાડમ	Romã
+સંતરુ (ફળ)	Citrus × sinensis
+રાજસ્થાની ભાષા	Língua rajastani
+આઇસ્ક્રીમ	Sorvete
+ઢાંચો:Location map Canada	Predefinição:Mapa de localização/Canadá
+સીદી	Siddis
+નિરોધ	Preservativo
+વડાપ્રધાન	Primeiro-ministro
+માછીમારી	Pesca
+થોર	Cactaceae
+ગરમ મસાલો	Garam masala
+ઘર ચકલી	Pardal-doméstico
+મકાઉ	Macau
+ચીકુ	Sapotizeiro
+એ.એસ.એલ.વી.યાન	Augmented Satellite Launch Vehicle
+હુ જિન્તાઓ	Hu Jintao
+જિરાફ	Girafa
+મુછ	Bigode
+સોવિયેત યુનિયન	União Soviética
+સેલમ જિલ્લો	Salem (distrito)
+વેલ્લોર જિલ્લો	Vellore (distrito)
+અદિલાબાદ જિલ્લો	Adilabad (distrito)
+અનંતપુર જિલ્લો	Anantapur (distrito)
+ચિત્તૂર જિલ્લો	Chittur
+જળાશય	Corpo de água
+મદ્યપાન	Alcoolismo
+હૈદરાબાદ જિલ્લો	Haiderabade (distrito)
+ખમ્મમ જિલ્લો	Khammam (distrito)
+કરીમનગર	Karimnagar (distrito)
+મહેબૂબનગર જિલ્લો	Mahbubnagar (distrito)
+કુર્નૂલ	Kurnool (distrito)
+કૃષ્ણા જિલ્લો	Krishna (distrito)
+નેલ્લોર જિલ્લો	Nellore (distrito)
+નાલગોંડા જિલ્લો	Nalgonda (distrito)
+મેદક જિલ્લો	Medak (distrito)
+રંગારેડ્ડી જિલ્લો	Rangareddi (distrito)
+પ્રકાસમ જિલ્લો	Prakasam (distrito)
+નિઝામાબાદ જિલ્લો	Nizamabad (distrito)
+શ્રીકાકુલમ જિલ્લો	Srikakulam (distrito)
+વારંગલ જિલ્લો	Warangal (distrito)
+C (પ્રોગ્રામિંગ ભાષા)	C (linguagem de programação)
+બ્રુસ લી	Bruce Lee
+વીલેન	Virtual LAN
+વિકિપીડિયા:ચોતરો	Wikipédia:Esplanada
+કમળ	Nelumbo nucifera
+વર્મોન્ટ	Vermont
+સેન જોસ, કેલિફોર્નિયા	San José (Califórnia)
+હ્યુસ્ટન	Houston
+હોસ્પિટલ	Hospital
+ઘડિયાલ	Gavial
+વિમાનવાહક જહાજ	Porta-aviões
+મોબાઇલ ફોન	Telefone celular
+શેફિલ્ડ ફૂટબોલ ક્લબ	Sheffield Football Club
+માન્ચેસ્ટર યુનાઇટેડ ફૂટબોલ ક્લબ	Manchester United Football Club
+સ્વાનસી સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Swansea City Association Football Club
+કાર્ડિફ સિટી ફૂટબૉલ ક્લબ	Cardiff City Football Club
+એસ્ટોન વિલા ફૂટબોલ ક્લબ	Aston Villa Football Club
+ન્યૂકેસલ યુનાઇટેડ ફૂટબોલ ક્લબ	Newcastle United Football Club
+ક્વીન્સ પાર્ક રેન્જર્સ ફૂટબોલ ક્લબ	Queens Park Rangers Football Club
+સાઉધમ્પ્ટન ફૂટબોલ ક્લબ	Southampton Football Club
+સ્ટોક સિટી ફૂટબોલ ક્લબ	Stoke City Football Club
+સન્ડરલેન્ડ એસોસિયેશન ફૂટબોલ ક્લબ	Sunderland Association Football Club
+ટોટનમ હોટ્સ્પર ફૂટબોલ ક્લબ	Tottenham Hotspur Football Club
+વેસ્ટ બ્રોમવિચ એલ્બિયન ફૂટબોલ ક્લબ	West Bromwich Albion Football Club
+વિગાન એથલેટિક ફૂટબૉલ ક્લબ	Wigan Athletic Football Club
+બગલો	Ardeidae
+વૈશ્વિક સ્થળનિર્ધારણ પ્રણાલી	Sistema de posicionamento global
+સ્ક્રિલ્લેક્સ	Skrillex
+હોટલ તાજ મહેલ પેલેસ	Taj Mahal Palace & Tower
+વિંછી (પ્રાણી)	Escorpião
+ફિફા વિશ્વ કપ	Copa do Mundo FIFA
+બર્મિંગહામ સિટી ફૂટબૉલ ક્લબ	Birmingham City Football Club
+બ્લેકબર્ન રોવર્સ ફૂટબૉલ ક્લબ	Blackburn Rovers Football Club
+બર્નલી ફૂટબોલ ક્લબ	Burnley Football Club
+ક્રિસ્ટલ પેલેસ ફૂટબોલ ક્લબ	Crystal Palace Football Club
+ડર્બી કાઉન્ટી ફૂટબૉલ ક્લબ	Derby County Football Club
+હલ સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Hull City Association Football Club
+લેસ્ટર સિટી ફૂટબૉલ ક્લબ	Leicester City Football Club
+નોટિંગહામ ફોરેસ્ટ ફૂટબૉલ ક્લબ	Nottingham Forest Football Club
+શેફિલ્ડ વેડન્ઝડે ફૂટબૉલ ક્લબ	Sheffield Wednesday Football Club
+વોલ્વરહેમ્પ્ટન વેન્ડરર્સ ફૂટબૉલ ક્લબ	Wolverhampton Wanderers Football Club
+વેબ શોધ એન્જીન	Motor de busca
+આલ્ક્લાઇન પાર્થિવ ધાતુ	Metal alcalinoterroso
+કોલા હોલ	Poço Superprofundo de Kola
+અર્ધધાતુ	Semimetal
+પબ્લિક ડોમેન	Domínio público
+પ્યૂએર્ટો રિકન ઈન્ડીપેન્ડન્સ પાર્ટી	Partido Independentista Portorriquenho
+થેમ્સ	Rio Tâmisa
+આર્યભટ્ટ (ઉપગ્રહ)	Aryabhata (satélite)
+નાતાલ	Natal
+લિપ વર્ષ	Ano bissexto
+લેડી ગાગા	Lady Gaga
+વાઘ	Tigre
+સેમસંગ	Samsung
+બીગલ	Beagle
+કુર્કુટાકાર	Galliformes
+ડુબકી કુટુંબ	Podicipedidae
+ઑડિશા	Orissa
+GFDL	GNU Free Documentation License
+પંજાબ, ભારત	Punjab (Índia)
+અક્ષાંશ-રેખાંશ	Coordenadas geográficas
+યુઇએફએ યૂરો ૨૦૧૨	Campeonato Europeu de Futebol de 2012
+બેંક	Banco
+આયરલેંડનું ગણતંત્ર	Irlanda (ilha)
+અઠવાડિયું	Semana
+હરણ	Cervidae
+લસણ	Alho
+કાકડી	Pepino
+કાળો	Preto
+ડુંગળી	Cebola
+નાસા	NASA
+એટલાન્ટા, જ્યોર્જિયા	Atlanta
+વેલિંગ્ટન	Wellington
+૧૦ (અંક)	Dez
+પરમાણુ ક્રમાંક	Número atómico
+માનવ શરીર	Corpo humano
+ચિત્તો	Acinonyx jubatus
+કસ્તુરી	Turdus merula
+વટાણા (વનસ્પતિ)	Pisum sativum
+ભાસ્કર (ઉપગ્રહ શ્રેણી)	Bhaskara 1
+કબુત	Garça-real-europeia
+ખજૂર	Tamareira
+વંદો	Barata
+મૃદુકાય સમુદાય	Moluscos
+માછીમાર	Pandion haliaetus
+શેવાળ	Musgo
+તારા માછલી	Estrela-do-mar
+સફેદ ઢોંક	Cegonha-branca
+બાજ (પક્ષી)	Açor
+દસાડી	Galeirão-comum
+આગિયો	Vaga-lume
+નાની ડુબકી	Tachybaptus ruficollis
+ચોટીલી ડુબકી	Mergulhão-de-crista
+જળ કાગડો	Corvo-marinho-de-faces-brancas
+સીંગપર (બતક)	Marreca-arrebio
+વિલાયતી પટ્ટાઇ	Tartaranhão-azulado
+અબલખ	Ostraceiro-europeu
+થ્રશ કુટુંબ	Turdidae
+પાન પટ્ટાઇ	Tartaranhão-ruivo-dos-pauis
+કલવેતીયો	Zarro-negrinha
+જ્યોર્જીયા (દેશ)નો રાષ્ટ્રધ્વજ	Bandeira da Geórgia
+ઉપગ્રહ પ્રક્ષેપણ યાન	Satélite artificial
+યાક	Iaque
+પટ્ટી પટ્ટાઇ	Tartaranhão-caçador
+હમ્પી	Conjunto Monumental de Hampi
+લવિંગ	Cravo-da-índia
+કાચબરંગી	Rola-do-mar
+લક્ષદ્વીપ	Laquedivas
+અશેળિયો	Lepidium sativum
+કપાસી	Peneireiro-cinzento
+એસી/ડીસી	AC/DC
+ક્રિસ્ટાડેલ્ફિઅન્સની	Cristadelfianos
+કાલિકોટ જિલ્લો, નેપાળ	Kalikot (distrito)
+કૈલાલી જિલ્લો, નેપાળ	Kailali
+તજ	Canela
+અમ્હારિક ભાષા	Língua amárica
+ચામાચિડિયું	Morcego
+અછામ જિલ્લો, નેપાળ	Achham (distrito)
+નુવાકોટ જિલ્લો, નેપાળ	Nuwakot (distrito)
+અર્ઘખાંચી જિલ્લો, નેપાળ	Arghakhanchi (distrito)
+મનાંગ જિલ્લો, નેપાળ	Manang (distrito)
+કાસ્કી જિલ્લો, નેપાળ	Kaski (distrito)
+રુપનડેહી જિલ્લો, નેપાળ	Rupandehi
+પાલપા જિલ્લો, નેપાળ	Palpa (distrito)
+દૈલેખ જિલ્લો, નેપાળ	Dailekh (distrito)
+સિંધુપાલચોક જિલ્લો, નેપાળ	Sindhupalchok (distrito)
+તનહઊ જિલ્લો, નેપાળ	Tanahu (distrito)
+બાંકે જિલ્લો, નેપાળ	Banke
+સ્યાંગજા જિલ્લો, નેપાળ	Syangja (distrito)
+ભક્તપુર જિલ્લો, નેપાળ	Bhaktapur (distrito)
+ધાદિંગ જિલ્લો, નેપાળ	Dhading (distrito)
+બરદિયા જિલ્લો, નેપાળ	Bardiya (distrito)
+વાળ	Pelo
+ગોરખા જિલ્લો, નેપાળ	Gorkha (distrito)
+કાર્વેપાલનચોક જિલ્લો, નેપાળ	Kavrepalanchok (distrito)
+સલ્યાન જિલ્લો, નેપાળ	Salyan (distrito)
+ગુલ્મી જિલ્લો, નેપાળ	Gulmi (distrito)
+કપિલવસ્તુ જિલ્લો, નેપાળ	Kapilvastu (distrito)
+નવલપરાસી જિલ્લો, નેપાળ	Nawalparasi (distrito)
+સુરખેત જિલ્લો, નેપાળ	Surkhet (distrito)
+મુગુ જિલ્લો, નેપાળ	Mugu (distrito)
+રોલ્પા જિલ્લો, નેપાળ	Rolpa (distrito)
+રસુવા જિલ્લો, નેપાળ	Rasuwa (distrito)
+રુકુમ જિલ્લો, નેપાળ	Rukum (distrito)
+જુમલા જિલ્લો, નેપાળ	Jumla (distrito)
+હુમલા જિલ્લો, નેપાળ	Humla (distrito)
+કોળિક્કોટ્	Calecute
+પાયથોન(પ્રોગ્રામિંગ ભાષા)	Python
+ઇસ્લામીક પંચાંગ	Calendário islâmico
+ચકલી	Passeridae
+કંચનપુર જિલ્લો, નેપાળ	Kanchanpur (distrito)
+લામજુંગ જિલ્લો, નેપાળ	Lamjung (distrito)
+આસામીઝ ભાષા	Língua assamesa
+જાજરકોટ જિલ્લો, નેપાળ	Jajarkot (distrito)
+અવધી ભાષા	Língua awadhi
+રાઈ	Mostarda (planta)
+મધર ટેરેસા	Madre Teresa de Calcutá
+કડપ્પા	Kadapa
+પૂર્વ તિમોરનો રાષ્ટ્રધ્વજ	Bandeira de Timor-Leste
+હેણોતરો	Caracal caracal
+બ્લૉગ	Blog
+જલગાંવ	Jalgaon
+ડેન્ગ્યુ	Dengue
+ક્રિસમસ દ્વીપ	Ilha Christmas
+મોવેમ્બર	Novembro Azul
+લોફ્ટસ રોડ સ્ટેડિયમ	Loftus Road
+હાથોર્ન્સ	The Hawthorns
+રાજાસોરસ	Rajasaurus
+સ્ટેડિયમ ઓફ લાઈટ	Estádio da Luz (Sunderland)
+મેષ રાશી	Áries
+વર્જિન એટલાંટિક	Virgin Atlantic Airways
+અમેરિકન એરલાઇન્સ	American Airlines
+વૅલેન્શિયન	Língua valenciana
+ડોગરી ભાષા	Língua dogri
+મલાલા યુસુફઝઈ	Malala Yousafzai
+આર્મેનિયાનો રાષ્ટ્રધ્વજ	Bandeira da Armênia
+બોડો ભાષા	Língua bodo
+ભોજપુરી ભાષા	Língua bhojpuri
+મુઘલ યુગ	Império Mogol
+હરીયાણવી ભાષા	Hariani
+ઇલાયચી	Cardamomo-verdadeiro
+કાશ્મીરી ભાષા	Língua caxemira
+ધ્રુવીય રીંછ	Ursus maritimus
+કન્નડ ભાષા	Língua canaresa
+મગહી ભાષા	Magahi
+હાથ	Mão
+ઓડિઆ ભાષા	Língua oriá
+નેપાળી ભાષા	Língua nepali
+વસ્તી	População
+મણિપુરી ભાષા	Língua manipuri
+અસાઈ તાડ	Açaí
+સંથાલી ભાષા	Língua santali
+નેપાલ ભાષા	Língua neuari
+સિંધી ભાષા	Língua sindi
+કાજુ	Cajueiro
+ધોધ	Queda de água
+માખણ	Manteiga
+પાબ્લો નેરુદા	Pablo Neruda
+કોંકણી ભાષા	Língua concani
+એલેક્ઝાન્ડર ગ્રેહામ બેલ	Alexander Graham Bell
+જ્યોતિષવિદ્યા	Astrologia
+સંગીત વાદ્ય	Instrumento musical
+હંસ	Cisne
+બેનઝિર ભુટ્ટો	Benazir Bhutto
+ઓક્સફોર્ડ યુનિવર્સિટી	Universidade de Oxford
+માર્ગ	Estrada
+હેલિકોપ્ટર	Helicóptero
+હિપોપોટેમસ	Hipopótamo-comum
+આંગળી	Dedo
+ગુલાબ	Rosa
+દિપડો	Leopardo
+સાલ્ઝબર્ગ	Salzburgo
+ગ્રીસની પૌરાણિક માન્યતાઓ	Mitologia grega
+હોકાયંત્ર	Bússola
+ક્ષ-કિરણો	Raios X
+પપૈયાં	Mamão
+વિશ્વ કુસ્તી મનોરંજન	WWE
+ટીટીકાકા સરોવર	Lago Titicaca
+કોલંબો	Colombo
+મદીના	Medina
+રેસલમેનિયા	WrestleMania
+કેમ્બ્રિજ વિશ્વવિદ્યાલય	Universidade de Cambridge
+જરથુષ્ટ્ર	Zaratustra
+રાઈટ બંધુઓ	Irmãos Wright
+હેક્ટર	Hectare
+બાપ્તિસ્મા (બૅપ્ટિઝમ)	Batismo
+ફુગાવો	Inflação
+અરાલ સમુદ્ર	Mar de Aral
+લામ્બોરગીની	Lamborghini
+લેન્ડ રોવર	Land Rover
+વાંસ	Bambu
+સૌંદર્ય શાસ્ત્ર	Estética
+કોકોસ (કીલીંગ) દ્વીપ	Ilhas Cocos (Keeling)
+પિસ્તા	Pistache
+ક્વીન્સલેન્ડ	Queensland
+મિનેપોલિસ	Minneapolis
+મૈથિલી ભાષા	Língua maithili
+અંજીર	Figueira-comum
+મિઝો ભાષા	Língua mizo
+માર્ક ઝકરબર્ગ	Mark Zuckerberg
+મલયાલમ ભાષા	Língua malaiala
+જીવનચરિત્ર	Biografia
+રેશમ માર્ગ	Rota da Seda
+તાઈકવૉન્દો	Taekwondo
+ઉંદર	Rattus
+દ્વિપદ નામકરણ	Nomenclatura binomial
+પાલિ ભાષા	Língua páli
+રોબર્ટ પેટિસન	Robert Pattinson
+મુંગેર	Munger
+સ્વાઇન ફ્લ્યુ	Gripe suína
+નખ	Unha
+ઓઝોન	Ozônio
+શેરડી	Cana-de-açúcar
+જાહેરાત	Publicidade
+સ્વતંત્રતા	Independência
+એલેક્ઝાન્ડર ફ્લેમિંગ	Alexander Fleming
+સોલોમન	Salomão
+યાહૂ!	Yahoo!
+ફેબ્રુઆરી ૩૦	30 de fevereiro
+ઓકલેન્ડ	Auckland
+એ કે-૪૭	AK-47
+મિથેન	Metano
+મરિઉપોલ	Mariupol
+ગીઝાનો મહાન પિરામિડ	Pirâmide de Quéops
+સિંધ	Sind
+વર્તુળનો વ્યાસ	Diâmetro
+શિક્ષક	Professor
+ગો (પ્રોગ્રામિંગ ભાષા)	Go (linguagem de programação)
+સેન્ટ્રલ ઇન્ટેલિજન્સ એજન્સી	Central Intelligence Agency
+રામાયણ	Ramáiana
+અક્રોતીરી અને ધેકેલીયા	Acrotíri e Deceleia
+મગફળી	Amendoim
+ધુમ્મસ	Nevoeiro
+બહુકોણ	Polígono
+વેલેન્ટાઇન્સ ડે	Dia dos Namorados
+ગલ્ફ વોર	Guerra do Golfo
+રેશમ	Seda
+મિશ્રધાતુ	Liga metálica
+નિવસન તંત્ર	Ecossistema
+રેફ્રિજરેટર	Frigorífico
+ટપાલ ટિકિટ	Selo postal
+શક્કરીયાં	Batata-doce
+કાર્ટેન (Kärnten)	Caríntia
+સમુરાઇ	Samurai
+કોલંબિયા, દક્ષિણ કેરોલિના	Colúmbia (Carolina do Sul)
+દેવનાગરી	Devanágari
+તરબૂચ	Melancia
+પવનચક્કી	Moinho de vento
+રિકટર મેગ્નીટયુડ સ્કેલ	Escala de Richter
+લેસર	Laser
+તાવ	Febre
+આંતરરાષ્ટ્રીય મહિલા દિન	Dia Internacional da Mulher
+વોરાર્લબર્ગ	Vorarlberg
+પીઝાનો ઢળતો મિનારો	Torre de Pisa
+સૂક્ષ્મ અર્થશાસ્ત્ર	Microeconomia
+લીડ્ઝ	Leeds
+હડકવા	Raiva (doença)
+કીટ વિજ્ઞાન	Entomologia
+અતિવાસ્તવવાદ	Surrealismo
+દીવાદાંડી	Farol
+માર્કેટિંગ	Marketing
+સ્ટીફન કિંગ	Stephen King
+રેડિયો સ્ટુડિયો 54 નેટવર્કના	Rádio Studio 54 Network
+દાયકો	Década
+બદામ	Amendoeira
+વેદ	Vedas
+સિલ્વેસ્ટર સ્ટેલોન	Sylvester Stallone
+મેરેથોન	Maratona
+ગુડફ્રાઈડે	Sexta-Feira Santa
+રાશી	Zodíaco
+ટેક્લોબેન	Tacloban
+યોહાન	João Batista
+ઝેર	Veneno
+અતિસાર	Diarreia
+અંદામાન અને નિકોબાર દ્વીપસમૂહ	Andamão e Nicobar
+પંડિત રામ નારાયણ	Ram Narayan
+ઇટાનગર	Itanagar
+રશિયાનાં ગણતંત્રો	Repúblicas da Rússia
+વેગમાન સંરક્ષણનો નિયમ	Momento linear
+નાઈટ્સ ટેમ્પ્લર	Ordem dos Templários
+તરંગલંબાઇ	Comprimento de onda
+તંજાવુર	Thanjavur
+સ્ટેનફોર્ડ યુનિવર્સિટી	Universidade Stanford
+ફ્રેન્ક લેમ્પાર્ડ	Frank Lampard
+કોથમીર	Coentro
+મનોવિષ્લેષણ	Psicanálise
+ભારતનો રાષ્ટ્રધ્વજ	Bandeira da Índia
+વંશીય જૂથ	Grupo étnico
+વાર	Dias da semana
+ઈમાન	Chahada
+એડનની ખાડી	Golfo de Áden
+મનમોહન સિંહ	Manmohan Singh
+રાતો પાંડા	Panda-vermelho
+સુરખાબ	Flamingo
+સાર્વભૌમત્વ	Soberania
+બકિંગહામ પેલેસ	Palácio de Buckingham
+યુનિફોર્મ રિસોર્સ લોકેટર	URL
+ગૂગલ અર્થ	Google Earth
+ફાઇલ ટ્રાન્સ્ફર પ્રોટોકોલ	File Transfer Protocol
+અંતરનું વિશ્લેષણ	Análise de variância
+ઊન	Lã
+પીડીએફ	Portable document format
+નિહારિકા	Nebulosa
+યુનિવર્સલ સીરિયલ બસ	Universal Serial Bus
+તાલિબાન	Taliban
+પર્લ	Perl
+ઈંધણ (બળતણ)	Combustível
+હળદર	Açafrão-da-terra
+એમપીથ્રી	MP3
+જંગલી બિલાડી	Gato-da-selva
+ચક્તાવાળી બિલાડી	Gato-leopardo
+ભેંસ	Búfalo-asiático
+દાઢી	Barba
+સૈગોન એરપોર્ટ	Aeroporto Internacional Long Thanh
+મેજર ડિપ્રેસિવ ડિસઓર્ડર	Depressão nervosa
+કૃષ્ણ	Krishna
+નિર્વાણ	Nirvana
+આગ્રા	Agra (Índia)
+ચોમાસુ	Monção
+એલર્જી	Alergia
+સંક્ષિપ્ત સંદેશ સેવા	Serviço de mensagens curtas
+દુકાળ	Seca
+કાળા મરી	Pimenta-preta
+કાશ્મીર	Caxemira
+વિકિપીડિયા:જાણીતા પ્રશ્નો	Ajuda:FAQ
+સ્વર્ગીય ગુફા	Gruta de Thien Duong
+હરિતદ્રવ્ય	Clorofila
+વીમો	Seguro
+ફ્રાન્સનો રાષ્ટ્રધ્વજ	Bandeira da França
+સંસ્થા	Organização
+ગેસ્ટાપો	Gestapo
+પ્રિન્સ ચાર્લ્સ	Carlos, Príncipe de Gales
+ટાઇમ (સામયિક)	Time (revista)
+લોકગીત	Música folclórica
+કાગડો	Corvo
+ડિસ્કવરી ચેનલ	Discovery Channel
+ચંડીગઢ	Chandigarh
+વરિયાળી	Funcho
+સ્ફટિક	Cristal
+મમી	Múmia
+હાઇડ્રોકાર્બન	Hidrocarboneto
+એપોલો ૧૧	Apollo 11
+બર્મુડા ત્રિકોણ	Triângulo das Bermudas
+રણદ્વીપ	Oásis
+ટર્કી	Peru (ave)
+બ્રેમ્પ્ટન, ઓન્ટારીયો	Brampton
+નાગોર્નો-કરબાખ ગણરાજ્ય	Nagorno-Karabakh
+ધ અંડરટેકર	The Undertaker
+જિહાદ	Jihad
+ઉષ્મા	Calor
+મંદિર	Templo
+એલેક્સ ફર્ગ્યુસન	Alex Ferguson
+કલકલિયો	Guarda-rios
+અળસી	Linho
+કોલ્ડપ્લે	Coldplay
+સ્વસ્તિક	Suástica
+કંદહાર	Candaar
+નીલગિરી	Eucalipto
+એનફિલ્ડ	Anfield
+ફણસ	Artocarpus heterophyllus
+માછલીઘર	Aquário
+રાજા આર્થર	Rei Artur
+લાલ કિલ્લો	Forte Vermelho
+દાદરા અને નગરહવેલી	Dadrá e Nagar-Aveli
+વિદ્યુત ક્ષેત્ર	Campo elétrico
+ચાર્લ્સ બૅબેજ	Charles Babbage
+ફીજી હિન્દી	Hindi fijiano
+હેરી પોટર એન્ડ ધ ડેથલી હેલોઝ	Harry Potter and the Deathly Hallows
+શ્રીમદ્ ભગવદ્ ગીતા	Bagavadguitá
+ઑસ્ટ્રિયાનો રાષ્ટ્રધ્વજ	Bandeira da Áustria
+અખરોટ	Nogueira-comum
+ઐશ્વર્યા રાય	Aishwarya Rai
+કુ ક્લક્સ ક્લાન	Ku Klux Klan
+બ્રાહ્મણ	Brâmane
+વોરન બફેટ	Warren Buffett
+કામસૂત્ર	Kama Sutra
+સ્વામી વિવેકાનંદ	Swami Vivekananda
+એકમ	Unidade de medida
+ફિબોનાકિ	Sequência de Fibonacci
+રક્તના પ્રકાર	Grupo sanguíneo
+કેથરિન ઝેટા-જોન્સ	Catherine Zeta-Jones
+બ્લેક સબાથ	Black Sabbath
+પ્રમબનન	Conjunto de Prambanan
+મુસલમાન	Muçulmano
+પ્રતિભા પાટીલ	Pratibha Patil
+પત્તા	Baralho
+ફીનલેંડનો રાષ્ટ્રધ્વજ	Bandeira da Finlândia
+લખનૌ	Lucknow
+ઢાંચો:Commons category	Predefinição:Commonscat
+સિટી ઓફ માન્ચેસ્ટર સ્ટેડિયમ	City of Manchester Stadium
+જર્મનીનો રાષ્ટ્રધ્વજ	Bandeira da Alemanha
+યુરિયા	Ureia
+અમૃતસર	Amritsar
+આલ્બેનિયાનો રાષ્ટ્રધ્વજ	Bandeira da Albânia
+ડેડમાઉસ	Deadmau5
+ચંદ્રયાન-૧	Chandrayaan-1
+ગયા જિલ્લો	Gaya (distrito da Índia)
+ઓર્લાન્ડો, ફ્લોરિડા	Orlando
+ગજહ મદ	Gajah Mada
+પર્યટન	Turismo
+દ્વિસંગી તારો	Estrela binária
+માન્ચેસ્ટર સિટી ફૂટબૉલ ક્લબ	Manchester City Football Club
+ચલ	Variável (matemática)
+અવયવ	Divisor
+કલ્પના-૧	Kalpana 1
+ઢાંચો:Chembox	Predefinição:Info/Química
+ઢાંચો:Taxobox	Predefinição:Info/Taxonomia
+ઈથેન	Etano
+ઢાંચો:Infobox legislature	Predefinição:Info/Órgão legislativo
+હોલો	Rola-turca
+સુનીતા વિલિયમ્સ	Sunita Williams
+શ્રેણી:ચલચિત્ર	Categoria:Filmes
+કચ્છી ભાષા	Língua kutchi
+પ્રણવ મુખર્જી	Pranab Mukherjee
+પંજાબી ભાષા	Língua panjabi
+આદમ અને હવા	Adão e Eva
+અરબી સમુદ્ર	Mar Arábico
+પ્રદૂષણ	Poluição
+સતના	Satna
+સરસ્વતી દેવી	Sarasvati
+કાકીનાડા	Kakinada
+ઉંબરો (વૃક્ષ)	Figueira
+હેઇદી ક્લુમ	Heidi Klum
+ડેનમાર્કનો રાષ્ટ્રધ્વજ	Bandeira da Dinamarca
+સી. વી. રામન	Chandrasekhara Venkata Raman
+નવી મુંબઈ	Nova Bombaim
+ટાવર ઓફ લંડન	Torre de Londres
+આરમીન વન બ્યુરન	Armin van Buuren
+મૌર્ય વંશ	Império Máuria
+પિત્તાશય	Vesícula biliar
+વિદ્યુત વિચ્છેદન-વિશ્લેષણ (ઇલેક્ટ્રોલિસિસ)	Eletrólise
+વિનિમય દર	Taxa de câmbio
+જયપુર	Jaipur
+કાનપુર	Kanpur
+ઈંદોર	Indore
+દમણ અને દીવ	Damão e Diu
+પૉંડિચેરી	Puducherry
+અસ્થિભંગ	Fratura óssea
+હેલ-બોપ ધૂમકેતુ	Hale-Bopp
+ટેટ્રીસ (રમત)	Tetris
+ડેલ્ફી	Delfos
+સેમ્યુઅલ મોર્સ	Samuel Morse
+બોરિસ બેકર	Boris Becker
+૨૦૦૮ મુંબઈ હુમલો	Atentados de 26 de novembro de 2008 em Bombaim
+એમિથિસ્ટ	Ametista
+ચક્રવાત	Ciclone
+૩જી	3G
+૪જી મોબાઇલ સેવા	4G
+બેરોમીટર	Barómetro
+ગિનિ પિગ	Porquinho-da-índia
+અફઘાનિસ્તાનનો રાષ્ટ્રધ્વજ	Bandeira do Afeganistão
+મોર્સ કોડ	Código Morse
+વિકિપીડિયા:ચકાસણીયોગ્યતા	Wikipédia:Verificabilidade
+ક્રાઇસ્ટ ધ રિડીમર	Cristo Redentor
+વારાણસી	Varanasi
+ઇથરનેટ	Ethernet
+ઓઝોન સ્તર	Ozonosfera
+કુંવારપાઠું	Babosa
+કેનેડાનો રાષ્ટ્રધ્વજ	Bandeira do Canadá
+ખાટી આમલી	Tamarindus
+કોર્ન	Korn
+પટના	Patna
+ભારતીય રૂપિયો	Rupia indiana
+ભીંડા	Quiabo
+એપ્રિલ ફૂલ્સ ડે	Dia da mentira
+પશુપાલન	Pecuária
+ભોપાલ	Bhopal
+વાકછટા	Retórica
+જળ ચક્ર	Ciclo hidrológico
+હોમિયોપેથી	Homeopatia
+મગર	Crocodilo-persa
+સ્વચાલિત ગણક યંત્ર (ATM)	Caixa eletrônico
+હેરિસન ફોર્ડ	Harrison Ford
+ચણા	Grão-de-bico
+ઈન્ટરનેટ પ્રોટોકોલ સ્યુટ	TCP/IP
+પાલક (ભાજી)	Espinafre
+ઈસ્ટોનિયાનો રાષ્ટ્રધ્વજ	Bandeira da Estónia
+એન્ડોરાનો રાષ્ટ્રધ્વજ	Bandeira de Andorra
+ઑસ્ટ્રેલિયાનો રાષ્ટ્રધ્વજ	Bandeira da Austrália
+ફાસ્ટ ફૂડ	Fast-food
+કાતરા (ઈયળ)	Lagarta
+માંસાહારી	Carnívoro
+હંગેરીનો રાષ્ટ્રધ્વજ	Bandeira da Hungria
+કાંચનજંઘા	Kanchenjunga
+અઝેરબીજાનનો રાષ્ટ્રધ્વજ	Bandeira do Azerbaijão
+વિરામચિહ્નો	Pontuação
+પર્યાવરણ સંરક્ષણ સ્થિતિ	Estado de conservação
+ઇમેજ સ્કેનર	Digitalizador
+નારાયણ કાર્તિકેયન	Narain Karthikeyan
+ચીનનો ઇતિહાસ	História da China
+પેટ્રોનાસ જોડિયા ટાવર	Petronas Twin Towers
+જન ગણ મન	Jana Gana Mana
+શ્રીનિવાસ રામાનુજન	Srinivasa Ramanujan
+જાયફળ	Noz-moscada
+ઘર ઉંદર	Mus musculus
+ટાઇફોઇડ	Febre tifoide
+ગુરુનાનક	Guru Nanak
+લિક્વિડ ક્રિસ્ટલ ડિસ્પ્લે	LCD
+અંગુષ્ઠ	Polegar
+શાકાહારી	Vegetarianismo
+અલ્જીરીયાનો રાષ્ટ્રધ્વજ	Bandeira da Argélia
+ઓલ્ડ ટ્રેફોર્ડ	Estádio Old Trafford
+પર્યાયોક્તિ	Eufemismo
+જુડાસ પ્રિસ્ટ	Judas Priest
+સુસાન બોયલ	Susan Boyle
+શાહજહાં	Shah Jahan
+શિમલા	Shimla
+કાર્લ લેન્ડસ્ટેઇનર	Karl Landsteiner
+ધ્વનિ પ્રદૂષણ	Poluição sonora
+ઢાંચો:Cite book	Predefinição:Citar livro
+એલિસેઝ એડવેન્ચર્સ ઇન વન્ડરલેન્ડ	Alice no País das Maravilhas
+એરિક શ્મિટ	Eric Schmidt
+લેરી એલિસન	Larry Ellison
+સેર્ગેઈ બ્રિન	Sergey Brin
+સુભાષ કાક	Subhash Kak
+બોલીવુડ	Bollywood
+ટ્યૂલિપ	Tulipa
+ઇમુ	Emu
+ઓએસઆઈ મોડેલ	Modelo OSI
+આઈસલેંડનો રાષ્ટ્રધ્વજ	Bandeira da Islândia
+ધ હૂ	The Who
+ગ્રાન્ડ થેફ્ટ ઓટો ૪	Grand Theft Auto IV
+વૈશાલી જિલ્લો	Distrito de Vaishali
+સ્વાઈન ફલૂ	Pandemia de gripe A de 2009
+ઈંડોનેશિયાનો રાષ્ટ્રધ્વજ	Bandeira da Indonésia
+ગાબોનનો રાષ્ટ્રધ્વજ	Bandeira do Gabão
+જિબુટીનો રાષ્ટ્રધ્વજ	Bandeira do Djibouti
+બાઇનૉક્યુલર	Binóculo
+સંક્ષિપ્ત શબ્દ	Abreviatura
+હોન્ડુરાસનો રાષ્ટ્રધ્વજ	Bandeira das Honduras
+કેપ વર્દુનો રાષ્ટ્રધ્વજ	Bandeira de Cabo Verde
+ગિની-બિસ્સાઉનો રાષ્ટ્રધ્વજ	Bandeira da Guiné-Bissau
+હૈતીનો રાષ્ટ્રધ્વજ	Bandeira do Haiti
+વી ફોર વેન્ડેટા	V for Vendetta
+ગ્રેનેડાનો રાષ્ટ્રધ્વજ	Bandeira de Granada
+બહામાનો રાષ્ટ્રધ્વજ	Bandeira das Bahamas
+રવિ શંકર	Ravi Shankar
+પલ્‍પ ફિક્શન (ફિલ્‍મ)	Pulp Fiction
+બાર્બાડોસનો રાષ્ટ્રધ્વજ	Bandeira de Barbados
+અર્ધ વિરામ	Ponto e vírgula
+હુક્કો	Narguilé
+શોર્ટ સેલ	Venda a descoberto
+છાશ	Leitelho
+માર્કની લખેલી સુવાર્તા	Evangelho segundo Marcos
+રાજ્ય	Estado (subdivisão)
+કીટલી	Chaleira
+ડો. હરગોવિંદ ખુરાના	Har Khorana
+સટ્ટાખોરી	Especulação financeira
+ઉત્તર ગોઆ જિલ્લો	Goa Norte
+દક્ષિણ ગોઆ જિલ્લો	Goa Sul
+એ. આર. રહેમાન	A. R. Rahman
+હિંગ	Ferula assafoetida
+ગિરનારી કાગડો	Corvo-de-bico-grosso
+રાધા	Radha
+કાબર	Acridotheres tristis
+લેધરબેક કાચબો	Tartaruga-de-couro
+ભીમસેન જોશી	Bhimsen Joshi
+અલિસિયા કીઝ	Alicia Keys
+ગર્ભનિરોધ	Contracepção
+જળવિમાન	Hidroplano
+ગીધ	Abutre
+ગોલ્ડફિશ	Carassius auratus
+વેનેસા હજિન્સ	Vanessa Hudgens
+વિલુપ્ત જાતિ	Extinção
+અવાજની ઝડપ	Velocidade do som
+ઝકાત	Zakat
+નીલ્સ હેન્રીક અબૅલ	Niels Henrik Abel
+સ્કોર્પિયન્સ (બેન્ડ)	Scorpions
+અંગોલાનો રાષ્ટ્રધ્વજ	Bandeira de Angola
+સ્લમડોગ મિલિયોનેર	Slumdog Millionaire
+અવાક	Savacu
+ઈરાનનો રાષ્ટ્રધ્વજ	Bandeira do Irão
+સગર્ભાવસ્થા દરમિયાન ડાયાબિટીસ	Diabetes gestacional
+આંગણવાડી	Jardim de infância
+ઍરોસ્મિથ	Aerosmith
+મેંગલોર	Mangalore
+ઝેક ગણરાજ્યનો રાષ્ટ્રધ્વજ	Bandeira da República Checa
+બાંગ્લાદેશનો રાષ્ટ્રધ્વજ	Bandeira do Bangladesh
+સમઘટકતા	Isomerismo
+ચરબી	Gordura
+શિયાળ	Chacal-dourado
+ઇન્દ્ર	Indra
+ભારતના ભાગલા	Partição da Índia
+ગ્રીસનો રાષ્ટ્રધ્વજ	Bandeira da Grécia
+મિથુન રાશી	Gêmeos (astrologia)
+હ્યુજ જેકમેન	Hugh Jackman
+યતી (હિમ માનવ)	Ieti
+૧૮૫૭નો ભારતીય વિપ્લવ	Rebelião Indiana de 1857
+જ્યોર્જ માઇકલ	George Michael
+જાપાનનો ઇતિહાસ	História do Japão
+ઇજિપ્તનો રાષ્ટ્રધ્વજ	Bandeira do Egito
+બહેરીનનો રાષ્ટ્રધ્વજ	Bandeira do Bahrein
+આર્જેન્ટીનાનો રાષ્ટ્રધ્વજ	Bandeira da Argentina
+અન્ના કુર્નિકોવા	Anna Kournikova
+વાયુનું પ્રદૂષણ	Poluição atmosférica
+ચીનનો રાષ્ટ્રધ્વજ	Bandeira da República Popular da China
+શરીર વજન અનુક્રમ	Índice de massa corporal
+અક્ષય વિકાસ	Desenvolvimento sustentável
+સૌંદર્ય પ્રસાધનો	Cosmético
+મસુર	Lens culinaris
+લક્ષ્મી	Lakshmi
+વિદ્યુતજનીન	Gerador elétrico
+એસોટેરિક (અમુક વ્યક્તિઓ જ સમજી શકે તેવું)	Esoterismo
+મંત્ર	Mantra
+બૂમરેંગ	Bumerangue
+ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Estados e territórios da Índia
+ઉચિત વપરાશ	Fair use
+વાડી	Granja
+જંતુનાશક	Pesticida
+રબર	Borracha
+કાલિ	Kali
+સાનિયા મિર્ઝા	Sania Mirza
+ઉત્સવ	Festival
+આયુર્વેદ	Ayurveda
+અમર્ત્ય સેન	Amartya Sen
+રિસાયક્લિંગ	Reciclagem
+જંગલી કૂતરો	Cão-selvagem-asiático
+જીરું	Cominho
+બેલારુસનો રાષ્ટ્રધ્વજ	Bandeira da Bielorrússia
+યમુના	Rio Yamuna
+ડિસ્લેક્સીયા	Dislexia
+ક્રોએશિયાનો રાષ્ટ્રધ્વજ	Bandeira da Croácia
+પગ	Perna
+ભારતનો ઇતિહાસ	História da Índia
+અંધવિશ્વાસ	Superstição
+મેથી	Feno-grego
+કસિનો	Casino
+કમળો	Icterícia
+આધાસિસિ બિમારિ	Enxaqueca
+વાઇમેક્સ (WiMAX)	WiMAX
+પ્રાથમિક સારવાર	Primeiros socorros
+લિંગ ઉત્થાન	Ereção
+હીમોફીલિયા	Hemofilia
+કન્યા રાશી	Virgem (astrologia)
+માઇક્રોસોફ્ટ વિઝ્યુઅલ સ્ટુડિયો	Microsoft Visual Studio
+રચેલ વેઇઝ	Rachel Weisz
+તુલા રાશી	Libra (astrologia)
+વૃશ્ચિક રાશી	Escorpião (astrologia)
+તાઓ તે ચીંગ	Tao Te Ching
+ગેમ્બિયાનો રાષ્ટ્રધ્વજ	Bandeira da Gâmbia
+એન્ટિગુઆ એન્ડ બાર્બુડાનો રાષ્ટ્રધ્વજ	Bandeira de Antígua e Barbuda
+ગૂગલ અનુવાદ	Google Translate
+ચિત્રલિપિ	Ideograma
+અંકશાસ્ત્ર	Numerologia
+દાંતનું ચોકઠું	Prótese dentária
+વિકિપીડિયા:સ્ટબ	Topologia de rede
+સાર્ક	Associação Sul-Asiática para a Cooperação Regional
+કઠોળ	Legume
+પર્યાવરણીય ઇજનેરી	Engenharia do ambiente
+બ્રાન્ડી	Conhaque
+હાઉ આઇ મેટ યોર મધર	How I Met Your Mother
+હોર્નેડ ગુઆન	Oreophasis derbianus
+સુબ્રમણ્યન ચંદ્રશેખર	Subrahmanyan Chandrasekhar
+જિલ્લો	Distrito
+ચોલ સામ્રાજ્ય	Império Chola
+મદદ:સંપાદન	Ajuda:Guia de edição/Formatação
+પાન્ડુ શામા	Melro-azul
+ટાટા નેનો	Tata Nano
+લાઇફ ઓફ પાઇ	Life of Pi (filme)
+ઉઝી	Uzi
+કરેણ	Oleandro
+દિવેલી	Mamona
+એમ.પી.૫	Heckler & Koch MP5
+આઝાદ હિંદ ફોજ	Exército Nacional Indiano
+રજકો	Medicago sativa
+પેન્શન	Reforma pensionária
+એકેએસ-૭૪યુ	AK-74
+લતા મંગેશકર	Lata Mangeshkar
+ડૉ. સર્વપલ્લી રાધાકૃષ્ણન	Sarvepalli Radhakrishnan
+માંકડું	Macaca mulatta
+કફોત્પાદક ગ્રંથિ	Hipófise
+ઇંગ્લીશ વીલો	Salgueiro-branco
+સાગ	Tectona grandis
+યુનિલિવર	Unilever
+ચાર્લ્સ લુસિઅન બોનાપાર્ટ	Charles Lucien Bonaparte
+રૂખડો (વનસ્પતિ)	Baobá
+ડેઝા વુ	Déjà vu
+આયેશા ટાકિયા	Ayesha Takia
+ગ્વાલિયર	Gwalior
+પ્રિયંકા ચોપરા	Priyanka Chopra
+દીપિકા પદુકોણે	Deepika Padukone
+ડચ ઇસ્ટ ઇંડિયા કંપની	Companhia Holandesa das Índias Orientais
+સિંહ રાશી	Leão (astrologia)
+કેમરૂનનો રાષ્ટ્રધ્વજ	Bandeira dos Camarões
+સંયુક્ત રાષ્ટ્રસંઘના સભ્ય દેશોની યાદી	Estados-membros das Nações Unidas
+બોલપેન	Caneta esferográfica
+રામ	Rama
+કોલમ્બિયાનો રાષ્ટ્રધ્વજ	Bandeira da Colômbia
+મહમદ અલી ઝીણા	Muhammad Ali Jinnah
+ફુદીનો	Mentha arvensis
+લંડન આઇ (વિરાટ ચકડોળ)	London Eye
+ઘાનાનો રાષ્ટ્રધ્વજ	Bandeira do Gana
+ચિત્તભ્રમણા	Delirium
+ચીલીનો રાષ્ટ્રધ્વજ	Bandeira do Chile
+પેચીયું (સ્ક્રૂ ડ્રાઇવર)	Chave de fenda
+શહેરીકરણ	Urbanização
+ગરમાળો (વૃક્ષ)	Cássia-imperial
+ક્રમચય	Permutação
+કર્ક રાશી	Câncer (astrologia)
+અલ્પ વિરામ	Vírgula
+શિવલીંગી (વનસ્પતિ)	Abricó-de-macaco
+ઇથોપિયાનો રાષ્ટ્રધ્વજ	Bandeira da Etiópia
+કુંભ રાશી	Aquário (astrologia)
+સ્વચ્છતા	Higiene
+સ્ટેથોસ્કોપ	Estetoscópio
+અલ્હાબાદ	Allahabad
+કમ્બોડીયાનો રાષ્ટ્રધ્વજ	Bandeira do Camboja
+ક્યુબાનો રાષ્ટ્રધ્વજ	Bandeira de Cuba
+સોનિયા ગાંધી	Sonia Gandhi
+કોંગોનું ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandeira da República do Congo
+વોલ્વો	Volvo
+સિલિકૉન વૅલી	Vale do Silício
+કરિયાતું	Swertia
+અમીરાત સ્ટેડિયમ	Emirates Stadium
+વૃષભ રાશી	Touro (astrologia)
+મકર રાશી	Capricórnio
+કોંગોનું લોકતંત્રીય ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandeira da República Democrática do Congo
+કરી (મસાલેદાર રસાવાળી વાની)	Caril
+પીરોજ	Turquesa
+કોળું	Abóbora
+કાર્બ્યુરેટર	Carburador
+ગિનિનો રાષ્ટ્રધ્વજ	Bandeira da Guiné
+ઈક્વેડોરનો રાષ્ટ્રધ્વજ	Bandeira do Equador
+એડોબ ફ્લેશ	Adobe Flash
+મધ્ય આફ્રીકી ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandeira da República Centro-Africana
+ચૅડનો રાષ્ટ્રધ્વજ	Bandeira do Chade
+પોલેંડ રાષ્ટ્રીય ફૂટબોલ ટીમ	Seleção Polonesa de Futebol
+સાત ઘોર પાપ (ખ્રિસ્તી ધર્મ)	Pecado capital
+ઉદ્‌ગારચિહ્ન	Ponto de exclamação
+કોર્પોરેશન	Corporação
+મધ્યમા	Dedo médio
+ગ્રીનહાઉસ વાયુ	Gases do efeito estufa
+તિરુવનંતપુરમ્	Thiruvananthapuram
+ભૂસ્ખલન	Deslizamento de terra
+બાષ્પોત્સર્જન	Transpiração
+તાઈ ચી ચુઆન	Tai chi chuan
+માયોપીઆ	Miopia
+કોમોરોસનો રાષ્ટ્રધ્વજ	Bandeira das Comores
+જામીનગીરીઓ	Valor mobiliário
+વનનાબૂદી	Desflorestação
+કેટ હડસન	Kate Hudson
+દાર્જિલિંગ	Darjeeling
+શ્રીનગર	Srinagar
+યાટ	Iate
+કોસ્ટારિકાનો રાષ્ટ્રધ્વજ	Bandeira da Costa Rica
+તાલ	Ritmo
+ફિલિપ્સ	Philips
+વિશ્વ આર્થિક મંચ	Fórum Econômico Mundial
+સ્ક્રેબલ	Scrabble
+અગરતલા	Agartala
+લીમડો	Neem
+પાર્વતી	Parvati
+ફેંગ શુઇ	Feng shui
+ઈક્વેટોરીયલ ગીનીનો રાષ્ટ્રધ્વજ	Bandeira da Guiné Equatorial
+એરિટ્રિયાનો રાષ્ટ્રધ્વજ	Bandeira da Eritreia
+લસિકા ગાંઠ	Linfonodo
+ગયાનાનો રાષ્ટ્રધ્વજ	Bandeira da Guiana
+બાણભટ્ટ	Banabhatta
+સ્ટેમ્ફોર્ડ બ્રિજ (સ્ટેડિયમ)	Stamford Bridge (estádio)
+દાનીયેલ	Daniel (profeta)
+ભુવનેશ્વર	Bhubaneswar
+બ્લેકબેરી	BlackBerry
+આગ્રાનો કિલ્લો	Forte de Agra
+સિંહાકૃતિ	Brasão de armas da Índia
+ફ્રેન્ચાઇઝીંગ	Franquia
+પૂર્ણ વિરામ	Ponto final
+કટની	Murwara (Katni)
+વળગાડ મુક્તિ	Exorcismo
+સાડી	Sári
+કટિહાર	Katihar
+કૃષિવિજ્ઞાન	Agronomia
+ઘોરખોદિયું	Ratel
+સ્વામી સચ્ચિદાનંદ	Swami Satchidananda
+સિસ્કો	Cisco Systems
+મિસ વર્લ્ડ	Miss Mundo
+માર્વલ કૉમિક્સ	Marvel Comics
+સુવર્ણ માનક	Padrão-ouro
+ખાદ્ય પદાર્થની સાચવણી	Conservação de alimentos
+અલ સાલ્વાડોરનો રાષ્ટ્રધ્વજ	Bandeira de El Salvador
+યરૂશાલેમના હિબ્રુ યુનિવર્સિટી	Universidade Hebraica de Jerusalém
+સિવિલ એવિએશન રાષ્ટ્રીય શાળા	École nationale de l'aviation civile
+રાંચી	Ranchi
+કૌંસ	Colchete (símbolo)
+એગોરાફોબિયા	Agorafobia
+વિકિપીડિયા:અવરોધન નીતિ	Wikipédia:Política de bloqueio
+વિલા પાર્ક	Villa Park
+એચએએલ તેજસ	HAL Tejas
+હિન્દુ-અરેબીક અંકો	Algarismos indo-arábicos
+મંગળના ચંદ્રો	Satélites de Marte
+મહાવિરામ	Dois pontos
+પાતાળ કૂવા	Poço artesiano
+ફુલરિન (Fullerene)	Fulereno
+ગ્વાટેમાલાનો રાષ્ટ્રધ્વજ	Bandeira da Guatemala
+નિંદામણનાશક	Herbicida
+તર્ક	Razão
+કબજિયાત	Obstipação
+અહિંસા	Ainsa
+ગૂચી	Gucci
+મનુ	Manu
+કાંડા ઘડિયાળ	Relógio de pulso
+રૂપિયો	Rupia
+ખજુરાહો	Conjunto de Templos de Khajuraho
+ઍલ્કેમિસ્ટ	O Alquimista
+ફતેહપૂર સિક્રી	Fatehpur Sikri
+ડોમિનિકાનો રાષ્ટ્રધ્વજ	Bandeira da Dominica
+ખાવાનો સોડા	Bicarbonato de sódio
+શિયાળુ મોટી ડુબકી	Mergulhão-de-pescoço-vermelho
+અવકાશ સંશોધન	Exploração espacial
+રૂપેરી પેણ	Pelecanus philippensis
+કચરાનો પ્રબંધ	Gestão integrada de resíduos sólidos
+સુવર્ણ મંદિર, અમૃતસર	Harmandir Sahib
+યુઇએફએ યૂરો ૨૦૧૨ નામાંકન	Qualificações para o Campeonato Europeu de Futebol de 2012
+આયર્ન મૅન	Homem de Ferro
+એના નિકોલ સ્મિથ	Anna Nicole Smith
+ચક્ર	Chacra
+મેલાટોનિન	Melatonina
+એપોલો ૧૭	Apollo 17
+સાંચીનો સ્તુપ	Sanchi
+કપૂર	Cânfora (química)
+વિદેશ નીતિ	Política externa
+મેટ્રોપોલિટન એરિયા નેટવર્ક	Rede de área metropolitana
+ફીજીનો રાષ્ટ્રધ્વજ	Bandeira das Fiji
+રેકી	Reiki
+રામકૃષ્ણ પરમહંસ	Ramakrishna
+પાણીનું પ્રદૂષણ	Poluição da água
+ઓઝોન અવક્ષય	Depleção do ozônio
+એનટીએફએસ	NTFS
+વિગતવાર વિજ્ઞાન પોલીટેકનિક ઇન્સ્ટિટ્યુટ	Institut polytechnique des sciences avancées
+મોહરમ	Ashura
+મોક્ષ	Moksha
+કો-ઍક્સિયલ કેબલ	Cabo coaxial
+હલવો	Halva
+મેમરી કાર્ડ	Cartão de memória
+વિશ્વ જળ દિન	Dia Mundial da Água
+ૐ	Om
+લાલી (લિપસ્ટીક)	Batom
+સૌથી તેજસ્વી તારાઓ	Lista das estrelas mais brilhantes
+ડોમિનિકન ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandeira da República Dominicana
+પેજ રેન્ક	PageRank
+ગૉડફ્રે હારૉલ્ડ હાર્ડિ	Godfrey Harold Hardy
+અજંતાની ગુફાઓ	Grutas de Ajanta
+રૂઢિપ્રયોગ	Idiotismo (linguística)
+કરીના કપૂર	Kareena Kapoor
+સિકલસેલ એનીમિયા રોગ	Anemia falciforme
+બ્રાહ્મી લિપિ	Escrita brahmi
+પ્રારંભિક જાહેર ભરણું (આઈપીઓ)	Oferta pública inicial
+શિયાળુ નાની ડુબકી	Mergulhão-de-pescoço-preto
+શ્રેણી:મેના-કાબર કુટુંબ	Sturnidae
+ટર્બોચાર્જર	Turbo
+અર્જુન	Arjuna
+વૈશ્ય	Vaixá
+ફિઝિયોથેરાપી	Fisioterapia
+અયોધ્યા	Ayodhya
+ગંગટોક	Gangtok
+ધર્મશાલા	Dharamshala
+મેડમ તુસાદ સંગ્રહાલય	Madame Tussauds
+વ્હાઈટ હાર્ટ લેન	White Hart Lane
+અણુ અપ્રસાર સંધિ	Tratado de Não Proliferação de Armas Nucleares
+વિકીમેપિયા	WikiMapia
+કુતુબ મિનાર	Qutb Minar
+મોનોરેલ	Monocarril
+એબીઓ રક્તસમુહ પ્રણાલી	Sistema ABO
+પોલિએસ્ટર	Poliéster
+કુદરતી સંપત્તિ	Recurso natural
+હનુમાન	Hanuman
+ઝરખ	Hiena-riscada
+પ્રીટિ ઝિન્ટા	Preity Zinta
+સહી (હસ્તાક્ષર)	Assinatura
+ખેતર	Campo (agricultura)
+શિક્ષક દિન	Dia do professor
+મત્સ્યઉછેર	Aquacultura
+ઇલોરાની ગુફાઓ	Grutas de Ellora
+હુમાયુનો મકબરો	Túmulo de Humaium
+અષ્ટાધ્યાયી	Pānini
+મતદાન	Votação
+મલ્ટિમીટર	Multímetro
+ઇસ્કોન	Movimento Hare Krishna
+શરીર વૃદ્ધી અંતઃસ્ત્રાવ	Hormônio do crescimento
+શક સંવત	Calendário hindu
+વેબ ડિઝાઈન	Web design
+વિલવણીકરણ	Dessalinização
+સક્રિય કાર્બન	Carvão ativado
+ચણોઠી	Ervilha do Rosário
+સીતા	Sita
+લક્ષ્મી મિત્તલ	Lakshmi Mittal
+ગોદાવરી	Rio Godavari
+લૂઈસ વીટન	Louis Vuitton
+લૌહ અયસ્ક	Minério de ferro
+કરકરો	Grus virgo
+સેન્ટ જેમ્સ પાર્ક	St. James' Park
+નાણાકીય વર્ષ	Ano fiscal
+ભારતીય વાનગીઓ	Culinária da Índia
+અનામિકા	Anular
+વ્યાપાર ચક્ર	Ciclo econômico
+ઐઝવાલ	Aizawl
+બાળ કામદાર	Trabalho infantil
+વ્યવસાય	Day job
+રાજગીધ	Urubu-rei
+કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન	Parque Nacional de Kaziranga
+હાર્લી-ડેવિડસન	Harley-Davidson
+રસીકરણ	Vacinação
+ઋતુ-પ્રવાસ	Migração de animais
+ગોલ્ડમૅન સૅશ	Goldman Sachs
+ક્રોપ સર્કલ	Círculos nas plantações
+કૃષ્ણા નદી	Rio Krishna
+ખંજરી (વાદ્ય)	Pandeireta
+બંજી જમ્પિંગ	Bungee jumping
+કૃષિ ઈજનેરી	Engenharia agronômica
+સક્રિય કલા વીજસ્થિતિમાન	Potencial de ação
+મૌલાના આઝાદ	Abul Kalam Azad
+રાજેન્દ્ર પ્રસાદ	Rajendra Prasad
+લીલો દરીયાઈ કાચબો	Tartaruga-verde
+દેહરાદૂન	Dehradun
+ગુવાહાટી	Guwahati
+લેસર પ્રિન્ટર	Impressora a laser
+વિશાખાપટનમ	Vishakhapatnam
+વિજયવાડા	Vijayawada
+જોધપુર	Jodhpur
+અજમેર	Ajmer
+ઉજ્જૈન	Ujjain
+લુધિયાણા	Ludhiana
+નાસિક	Nashik
+મેરઠ	Meerut
+પારસી	Parses
+મથુરા	Matura
+ઉદયપુર	Udaipur
+ફરીદાબાદ	Faridabad
+લડાખ	Ladakh
+ઔરંગાબાદ	Aurangabad
+જબલપુર	Jabalpur
+મોર	Pavão
+પ્રાઇડ પાર્ક સ્ટેડિયમ	Pride Park Stadium
+ઓરછા (મધ્ય પ્રદેશ)	Orachha
+રામસેતુ	Ponte de Adão
+વાર્ટા નદી (યુરોપ)	Rio Varta
+અલીગઢ	Aligarh
+પર્સનલ એરિયા નેટવર્ક	Rede de área pessoal
+હૃદયસ્તંભતા	Parada cardiorrespiratória
+જેક સ્પૅરો	Capitão Jack Sparrow
+વાટાઘાટ	Negociação
+બ્રહ્મગુપ્ત	Brahmagupta
+ગુરુ ગ્રંથ સાહેબ	Guru Granth Sahib
+વામકુક્ષિ	Sesta
+કાળી ચા	Chá preto
+પોર્ટ બ્લૅર	Port Blair
+ખાદ્ય અને ઔષધ વહીવટીતંત્ર	Food and Drug Administration
+વિટામિન બી૬	Vitamina B6
+હાવડા	Haora
+ગાઝિયાબાદ	Ghaziabad (cidade)
+રીવર રાફ્ટિંગ	Rafting
+યુરોપ દિન	Dia da Europa
+સૂડો	Periquito-de-colar
+ઇમ્ફાલ	Imphal
+૧૯૬૨નું ભારત-ચીન યુદ્ધ	Guerra sino-indiana
+ઉંચાઇ	Altura (medida)
+ડેલ્ટા ફોર્સ	Delta Force
+કોલ્હાપૂર	Kolhapur
+વાઇકિંગ ૧	Viking 1
+ચેરાપુંજી	Cherapunjee
+ઘાસચારો	Forragem animal
+સુગરી	Ploceinae
+અકોલા	Akola
+બરેલી	Bareli
+વારંગલ	Warangal
+તબલા	Tabla
+તિરુનેલવેલી	Tirunelveli
+ભારતનું સર્વોચ્ચ ન્યાયાલય	Supremo Tribunal da Índia
+શ્રીલંકાનો આંતરવિગ્રહ	Guerra civil do Sri Lanka
+નિસર્ગોપચાર	Medicina natural
+હાથીના પગ તળે દેહાંતદંડ	Esmagamento por elefante
+બોયઝોન	Boyzone
+ગાંધાર	Gandara
+લોંકડી	Raposa-de-bengala
+યાયાવર પક્ષીઓ	Migração de aves
+રાગ	Raga
+જાહેરાત એજન્સી	Agência de publicidade
+ઘઉંનાં ધનેડાં	Sitophilus granarius
+અય્યાવળિ	Ayyavazhi
+એમપી	MP
+બહુસમુદાયીત્વ	Polifilia
+ગુર્જીય્ફ	George Ivanovich Gurdjieff
+મોરારજી દેસાઈ	Morarji Desai
+સાબુદાણા	Sagu
+વુઝૂ	Abdesto
+સિટીગ્રુપ	Citigroup
+જેસ્સી ઐસેનબર્ગ	Jesse Eisenberg
+દલિત	Dalit
+ઓપન શોર્ટેસ્ટ પાથ ફર્સ્ટ	Open Shortest Path First
+ગૂગલ ઍનલિટિક્સ	Google Analytics
+ગટરવ્યવસ્થા	Tratamento de águas residuais
+કન્યાકુમારી	Kanyakumari
+કાચબો	Testudinata
+અહમદનગર	Ahmadnagar
+માયા	Maya (filosofia)
+ઓલ ઈન્ડિયા મુસ્લિમ લીગ	Liga Muçulmana
+મહર્ષિ દયાનંદ	Swami Dayananda Saraswati
+વર્તુળની ત્રિજ્યા	Raio
+અળવી (વનસ્પતિ)	Taro
+યુરોપના દેશોની યાદી	Lista de Estados soberanos e territórios dependentes da Europa
+આફ્રિકાના રાષ્ટ્રોની યાદી	Lista de países e territórios da África
+મદુરાઇ	Madurai
+કળિયુગ	Kali Yuga
+કેથોલિક યુનિવર્સિટી ઓફ સેકર્ડ હર્ટ	Universidade Católica do Sagrado Coração
+રાષ્ટ્રીય પંચાંગ	Calendário nacional indiano
+ઇસરો	Organização Indiana de Pesquisa Espacial
+સિતાર	Sitar
+લોક સભા	Lok Sabha
+લેહ	Leh
+ઉજળી પટ્ટાઇ	Tartaranhão-rabilongo
+અણ્ણા હઝારે	Anna Hazare
+ઓરકુટ	Orkut
+ડૉ. ભીમરાવ રામજી આંબેડકર	B.R. Ambedkar
+જાંબુ (વૃક્ષ)	Jamelão
+સમાંતર કમ્પ્યુટિંગ	Computação paralela
+અટલ બિહારી વાજપેયી	Atal Bihari Vajpayee
+ઋત્વિક રોશન	Hrithik Roshan
+ભારતીય અર્થતંત્ર	Economia da Índia
+માન સરોવર	Lago Manasarovar
+જામા મસ્જિદ, દિલ્હી	Jama Masjid
+અક્ષય કુમાર	Akshay Kumar
+ક્વિંગઝાંગ રેલ્વે	Ferrovia Qinghai-Tibete
+નર્મદા નદી	Rio Narmada
+બીલી	Bael
+ભારતીય સામ્યવાદી પક્ષ (માર્ક્સવાદી)	Partido Comunista da Índia (Marxista)
+નમાજ઼	Salá
+એ.સી. ભક્તિવેદાંત સ્વામી પ્રભુપાદ	Bhaktivedanta Swami Prabhupada
+સુકો મેવો	Fruta seca
+સોનોગ્રાફી પરીક્ષણ	Ultrassonografia
+હજ	Hajj
+રાવણ	Ravana
+પરંપરાગત સંગીત	Música tradicional
+કેવલાદેવ રાષ્ટ્રીય ઉદ્યાન	Parque Nacional de Keoladeo
+છત્રપતિ શિવાજી ટર્મિનસ	Estação Chhatrapati Shivaji
+ગોખરુ (વનસ્પતિ)	Tribulus terrestris
+નરસિંહ	Narasimha
+સોલાપૂર	Sholapur
+કલ્પના ચાવલા	Kalpana Chawla
+દાંડી સત્યાગ્રહ	Marcha do Sal
+શિવાજી	Shivaji
+મધ્યમ વર્ગ	Classe média
+જેસલમેર	Jaisalmer
+બોરડી	Jujuba
+ભાવનગર	Bhavnagar
+મખમલ	Veludo
+ધનબાદ	Dhanbad
+એશિયન રમતોત્સવ ૨૦૧૦	Jogos Asiáticos de 2010
+લાલ બહાદુર શાસ્ત્રી	Lal Bahadur Shastri
+રાજ્ય સભા	Rajya Sabha
+મીઠો લીમડો	Murraya koenigii
+ઇવૂડ્ પાર્ક	Ewood Park
+ઈંડિયા ગેટ	Porta da Índia (Nova Deli)
+બ્રાઉનિંગ હાઇ-પાવર	Browning Hi-Power
+પરેજીયુક્ત આહાર	Dietético
+ગયા	Gaya (Índia)
+હેલોવીન	Dia das bruxas
+ફિફા	Federação Internacional de Futebol
+પેટન્ટ	Patente
+બાંદ્રા	Bandorá
+જુવાર	Milhete
+ક્ષેત્રફળ પ્રમાણે વિશ્વના દેશોની યાદી	Lista de países e territórios por área
+સન્ની લિઓન	Sunny Leone
+કોયલ કુટુંબ	Eudynamys
+કસ્તુરબા	Kasturba Gandhi
+ઈન્દ્રા નૂયી	Indra Nooyi
+આરણ્યક ગ્રંથો	Aranyaka
+આશ્રમશાળા	Internato
+અમરાવતી	Amravati
+અમેરિકન ગૅંગ્સ્ટર	American Gangster
+વર્ચ્યુઅલાઈઝેશન	Virtualização
+દિલ્હી મેટ્રો રેલ	Metropolitano de Deli
+વિંધ્યાચલ	Montes Víndias
+દિસપુર	Dispur
+ભારતમાં સત્તાવાર દરજ્જો ધરાવતી ભાષાઓ	Lista de línguas nacionais da Índia
+ઋજુ ઉદર સ્નાયુ	Músculo reto do abdome
+સાગુઆરો (થોર)	Saguaro
+સીતાફળ	Fruta-pinha
+માહે	Mahé (Índia)
+એશિયાઇ ચિત્તો	Acinonyx jubatus venaticus
+વંદે માતરમ્	Vande Mataram
+શ્વેતાંબર	Svetambara
+ગઝલ	Gazel
+ઓલિવ રિડલી દરીયાઈ કાચબો	Lepidochelys olivacea
+એબીએન એમ્રો	ABN AMRO
+લારા દત્તા	Lara Dutta
+એકે ૧૦૧	AK-101
+એકે-૧૦૩	AK-103
+એરન સ્વાર્ટઝ	Aaron Swartz
+બૌઢ	Baudhgarh
+મિડાસ	Midas
+કાટવર્ણી ટપકાંવાળી બિલાડી	Prionailurus rubiginosus
+આમળાં	Sarandi
+હિમાલયન પાઈકા	Ochotona himalayana
+નેપોલિયન હિલ	Napoleon Hill
+સંત કબીર	Kabir
+નથુરામ ગોડસે	Nathuram Godse
+મહેશ ભૂપતિ	Mahesh Bhupathi
+લોકમાન્ય ટિળક	Bal Gangadhar Tilak
+ગુરુ ગોવિંદસિંહ	Guru Gobind Singh
+તુલસીદાસ	Tulsidas
+ભારતના રાષ્ટ્રપતિ	Presidente da Índia
+ડોનાલ્ડ બ્રેડમેન	Donald Bradman
+ગુલઝારીલાલ નંદા	Gulzarilal Nanda
+સેલ્વાસ	Silvassa
+સલામત મૈથુન	Sexo seguro
+ઇન્વેસ્ટમેન્ટ બેન્કિંગ	Banco de investimento
+બુકર ટી.વોશિંગ્ટન	Booker T. Washington
+જમશેદજી તાતા	Jamsetji Tata
+દેવ આનંદ	Dev Anand
+પેરુ (ફળ)	Psidium
+બદામી વાઘોમડા	Atobá-pardo
+અભિમન્યુ	Abhimanyu
+અરીઠાં	Sapindus
+કોલ્લમ	Coulão
+ભારત રત્ન	Bharat Ratna
+ઘી	Ghee
+સારનાથ	Saranate
+સ્વાટ	SWAT
+ચંદ્ર યાન	Chandrayaan-2
+રાકેશ શર્મા	Rakesh Sharma
+હોમી ભાભા	Homi Jehangir Bhabha
+ભારતીય સિનેમા	Cinema da Índia
+વ્યાસ	Vyasa
+કોટા	Kota
+મુરાદાબાદ	Moradabad
+ભીમ બેટકાની ગુફાઓ	Abrigos na Rocha de Bhimbetka
+સામાન્ય તપાસની કક્ષાની બહારનું	Paranormal
+રાજા રવિ વર્મા	Ravi Varma
+રતન તાતા	Ratan Tata
+ભરતનાટ્યમ	Bharatanatyam
+અબુલ ફઝલ	Abu'l-Fazl ibn Mubarak
+પેપ્સીકો	PepsiCo
+રાહુલ બોસ	Rahul Bose
+ગીર રાષ્ટ્રીય ઉદ્યાન અને અભયારણ્ય	Parque Nacional da Floresta de Gir
+રજપુત	Rajput
+દિવેલ	Óleo de rícino
+ગુરુદ્વારા	Gurdwara
+નોબેલ પારિતોષિક વડે સન્માનીત મહાનુભાવો	Laureados com o Nobel
+સમય વ્યવસ્થાપન	Gerenciamento de tempo
+ભારતીય ભૂમિસેના	Exército da Índia
+આદિવાસી	Adivasi
+અડદ	Vigna mungo
+સયૌં થુંગા ફુલકા	Sayaun Thunga Phool Ka
+ક્રેડિટ સૂઈસ	Credit Suisse
+કૃત્રિમ પેસમેકર	Marca-passo
+રાયપુર (છત્તીસગઢ)	Raipur
+ચિત્તાગોંગ	Chittagong (cidade)
+રૅનબૅક્સી લેબોરેટરીઝ લિમિટેડ	Laboratórios Ranbaxy
+સી રાજગોપાલાચારી	Chakravarthi Rajagopalachari
+થાઇલેન્ડનો ઇતિહાસ	História da Tailândia
+ક્રિયાવિશેષણ	Advérbio
+મોતીલાલ નહેરૂ	Motilal Nehru
+માર્કો કાસાગ્રાન્ડ	Marco Casagrande
+અઝીમ પ્રેમજી	Azim Premji
+વિડિયો કેસેટ રેકોર્ડર (વીસીઆર)	Videocassete
+કાર્તિકેય	Kartiqueia
+મોલિનીઊ સ્ટેડિયમ	Molineux Stadium
+સોજી	Sêmola
+અનિલ અંબાણી	Anil Ambani
+માનવેંદ્રસિંહ ગોહીલ	Manvendra Singh Gohil
+સુશ્રુત	Sushruta
+કોરોકોરો ટાપુ	Ilha Corocoro
+વસ્તીવધારો	Crescimento populacional
+અગસ્ત્ય	Agastya
+બેસિલિકા ઑફ બોમ જીસસ	Basílica do Bom Jesus
+માથ્થીની લખેલી સુવાર્તા	Evangelho segundo Mateus
+અગ્નિ	Agni
+કારગિલ યુદ્ધ	Guerra de Kargil
+ડાર્ટ (પ્રોગ્રામિંગ ભાષા)	Dart (linguagem de programação)
+એર ઈન્ડિયા ફ્લાઇટ ૧૮૨	Voo Air India 182
+એર ઇન્ડિયા એક્સપ્રેસ	Air India Express
+સદી	Century
+અજમો	Ajowan
+લોપકચિહ્ન	Apóstrofo
+સુવર્ણ મંદિર	Templo Dourado
+આમેરનો કિલ્લો	Fortaleza Amber
+ઝિટ્ટારા	IMI Tavor TAR-21
+ફેડએક્સ	FedEx
+હસ્તિનાપુર	Hastinapura
+દમણ	Damão
+પૂર્વ ઘાટ	Gates Orientais
+મીરા નાયર	Mira Nair
+મીરાંબાઈ	Mirabai
+કેન્દ્રશાસિત પ્રદેશ	Território da União
+વેરાઇઝન કમ્યુનિકેશન્સ	Verizon Communications
+જીમ કોર્બેટ	Jim Corbett
+સંત તુકારામ	Tukaram
+ધીરુભાઈ અંબાણી	Dhirubhai Ambani
+ચેસ્ટર કાર્લસન	Chester Carlson
+વિજેન્દર સિંઘ	Vijender Kumar
+રામફળ	Annona reticulata
+કલ્કિ	Kalki
+નવરોઝ	Noruz
+એશિયાઈ રમતોત્સવ	Jogos Asiáticos
+એલન શીયરર	Alan Shearer
+અનુકૂલન	Adaptação (biologia)
+એલિસ ઇન ચેઇન્સ	Alice in Chains
+ગુરુ	Guru
+એન્ડ્રુ કાર્નેગી	Andrew Carnegie
+મગ	Vigna radiata
+ઇ-કોમર્સ	Comércio eletrônico
+ઔરંગઝેબ	Aurangzeb
+રાની મુખર્જી	Rani Mukerji
+હુમાયુ	Humaium
+દુનિયાની પ્રાચીન સાત અજાયબીઓ	Sete maravilhas do mundo
+આંતલિયા	Aantaliya
+અબ્રામા (જલાલપોર)	Abrama
+સમોસા	Chamuça
+ભારતના વડાપ્રધાન	Lista de primeiros-ministros da Índia
+મઊ	Maunath Bhanjan
+ડી. ડબલ્યુ. સ્ટેડિયમ	DW Stadium
+ચોળા	Vigna unguiculata
+બ્રિટાનિયા સ્ટેડિયમ	Britannia Stadium
+વર્ણકોષાશય	Cromatóforo
+રાયડો	Mostarda-castanha
+ઇલેક્ટ્રોમાયોગ્રાફી	Eletromiografia
+મણિપુરી નૃત્ય	Manipuri
+કવ્વાલી	Qawwali
+બકરી ઈદ	Festa do Sacrifício
+ભૂસ્તરશાસ્ત્રી	Geólogo
+ગડગ	Gadag-Betigeri
+ગુલાબી પેણ	Pelicano-cinzento
+રોનાલ્ડો	Ronaldo Luís Nazário de Lima
+ન્યુટ્રાસ્યુટીકલ	Nutracêutica
+બાવળ	Goma-arábica
+ગારીયાધાર	Gariadhar
+અંગિરસ	Angiras
+મહી નદી	Rio Mahi
+લિમ્બો(પ્રોગ્રામિંગ ભાષા)	Limbo (linguagem de programação)
+ઉધઈ	Isoptera
+નાશ પામેલા કપોત	Raphidae
+સારાવાક ગુફા	Gruta de Sarawak
+વિશ્વ મહાસાગરો દિવસ	Dia Mundial dos Oceanos
+સેન્ટ મેરી સ્ટેડિયમ	St Mary's Stadium
+લિબર્ટી સ્ટેડિયમ	Liberty Stadium
+માલેગાંવ	Malegaon
+સાતારા	Satara
+દહેગામ	Dahegam
+અતુલ	Atul
+અંદાડા	Andada
+ઔરૈયા	Auraiya
+અકબરપુર	Akbarpur (Kanpur Dehat)
+અલંગ	Alang
+અરાહ	Arrah
+બદ્રીનાથ	Badrinathpuri
+અનૂપપુર	Anuppur
+આંકલાવ	Anklav
+અરિયાલુર	Ariyalur
+અમરેલી	Amreli
+બગસરા	Bagasara
+બુરહાનપુર	Burhanpur
+સિટી ગ્રાઉન્ડ	City Ground
+પીલ ડિસ્ટ્રિક્ટ સ્કૂલ બોર્ડ	Peel District School Board
+યાવલ	Yawal
+ખીલ (રોગ)	Pústula
+કેશોદ	Keshod
+શ્યામમુખ વાઘોમડા	Atobá-grande
+ભારતીય માનક સમય	Horário Padrão da Índia
+મંડલા	Mandla
+વેલી ઓફ ફ્લાવર્સ રાષ્ટ્રીય ઉદ્યાન	Parque Nacional do Vale das Flores
+કરનાલ જિલ્લો	Karnal (distrito)
+કાંકેર	Kanker
+છોટાઉદેપુર	Chhota Udaipur
+એલેન્ડ રોડ	Elland Road
+ભુજ હવાઇમથક	Aeroporto de Bhuj
+હોશંગાબાદ	Hoshangabad
+દહીં	Coalhada
+પ્રિફર્ડ સ્ટોક	Ação preferencial
+બાલાસિનોર	Balasinor
+ઓનલાઈન વિજ્ઞાપન	Publicidade online
+દક્ષિણ ગંગોત્રી	Dakshin Gangotri
+તુવેર	Guandu
+હંગ્રી પેઢીના	Hungry generation
+બલ્લારપુર	Ballarpur
+અરમાની	Giorgio Armani S.p.A.
+ડેરી	Pecuária de leite
+હિલ્સબોરો સ્ટેડિયમ	Estádio Hillsborough
+માઇક્રોસોફ્ટ ઓફિસ ૨૦૦૭	Microsoft Office 2007
+ભિવંડી	Bhiwandi
+મુંબઈ મેટ્રો	Metrô de Bombaim
+એલિફન્ટાની ગુફાઓ	Grutas de Elefanta
+રતલામ	Ratlam
+ખંભાતનો અખાત	Golfo de Cambaia
+બાજરો	Mexoeira
+સિમ્બાદ (SIMBAD)	SIMBAD
+સાધુ	Sadhu
+કોટ્ટયમ	Kottayam
+હીજડા	Hijra
+મહિષાસુર	Mahishasura
+લક્સ (સાબુ)	LUX
+મસૂરી	Mussoori
+ઘંટી	Mó
+શ્રીકાકુલમ	Srikakulam
+પદ્મવિભૂષણ	Padma Vibhushan
+માચુ પીચુ	Machu Picchu
+વિપશ્યના	Vipassana
+તેલંગાણા	Telangana
+ટ્રાન્સપોર્ટ ફોર લંડન	Transport for London
+શ્રીમદ્ ભાગવતમ્	Bhagavata Purana
+ટર્ફ મૂરે	Turf Moor
+પક્ષી અવલોકન	Observação de aves
+વૃંદાવન	Vrindavan
+રિંગટોન	Tom de chamada
+માઉન્ટ આબુ	Monte Abu
+ચોલામંડલમ	Grandes Templos Vivos de Chola
+ભારતીય સંસદ	Parlamento da Índia
+વર્ધમાન	Barddhaman
+કલિંગનુ યુધ્ધ	Guerra de Kalinga
+એશિયાના દેશોની સૂચિ	Lista de Estados soberanos e territórios dependentes da Ásia
+૧૦૨ (અંક)	Cento e dois
+વાલ્મીકિ	Valmiki
+સંતરામપુર	Santrampur
+ભાણવડ	Bhanvad
+ફ્રીલેન્ડગંજ	Freelandgunj
+વંથલી	Vanthali
+ગણદેવી	Gandevi
+વાંદરું	Semnopithecus
+ઋગ્વેદ	Rigveda
+ગાયત્રી	Gayatri
+હઠ યોગ	Hata-ioga
+વેરિસાઇન	VeriSign
+વિશ્વ સંભાષણ અક્ષમતા જાણકારી દિન	Dia Mundial de Conscientização do Autismo
+વીજલપોર	Vijalpor
+યેઘીશે ચારેન્ત્સ	Yeghishe Charents
+હુગલી નદી	Rio Hooghly
+ભારતીય જ્યોતિષવિદ્યા	Jyotisha
+વેક્યૂમ પંપ	Bomba de vácuo
+પાપલેટ માછલી	Bramidae
+કોણાર્ક સૂર્ય મંદિર	Templo do Sol em Konarak
+કાયામ્બે (જ્વાળામુખી)	Cayambe (vulcão)
+અશોક (વનસ્પતિ)	Açoca
+ભાયાવદર	Bhayavadar
+ભભુઆ	Bhabua
+ભાગલપુર	Bhagalpur
+તળાજા	Talaja
+ઊંઝા	Unjha
+દાંતનો વિકાસ	Evolução dos dentes
+દક્ષિણ એશિયા	Ásia Meridional
+તમિલ	Tâmil
+અશોક ચક્ર	Ashoka Chakra
+વિલિયમ વિલ્સન(તરણશાસ્ત્રી)	William Wilson
+કપૂરથલા	Kapurthala
+અઝટેક ચિત્રલિપિ	Escrita asteca
+ભિંડ	Bhind
+બીએસઈ સેન્સેક્સ	BSE SENSEX
+કાઠમંડુ જિલ્લો, નેપાળ	Catmandu (distrito)
+બાબર	Babur
+શિન્તો	Xintoísmo
+સમઘન	Cubo
+કરુર	Karur
+સામાજિક સાહસિકતા	Empreendedorismo social
+તાલુકો	Tehsil
+સેન્ટ એન્ડ્રુ સ્ટેડિયમ	St Andrew's Stadium
+ભારતીય રેલ	Indian Railways
+બ્રાહ્મણ ગ્રંથો	Brâmana
+પરશુરામ	Parashurama
+વેબ ઓન્ટોલોજિ ભાષા	OWL
+નાનો કરકરીયો	Felosa-agrícola
+કથકલી	Kathakali
+સ્મૃતિ	Smriti
+પુરુષનું પ્રજનનતંત્ર	Aparelho reprodutor masculino
+એસ્કેરિયાસિસ	Ascaridíase
+નારદ મુનિ	Narada
+કુંતી	Kunti
+કચ્છનો અખાત	Golfo de Kutch
+મછલીપટનમ	Masulipatão
+ભારતીય તારક કાચબો	Geochelone elegans
+શરણાઈ	Shehnai
+શિવરાત્રિ	Maha Shivaratri
+ચંદ્રગુપ્ત પ્રથમ	Chandragupta I
+ધોતીયું	Dhoti
+ભગવદ્ ગીતા તેના મૂળ રૂપે	Bhagavad-Gita: Como Ele É
+કાલ ભૈરવ	Bhairava
+વિશ્વ જનસંખ્યા દિન	Dia Mundial da População
+રુદ્ર	Rudra
+વરૂ	Canis lupus pallipes
+આંતરરાષ્ટ્રીય નૃત્ય દિવસ	Dia Internacional da Dança
+બોડેલી	Bodeli
+ચલાલા (તા. ધારી)	Chalala
+ચાળીસગાંવ	Chalisgaon
+ચાણસ્મા	Chanasma
+ચલથાણ	Chalthan
+બીલીમોરા	Bilimora
+ભુજંગાસન	Bhujangasana
+રાજગીર	Rajgir
+ઘોરાડ	Ardeotis nigriceps
+ભારતનું પ્રવેશદ્વાર	Portal da Índia
+કાર્ડિફ સિટી સ્ટેડિયમ	Cardiff City Stadium
+ટ્વેન્ટી20	Twenty20
+ચૈતન્ય મહાપ્રભુ	Chaitanya Mahaprabhu
+બ્લેકપૂલનો ટાવર	Torre de Blackpool
+ભારતના રાષ્ટ્રપતિઓની યાદી	Lista de presidentes da Índia
+શૂદ્ર	Shudra
+દહનશીલતા	Inflamabilidade
+ખનીજ તેલનું ઉત્પાદન કરતા દેશોની યાદી	Lista de países por produção de petróleo
+દક્ષિણ અમેરિકાના દેશોની યાદી	Lista de países da América do Sul
+મદદ:સૂચિ	Ajuda:Página principal
+વેદાંગ	Vedanga
+લક્ષ્મણ	Lakshmana
+પાપડ	Paparis
+કનરા બુલબુલ	Pycnonotus leucogenys
+લઘુ ધિરાણ	Microfinanças
+ધ્રોલ	Dhrol
+ગણેશ ચતુર્થી	Ganesha Shaturthi
+પદ્મભૂષણ	Padma Bhushan
+લોટસ ટેમ્પલ, દિલ્હી	Templo de Lótus
+મોહિનીયટ્ટમ	Mohiniyattam
+પર્યાવરણીય શિક્ષણ	Educação ambiental
+પદ્મશ્રી	Padma Shri
+લાખ	Laque
+કથક	Kathak
+જીમ કોર્બેટ રાષ્ટ્રીય ઉદ્યાન	Jim Corbett National Park
+ગોરડ	Acacia senegal
+ફોર્બ્સ	Forbes
+વીણા	Vina
+વાંસળી	Bansuri
+ગૂડિસન પાર્ક	Goodison Park
+જેતપુર	Jetpur Navagadh
+છાંયા (તા. પોરબંદર)	Chhaya
+છિન્દવાડા	Chhindwara
+રીવા	Rewa (Índia)
+વરૂણ	Varuna
+એલુર	Eluru
+હુગલી ચુચુરા	Hughli
+ઝુનઝુનુન	Jhunjhunun
+સાગર	Sagar
+પ્રતાપગઢ	Pratapgarh City
+હેલ બેરી	Halle Berry
+જેટકનેક્ટ	Jet Lite
+દ્રૌપદી	Draupadi
+દરિયાઈ પ્રદૂષણ	Poluição marinha
+બલરામ	Balarama
+આંતરરાષ્ટ્રીય યુવાદિન	Dia Internacional da Juventude
+સેલહર્સ્ટ પાર્ક	Selhurst Park
+યોગસૂત્ર	Ioga Sutras
+સૌરાષ્ટ્ર	Saurashtra
+ફિંગર ઇલેવન	Finger Eleven
+કયામત	Escatologia islâmica
+ચીપકો આંદોલન	Movimento Chipko
+વાલ	Lablab
+તીર્થંકર	Tirthankara
+નવગ્રહ	Navagraha
+દર્શન	Filosofia hindu
+ભારતનો સ્વાતંત્ર્ય સંગ્રામ	Movimento de independência da Índia
+ઓમકારેશ્વર	Omkareshwar
+કેમ્પર્સ નેટવર્ક	Redes de campus
+લલિતપુર જિલ્લો, નેપાળ	Lalitpur (distrito)
+જેકુઝી	Jacuzzi
+પકોડી	Pakora
+ક્રિકેટ વિશ્વ કપ ૨૦૦૭	Copa do Mundo de Críquete de 2007
+લીડ્ઝ યુનાઈટેડ ફૂટબૉલ ક્લબ	Leeds United Association Football Club
+લિવરપૂલ ફૂટબોલ ક્લબ	Liverpool Football Club
+જયપુર જિલ્લો	Jaipur (distrito)
+કરોડ	Crore
+દાળ	Dal
+પનીર	Paneer
+પંચાયતી રાજ	Panchayat
+હઠયોગ પ્રદીપિકા	Hatha Yoga Pradipika
+ટાટા ઇન્ડિકા	Tata Indigo
+કુચિપુડી નૃત્ય	Kuchipudi
+ઈન્ટરનેટ એક્ટીવિઝમ (ચળવળ)	Ciberativismo
+દમણગંગા નદી	Rio Damanganga
+વેબ ટ્રાફિક	Tráfego web
+વાઇસ સિટી	Vice City
+બળદ ગાડું	Carro de boi
+દામોહ	Damoh
+દતિયા	Datia
+ચિત્રકૂટ ધામ	Chitrakoot
+ચોપડા	Chopda
+ડીસા	Deesa
+વિશ્વની સાત મોટી ભૂલો	Sete erros do mundo
+સી.એન.આર.રાવ	Chintamani Rao
+મીન રાશી	Peixes (astrologia)
+દેવસર	Devsar
+સિંધી લોકો	Sindis
+ધોરાજી	Dhoraji
+ધંધુકા	Dhandhuka
+દેવગઢબારિયા	Devgadbaria
+ધરણગાંવ	Dharangaon
+મરાઠી લોકો	Maratas
+દેવાસ	Dewas
+દૂધી	Cabaça
+શનિદેવ	Shani
+કમ્પ્યુટર નેટવર્ક	Rede de computadores
+ત્રિપિટક	Tipitaka
+અંડ કોષ	Óvulo
+જટાયુ	Jatayu
+ડિજિટલ માર્કેટિંગ	Marketing digital
+જપમાળા	Japamala
+ગોએર	Go Air
+આચાર્ય	Acharya
+માંકેવી વયંસેવ	Agnes Monica
+ખાદી	Khadi
+વિક્રમ સંવત	Vikram Samvat
+એલન બોર્ડર	Allan Border
+ગાંધી આશ્રમ	Sabarmati Ashram
+શ્રેણી:ચીન	Categoria:China
+મધર ઇન્ડિયા	Mother India
+શ્રેણી:જાપાન	Categoria:Japão
+શ્રેણી:ઓસ્ટ્રેલિયા	Categoria:Austrália
+શ્રેણી:ભારત	Categoria:Índia
+રેડક્લિફ રેખા	Linha Radcliffe
+મંદોદરી	Mandodari
+ઝીંગા ઉછેર	Carcinicultura
+ક્ષત્રિય	Xátria
+મુજફ્ફરપુર	Muzaffarpur
+શ્રેણી:નેધરલેંડ	Categoria:Países Baixos
+શ્રેણી:પાકિસ્તાન	Categoria:Paquistão
+શ્રેણી:પક્ષી	Categoria:Aves
+શ્રેણી:વનસ્પતિ	Categoria:Plantas
+શ્રેણી:ભૌતિકવિજ્ઞાન	Categoria:Física
+શ્રેણી:જીવવિજ્ઞાન	Categoria:Biologia
+શ્રેણી:રસાયણવિજ્ઞાન	Categoria:Química
+શ્રેણી:ભૂગોળ	Categoria:Geografia
+શ્રેણી:વિજ્ઞાન	Categoria:Ciência
+જળ શુદ્ધિકરણ	Purificação de água
+સ્ટર્લિંગ સબ મશીનગન	Sterling (submetralhadora)
+રાઈતું	Raita
+જીસેટ	GSAT
+જનક	Janaka
+વ્યાપાર વિશ્લેષણ	Análise administrativa
+ઘેરંડ સંહિતા	Gheranda Samhita
+ગઢડા	Gadhada
+પેશી ઇજનેરી	Engenharia de tecidos
+કરિયાતું (વનસ્પતિ)	Andrographis
+૨૦૧૨ દિલ્હી બળાત્કાર ઘટના	Caso de estupro coletivo de Délhi em 2012
+રામચકલી-પીળી ચોટલી	Parus spilonotus
+અધરંગ	Cyornis tickelliae
+કાબરી રામચકલી	Parus niger
+ધન પ્રકાશાનુવર્તન	Heliotropismo
+હિંદુસ્તાન એમ્બેસેડર	Hindustan Ambassador
+હિસ્ટરી (ટીવી ચેનલ)	History
+સત્યયુગ	Satya Yuga
+વિદિશા	Vidisha
+ઇન્સેટ ઉપગ્રહ શ્રેણી	Indian National Satellite System
+યુગ	Yuga
+નંદાદેવી રાષ્ટ્રીય ઉદ્યાન	Parque Nacional de Nanda Devi
+રુદ્રાક્ષ	Elaeocarpus ganitrus
+ખંડવા	Khandwa
+સિમ્બા (ડિઝની વર્લ્ડ)	Simba
+પરમવીર ચક્ર	Param Vir Chakra
+આઇ.આર.એસ. ઉપગ્રહ શ્રેણી	Indian Remote Sensing
+મુખ્ય મંત્રી	Ministro-chefe
+આરોહણ માર્ગ	Via de montanha
+હળવદ	Halvad
+ઘોઘા	Ghogha
+હાલોલ તાલુકો	Halol
+હરદા	Harda
+હારીજ	Harij
+હજીરા	Hajira INA
+જસદણ	Jasdan
+ઢાંચો:Dts	Predefinição:Dts
+ખંભાત	Cambaia
+અનેકાંતવાદ	Anekantavada
+એટિયોલેશન	Estiolamento
+નિયમ	Niyama
+ઇગતપુરી	Igatpuri
+મોતિહારી	Motihari
+રુથ	Rute (moabita)
+મૂર્તિ	Murti
+નુહ	Nuh
+મુરૈના	Morena (Madhya Pradesh)
+આત્માની ઊંઘ	Mortalismo cristão
+શ્રીહરિકોટા	Sriharikota
+બિન-વેધક મૈથુન	Sexo não penetrativo
+અક્ષરધામ (દિલ્હી)	Templo de Akshardham
+અનિદ્રા	Insônia
+સિંગાપુરી ચેરી	Muntingia calabura
+ઓંગોલે	Ongole
+ઝાબુઆ	Jhabua
+મંદસૌર	Mandsaur
+સમસ્તીપુર	Samastipur
+લખીસરાય	Lakhisarai
+કવર્ધા	Kawardha
+મધેપુરા	Madhepura
+પંચમઢી	Pachmarhi Cantt
+કુપવાડા	Kupwara
+ખરગોન	Khargone
+રાજૌરી	Rajauri
+હાજીપુર	Hajipur
+સાસારામ	Sasaram
+સહરસા	Saharsa
+વ્યારા	Vyara
+દામોદર નદી	Rio Damodar
+શાંતનુ	Santanu
+ભરત	Bharata (Ramáiana)
+શ્રેણી:સંદિગ્ધ શીર્ષક વાળાં પાનાં	Categoria:Desambiguação
+શ્રેણી:મનોવિજ્ઞાન	Categoria:Psicologia
+એકલવ્ય	Eklavya
+ચાડિયો	Espantalho
+અંબાલિકા	Ambalika
+દશરથ	Dasharatha
+ખાલસા	Khalsa
+વાંકાનેર	Wankaner
+જલાલપોર	Jalalpore
+જંબુસર	Jambusar
+ઓડિસી નૃત્ય	Odissi
+કોકિલાકાર	Phaenicophaeus curvirostris
+પર્યાવરણીય અવક્રમણ	Impacto ambiental
+શિવપુરી	Shivpuri
+ઇરવન	Iravan
+કૌશલ્યા	Kausalya
+કૈકેયી	Kaikeyi
+સુમિત્રા	Sumitra
+સિહોર, મધ્ય પ્રદેશ	Sehore
+પહલગામ	Pahalgam
+ચુંબકીય ટેકરીઓ	Ladeira gravitacional
+રુદ્રપ્રયાગ	Rudra Prayag
+મુક્તસર (પંજાબ)	Muktsar
+બેતુલ	Betul
+લખિમપુર	North Lakhimpur
+ગરુડ	Águia
+કાલી નદી (ઉત્તરાંચલ)	Rio Sarda
+રાત્રિ સ્ખલન	Polução noturna
+ખંભાળિયા	Khambhalia
+અવકાશ વિનિયોગ કેન્દ્ર	Space Applications Centre
+ધનુ રાશી	Sagitário
+રોટલી	Roti (pão)
+કૂકડો	Galo
+રામચકલી	Parus afer
+પાલેજ	Palej
+સીવાન	Siwan
+મુન્દ્રા	Mundra
+વિજાપુર	Vijapur
+ખેરાલુ	Kheralu
+કોડીનાર	Kodinar
+ઢાંચો:Lang-ta	Predefinição:Lang-ta
+એપલ (ઉપગ્રહ)	Ariane Passenger Payload Experiment
+કાલાવડ	Kalavad
+સિવની	Seoni (Madhya Pradesh)
+ટીકમગઢ	Tikamgarh
+શ્યોપુર	Sheopur
+કરજણ	Karjan
+ફુલબાણી	Phulabani
+થૌબલ (મણિપુર)	Thoubal
+ઉમેદ ભવન મહેલ	Palácio Umaid Bhawan
+મંગલદાઇ	Mangaldoi
+સિંધી	Sindi
+કર્ણ પ્રયાગ	Karn Prayag
+રુદ્રપુર	Rudrapur
+પદરૌના	Padrauna
+કપડવંજ	Kapadvanj
+સુરગાણા	Surgana
+રોહિણી (ઉપગ્રહ)	Rohini (família de satélites)
+શેખપુરા	Sheikhpura
+સુપૌલ	Supaul
+અદ્વૈત વેદાંત	Advaita Vedânta
+શાજાપુર	Shajapur
+રાયસેન	Raisen
+અડાલજ	Adalaj
+સીતામઢી, બિહાર	Sitamarhi
+સાર્વભૌમ દેશોના રાષ્ટ્રધ્વજોની ચિત્રગેલેરી	Galeria de bandeiras nacionais
+યેવલા	Yevla
+શિવ સંહિતા	Shiva Samhita
+મુનિ કી રેતી	Muni Ki Reti
+નંદ પ્રયાગ	Nand Prayag
+વિસનગર	Visnagar
+વિસાવદર	Visavadar
+પાઘડી	Turbante
+સંપ્રદાય	Sampradaya
+રાજગઢ	Rajgarh (Madhya Pradesh)
+અધિરથ	Adhiratha
+રોઇન્ગ	Roing
+સીધી	Sidhi
+મમિત	Mamit
+ઉમરિયા	Umaria
+શિવહર	Sheohar
+ડિંડોરી	Dindori
+શાહડોલ	Shahdol
+બ્રહ્મપુરી	Brahmapuri
+થરાદ	Tharad
+કલોલ	Kalol INA
+કાણોદર (તા. પાલનપુર)	Kanodar
+તલોદ	Talod
+રાણાવાવ	Ranavav
+રાજુરા	Rajura
+તળોદા (મહારાષ્ટ્ર)	Talode
+વડનગર	Vadnagar
+મહુવર	Mahuvar
+સિહોર	Sihor
+પડધરી	Paddhari
+સઇહા	Saiha
+માંગરોળ (જૂનાગઢ)	Mangrol
+મહુધા	Mahudha
+ભક્તિસિદ્ધાંત સરસ્વતી	Bhaktisiddhanta Sarasvati
+સંસ્કૃત વ્યાકરણ	Gramática do sânscrito
+અભંગ	Abhang
+મેઘરજ	Meghraj
+બેટમેન (ચિત્રકથા)	Batman
+મયૂરાસન	Mayurasana
+રક્તચંદન	Carolina (árvore)
+ભોંઆમલી	Quebra-pedra
+અંક	Numerais hindus
+અંબા	Amba
+કનૈયાલાલ મુનશી	Kanhaiyalal Maneklal Munshi
+જરાસંધ	Jarasanda de Mágada
+નિત્યાનંદ પ્રભુ	Nityananda
+વિશ્વ માનવતા દિવસ	Dia Mundial Humanitário
+પંચાંગ	Panchangam
+લિપીડ પ્રોફાઇલ	Perfil lipídico
+આહિર	Abhira
+ઘોડબંદર કિલ્લો, થાણા	Forte de Ghodbunder
+સુરેશ દલાલ	Suresh Dalal
+વિશ્વ કાચબા દિવસ	Dia Mundial da Tartaruga
+મહાત્મા ગાંધી સેતુ (બિહાર)	Ponte Mahatma Gandhi
+પ્રાંતિજ	Prantij
+ઉકાઇ	Ukai
+રાપર	Rapar
+કાલોલ	Kalol
+ઓદાલગુરિ	Udalguri
+કારવાર	Karwar
+કૃતજ્ઞતા	Gratidão
+સાવરકુંડલા	Savarkundla
+પેટલાદ	Petlad
+સોનગઢ	Songadh
+ઉપલેટા	Upleta
+રાજુલા	Rajula
+વરતેજ (તા. ભાવનગર)	Vartej
+તલ	Gergelim
+મધુબની	Madhubani
+મેડમ કામા	Bhikaiji Cama
+વિશ્વામિત્ર	Vishvamitra
+જમ્મુ	Jammu
+બાદિયાન	Estrela-de-anis
+શ્રેણી:સ્ટબ	Categoria:!Esboços
+શ્રેણી:સંસ્કૃતિ	Categoria:Cultura
+પીપળો	Ficus religiosa
+પ્રાણ (અભિનેતા)	Pran
+ઢાંચો:સૌરમંડળ	Predefinição:Sistema Solar
+આજનું અવતરણ	Quote Of The Day
+વિકિપીડિયા:HotCat	Wikipédia:Scripts/HotCat
+કૈલાશ સત્યાર્થી	Kailash Satyarthi
+ત્રિશૂલ	Trishula
+ભારતીય સામાન્ય ચૂંટણી, ૨૦૧૪	Eleições gerais na Índia em 2014
+વિજયનગર	Vizianagaram
+છઠ	Shashti
+ઇજનેરી મહાવિદ્યાલય, પુણે	Faculdade de Engenharia, Pune
+ચિખલી, મહારાષ્ટ્ર	Chikhli
+ચાઇનીઝ માર્શલ આર્ટ્સ	Artes marciais chinesas
+સલગમ	Nabo
+ઢાંચો:ઉક્તિ	Predefinição:Quote
+કેરી	Mangifera indica
+સર્જિયો માત્તારેલા	Sergio Mattarella
+ઢાંચો:Location map Scotland	Predefinição:Mapa de localização/Escócia
+વિકિપીડિયા:પ્રબંધક	Wikipédia:Administradores
+શ્રેણી:વ્યક્તિત્વ	Categoria:Pessoas
+શ્રેણી:Pages with malformed coordinate tags	Categoria:!Páginas com coordenadas formatadas incorretamente
+શ્રેણી:કલા	Categoria:Arte
+ઇજિપ્ત	Egito
+વિકિપીડિયા:સંદિગ્ધ શીર્ષક	Ajuda:Guia de edição/Desambiguação
+વિકિપીડિયા:શ્રેણી	Wikipédia:Categoria
+રવીન્દ્ર પ્રભાત	Ravindra Prabhat
+વિકિપીડિયા:વિકિપરિયોજના	Wikipédia:WikiProjeto
+ઢાંચો:Bot	Predefinição:Robô
+વિકિપીડિયા:વિકિપીડિયા શું નથી	Wikipédia:O que a Wikipédia não é
+કેનેડા	Canadá
+વિકિપીડિયા:પ્રકાશનાધિકાર	Wikipédia:Direitos de autor
+એક્યુપ્રેસર	Anma
+વિકિપીડિયા:પ્રબંધકોનું સૂચનપટ	Wikipédia:Pedidos/Outros
+શ્રેણી:યુરોપ	Categoria:Europa
+વિકિપીડિયા:વર્તમાન ઘટનાઓ	Portal:Eventos atuais
+ઢાંચો:Documentation	Predefinição:Documentação
+શ્રેણી:સભ્યોની ભાષાઓ	Categoria:!Wikipedistas por idioma
+વિકિપીડિયા:પાયાના પાંચ સિદ્ધાંત	Wikipédia:Cinco pilares
+વિકિપીડિયા:નિષ્પક્ષ દૃષ્ટિકોણ	Wikipédia:Princípio da imparcialidade
+વિકિપીડિયા:પ્રારંભિક સંશોધન નહીં	Wikipédia:Nada de pesquisa inédita
+વિકિપીડિયા:નોંધનીયતા	Wikipédia:Critérios de notoriedade
+વિકિપીડિયા:બાહ્ય કડીઓ	Wikipédia:Ligações externas
+વિકિપીડિયા:ઉચિત વપરાશ	Wikipédia:Conteúdo restrito
+અરરિયા	Araria
+વિકિપીડિયા:સહીઓ	Wikipédia:Regras para assinaturas
+વિકિપીડિયા:નોંધનીયતા (વ્યક્તિ કે લોકો)	Wikipédia:Critérios de notoriedade/Biografias
+વિકિપીડિયા:જીવંત વ્યક્તિઓનું જીવન ચરિત્ર	Wikipédia:Biografias de pessoas vivas
+મદદ:Footnotes	Wikipédia:Livro de estilo/Referências e notas de rodapé
+કણ્ણૂર	Cananor
+ઢાંચો:Softredirect	Predefinição:Pseudorredirecionamento
+ઢાંચો:Delete	Predefinição:ER
+ઢાંચો:Please leave this line alone (sandbox heading)	Predefinição:Página de testes
+શ્રેણી:ભાષાઓ	Categoria:Línguas
+શ્રેણી:વિકિપીડિયા	Categoria:Wikipédia
+વિકિપીડિયા:General disclaimer	Wikipédia:Aviso geral
+શ્રેણી:તૂટી ફાઈલ કડીઓને સાથે પાના	Categoria:!Páginas com ficheiros inexistentes
+વિકિપીડિયા:ટેમ્પ્લેટ સૂચનાઓ	Wikipédia:Lista de predefinições
+ઢાંચો:Navbox	Predefinição:Navbox
+કાંગારુ	Canguru
+ઢાંચો:Track listing	Predefinição:Lista de faixas
+ઢાંચો:Nutshell	Predefinição:Resumo
+ઢાંચો:Tnavbar	Predefinição:Tnavbar
+ઢાંચો:Code	Predefinição:Código
+ઢાંચો:0	Predefinição:0
+ઢાંચો:Transclude	Predefinição:Transclude
+ઢાંચો:Small	Predefinição:Pequeno
+ઢાંચો:Trunc	Predefinição:Truncar
+ઢાંચો:Clear	Predefinição:Limpar
+ઢાંચો:Col-break	Predefinição:Col-break
+ઢાંચો:Col-begin	Predefinição:Col-begin
+ઢાંચો:Trim	Predefinição:Trim
+ઢાંચો:Nowrap	Predefinição:Nowrap
+ઢાંચો:Tooltip	Predefinição:Abbr
+ઢાંચો:Anchor	Predefinição:Âncora
+વિકિપીડિયા:દરેક ભાષાના વિકિપીડિયામાં હોય એવા પ્રારંભિક લેખોની યાદી	Wikipédia:Artigos essenciais
+શ્રેણી:આફ્રિકા	Categoria:África
+શ્રેણી:જુલાઇ	Categoria:Julho
+શ્રેણી:જૂન	Categoria:Junho
+ઢાંચો:વિકિસ્રોત	Predefinição:Wikisource
+ઢાંચો:Babel	Predefinição:Babel
+ઢાંચો:Commons	Predefinição:Commons
+ઢાંચો:Reflist	Predefinição:Referências
+વિકિપીડિયા:સંદર્ભ	Wikipédia:Livro de estilo/Cite as fontes
+ઢાંચો:સ્ટબ	Predefinição:Esboço
+ઢાંચો:See also	Predefinição:VT
+ઢાંચો:User de	Predefinição:User de
+ઢાંચો:User de-1	Predefinição:User de-1
+ઢાંચો:User en-3	Predefinição:User en-3
+ઢાંચો:User en-2	Predefinição:User en-2
+ઢાંચો:User en-4	Predefinição:User en-4
+ઢાંચો:User en	Predefinição:User en
+ઢાંચો:User de-2	Predefinição:User de-2
+ઢાંચો:User hi-1	Predefinição:User hi-1
+ઢાંચો:User tr	Predefinição:User tr
+ઢાંચો:User fr	Predefinição:User fr
+ઢાંચો:Pl icon	Predefinição:Pl icon
+શ્રેણી:ફેબ્રુઆરી	Categoria:Fevereiro
+ઢાંચો:Country data Tajikistan	Predefinição:Country data Tajiquistão
+શ્રેણી:એશિયા	Categoria:Ásia
+શ્રેણી:ચીલી	Categoria:Chile
+ઢાંચો:Country data Kuwait	Predefinição:Country data Kuwait
+ઢાંચો:Mod	Predefinição:Mod
+શ્રેણી:૧૯૧૦	Categoria:1910
+ઢાંચો:SIL	Predefinição:ISO639-3Documentação
+ઢાંચો:Infobox football club	Predefinição:Info/Futebol/Clube
+ઢાંચો:સ્વાગત	Predefinição:Bem-vindo(a)
+ઢાંચો:Wikipediasister	Predefinição:Projetos correlatos
+ઢાંચો:Country data Belgium	Predefinição:Country data Bélgica
+ઢાંચો:Country data Slovakia	Predefinição:Country data Eslováquia
+ઢાંચો:Country data Panama	Predefinição:Country data Panamá
+ઢાંચો:Country flagnavy	Predefinição:Marinha/core
+ઢાંચો:Country data Ecuador	Predefinição:Country data Equador
+ઢાંચો:Country data Ethiopia	Predefinição:Country data Etiópia
+ઢાંચો:Country data Tunisia	Predefinição:Country data Tunísia
+ઢાંચો:Country data Czech Republic	Predefinição:Country data República Checa
+ઢાંચો:Country data થાઈલેન્ડ	Predefinição:Country data Tailândia
+ઢાંચો:Country data Indonesia	Predefinição:Country data Indonésia
+ઢાંચો:Country data Cambodia	Predefinição:Country data Camboja
+ઢાંચો:Country data Madagascar	Predefinição:Country data Madagáscar
+ઢાંચો:Country data Albania	Predefinição:Country data Albânia
+ઢાંચો:Country data Peru	Predefinição:Country data Peru
+ઢાંચો:દેશ માહિતી પૅરાગ્વે	Predefinição:Country data Paraguai
+ઢાંચો:Country data British Empire	Predefinição:Country data Império Britânico
+ઢાંચો:Country data Macau	Predefinição:Country data Macau
+ઢાંચો:Country data Kenya	Predefinição:Country data Quénia
+ઢાંચો:Country data Uzbekistan	Predefinição:Country data Uzbequistão
+ઢાંચો:દેશ માહિતી બોલીવિયા	Predefinição:Country data Bolívia
+ઢાંચો:Country data Liechtenstein	Predefinição:Country data Liechtenstein
+ઢાંચો:Country data Togo	Predefinição:Country data Togo
+ઢાંચો:માસ	Predefinição:Dias do ano
+ઢાંચો:Country data Mali	Predefinição:Country data Mali
+ઢાંચો:Country data Moldova	Predefinição:Country data Moldávia
+ઢાંચો:Country data Latvia	Predefinição:Country data Letónia
+ઢાંચો:Football kit	Predefinição:EquipamentoFutebol
+ઢાંચો:Country data South African Republic	Predefinição:Country data República Sul-Africana
+ઢાંચો:Country data Malta	Predefinição:Country data Malta
+ઢાંચો:Country data Monaco	Predefinição:Country data Mônaco
+ઢાંચો:Country data Denmark	Predefinição:Country data Dinamarca
+ઢાંચો:Country data Iceland	Predefinição:Country data Islândia
+ઢાંચો:Country data Poland	Predefinição:Country data Polônia
+ઢાંચો:Click	Predefinição:Click
+ઢાંચો:Country data Bulgaria	Predefinição:Country data Bulgária
+ઢાંચો:Country data Guyana	Predefinição:Country data Guiana
+ઢાંચો:Country data Norway	Predefinição:Country data Noruega
+ઢાંચો:Country data South Africa	Predefinição:Dados de país/África do Sul
+ઢાંચો:Country data Georgia	Predefinição:Country data Geórgia
+ઢાંચો:Navbox suite	Predefinição:Navbox suite
+ઢાંચો:Country data Uruguay	Predefinição:Country data Uruguai
+ઢાંચો:Image label	Predefinição:Image label
+ઢાંચો:અધિકૃત જાળસ્થળ	Predefinição:Oficial
+ઢાંચો:Country data Brunei	Predefinição:Country data Brunei
+ઢાંચો:Country data Sri Lanka	Predefinição:Country data Sri Lanka
+ઢાંચો:Country data Mexico	Predefinição:Country data México
+ઢાંચો:Country data Greece	Predefinição:Country data Grécia
+ઢાંચો:Country data Luxembourg	Predefinição:Country data Luxemburgo
+ઢાંચો:Country data Saudi Arabia	Predefinição:Country data Arábia Saudita
+ઢાંચો:Country data Croatia	Predefinição:Country data Croácia
+ઢાંચો:Country data Iraq	Predefinição:Country data Iraque
+ઢાંચો:Stub Category	Predefinição:Esboço categoria
+ઢાંચો:Infobox television	Predefinição:Info/Televisão
+ઢાંચો:Apple	Predefinição:Apple
+ઢાંચો:Frankfurt Stock Exchange	Predefinição:FWB
+ઢાંચો:ભૌગોલિક સ્થાન	Predefinição:Localização geográfica
+ઢાંચો:માહિતીચોકઠું સંગીત કલાકાર	Predefinição:Info/Música/artista
+ઢાંચો:Country data U.S. Virgin Islands	Predefinição:Country data Ilhas Virgens Americanas
+ઢાંચો:Country data Morocco	Predefinição:Country data Marrocos
+ઢાંચો:Country data Serbia	Predefinição:Country data Sérvia
+ઢાંચો:Collapsible list	Predefinição:Collapsible list
+ઢાંચો:Country data Australia	Predefinição:Country data Austrália
+ઢાંચો:Es icon	Predefinição:((es))
+ઢાંચો:Country data France	Predefinição:Country data França
+ઢાંચો:Ambox	Predefinição:Ambox
+ઢાંચો:Wikipedia category	Predefinição:Categoria de administração
+ઢાંચો:Hide in print	Predefinição:Hide in print
+ઢાંચો:Infobox magazine	Predefinição:Info/Revista
+ઢાંચો:Navigation templates	Predefinição:Modelo de navegação
+ઢાંચો:Infobox school	Predefinição:Info/Escola
+ઢાંચો:Refimprove	Predefinição:S-fontes
+ઢાંચો:User hi-3	Predefinição:User hi-3
+ઢાંચો:માહિતીચોકઠું દેશ	Predefinição:Info/País
+ઢાંચો:Infobox Software	Predefinição:Info/Software
+ઢાંચો:Column-count	Predefinição:Column-count
+ઢાંચો:Country data Laos	Predefinição:Country data Laos
+ઢાંચો:Infobox airline	Predefinição:Info/Companhia aérea
+ઢાંચો:Country data Austria	Predefinição:Country data Áustria
+ઢાંચો:Str left	Predefinição:Str left
+ઢાંચો:Country data Nepal	Predefinição:Country data Nepal
+ઢાંચો:Str sub long	Predefinição:Str sub old
+ઢાંચો:Documentation/docname	Predefinição:Documentação/nomedoc
+ઢાંચો:Country data Finland	Predefinição:Country data Finlândia
+ઢાંચો:Audio	Predefinição:Áudio
+ઢાંચો:Flat list	Predefinição:Lista horizontal
+ઢાંચો:Country data Egypt	Predefinição:Country data Egito
+ઢાંચો:Country data Lithuania	Predefinição:Country data Lituânia
+ઢાંચો:Country data Japan	Predefinição:Country data Japão
+ઢાંચો:Country data Netherlands	Predefinição:Country data Países Baixos
+ઢાંચો:Tmbox	Predefinição:Tmbox
+ઢાંચો:Navbox with columns	Predefinição:Navbox with columns
+ઢાંચો:S-start	Predefinição:Começa caixa
+ઢાંચો:Nom	Predefinição:Ind
+ઢાંચો:Facebook	Predefinição:Facebook
+ઢાંચો:Cite paper	Predefinição:Citar periódico
+ઢાંચો:Country data Azerbaijan	Predefinição:Country data Azerbaijão
+ઢાંચો:માહિતીચોકઠું કંપની	Predefinição:Info/Empresa
+ઢાંચો:Country data Czechoslovakia	Predefinição:Country data Checoslováquia
+ઢાંચો:Cite news	Predefinição:Citar notícia
+ઢાંચો:Family tree	Predefinição:Árvore genealógica
+ઢાંચો:Country data Vietnam	Predefinição:Country data Vietname
+ઢાંચો:S-aft	Predefinição:S-aft
+ઢાંચો:ઉમદા લેખ	Predefinição:Artigo destacado
+ઢાંચો:Country data Libya	Predefinição:Country data Líbia
+ઢાંચો:Country data Russia	Predefinição:Country data Rússia
+ઢાંચો:માહિતીચોકઠું રાજવી	Predefinição:Info/Monarca
+શ્રેણી:પેરિસ	Categoria:Paris
+શ્રેણી:User en-4	Categoria:Utilizador en-4
+શ્રેણી:User en	Categoria:Usuários en
+શ્રેણી:User en-2	Categoria:Usuário en-2
+ઢાંચો:Infobox	Predefinição:Info
+ઢાંચો:Main other	Predefinição:Artigos e outros
+ઢાંચો:Str crop	Predefinição:Str crop
+ઢાંચો:User zh	Predefinição:User zh
+ઢાંચો:Template other	Predefinição:Template other
+ઢાંચો:Legend	Predefinição:Legenda
+ઢાંચો:Cite web	Predefinição:Citar web
+ઢાંચો:Infobox bridge	Predefinição:Info/Ponte
+ઢાંચો:Country data Italy	Predefinição:Country data Itália
+ઢાંચો:Ombox	Predefinição:Ombox
+ઢાંચો:Country data	Predefinição:Dados de país
+ઢાંચો:વિજયી	Predefinição:Ven
+ઢાંચો:GeoTemplate	Predefinição:GeoTemplate
+ઢાંચો:Navbar-collapsible	Predefinição:Tnavbar-collapsible
+ઢાંચો:Coor URL	Predefinição:Coor URL
+ઢાંચો:Pp-template	Predefinição:Pp-template
+ઢાંચો:Wiktionary	Predefinição:Wikcionário
+ઢાંચો:Country data Sweden	Predefinição:Country data Suécia
+ઢાંચો:Chem	Predefinição:Fórmula química
+ઢાંચો:Language icon	Predefinição:Languageicon
+શ્રેણી:User hi	Categoria:Usuários hi
+શ્રેણી:હિન્દી ચલચિત્ર	Categoria:Filmes da Índia
+ઢાંચો:પુરાતન દુનિયાની સાત અજાયબીઓ	Predefinição:Maravilhas do Mundo
+ઢાંચો:Infobox settlement	Predefinição:Info/Assentamento
+ઢાંચો:ITIS	Predefinição:ITIS
+ઢાંચો:Other uses	Predefinição:Ver desambig
+પીઠનો દુખાવો	Dorsalgia
+ઢાંચો:Country data Soviet Union	Predefinição:Country data União Soviética
+ઢાંચો:Country data India	Predefinição:Country data India
+ઢાંચો:Language with name	Predefinição:Língua com nome
+ઢાંચો:Country data Algeria	Predefinição:Country data Argélia
+ઢાંચો:માહિતીચોકઠું નૃવંશ સમુદાય	Predefinição:Info/Grupo étnico
+ઢાંચો:MONTHNAME	Predefinição:MONTHNAME
+ઢાંચો:Category redirect	Predefinição:Redirecionamento de categoria
+વિકિપીડિયા:Text of the GNU Free Documentation License	Wikipédia:GNU Free Documentation License
+ઢાંચો:Country data Venezuela	Predefinição:Country data Venezuela
+ઢાંચો:Infobox protected area	Predefinição:Info/Área protegida
+ઢાંચો:Border	Predefinição:Borda
+ઢાંચો:Country data Portugal	Predefinição:Country data Portugal
+ઢાંચો:Country data Ireland	Predefinição:Country data Irlanda
+ઢાંચો:Translation/Ref	Predefinição:Tradução/ref
+ઢાંચો:Top icon	Predefinição:Top icon
+શ્રેણી:Country data templates	Categoria:!Predefinições Country data
+ઢાંચો:Fmbox	Predefinição:Fmbox
+ઢાંચો:Navbox with collapsible groups	Predefinição:Navbox with collapsible groups
+ઢાંચો:Country data China	Predefinição:Country data Chine
+ઢાંચો:Country data Benin	Predefinição:Country data Benim
+ઢાંચો:Country data ENG	Predefinição:Country data Inglaterra
+ઢાંચો:Family tree/end	Predefinição:Árvore genealógica/fim
+ઢાંચો:Country data Republic of Ireland	Predefinição:Country data República da Irlanda
+ઢાંચો:Country data Turkey	Predefinição:Country data Turquia
+ઢાંચો:Country data Cyprus	Predefinição:Country data Chipre
+ઢાંચો:Country data Switzerland	Predefinição:Country data Suíça
+વિકિપીડિયા:મારે સભ્ય શા માટે થવું જોઇએ?	Wikipédia:Usuários registrados
+ઢાંચો:Country data Philippines	Predefinição:Country data Filipinas
+ઢાંચો:Country data Nigeria	Predefinição:Country data Nigéria
+ઢાંચો:Country data Belarus	Predefinição:Country data Bielorrússia
+ઢાંચો:ParmPart	Predefinição:ParmPart
+ઢાંચો:Country data Malaysia	Predefinição:Country data Malásia
+ઢાંચો:Country data Armenia	Predefinição:Country data Armênia
+ઢાંચો:Country data Zimbabwe	Predefinição:Country data Zimbabwe
+ઢાંચો:Country data Timor-Leste	Predefinição:Country data Timor-Leste
+ઢાંચો:Country data South Vietnam	Predefinição:Country data Vietnã do Sul
+ઢાંચો:Infobox dog breed	Predefinição:Info/Raça de cão
+ઢાંચો:Country data Myanmar	Predefinição:Country data Myanmar
+ઢાંચો:Country data Kazakhstan	Predefinição:Country data Cazaquistão
+ઢાંચો:Country data Chile	Predefinição:Country data Chile
+ઢાંચો:Country data Slovenia	Predefinição:Country data Eslovénia
+ઢાંચો:Country data Lebanon	Predefinição:Country data Líbano
+ઢાંચો:માહિતીચોકઠું પુસ્તક	Predefinição:Info/Livro
+ઢાંચો:Country data Bhutan	Predefinição:Country data Butão
+ઢાંચો:Country data Ceylon	Predefinição:Country data Ceilão
+ઢાંચો:Talkback	Predefinição:Resposta
+ઢાંચો:Infobox planet	Predefinição:Info/Planeta
+શ્રેણી:જાન્યુઆરી	Categoria:Janeiro
+ઢાંચો:આવર્ત કોષ્ટક	Predefinição:Tabela periódica compacta
+ઢાંચો:Lang-fa	Predefinição:Lang-fa
+ઢાંચો:User nl	Predefinição:User nl
+ઢાંચો:માહિતીચોકઠું વેબસાઇટ	Predefinição:Info/Sítio
+ઢાંચો:Image label end	Predefinição:Image label end
+ઢાંચો:Infobox Indian Jurisdiction	Predefinição:Info/Jurisdição da Índia
+ઢાંચો:Uncategorized	Predefinição:Sem cat
+ઢાંચો:Talk header	Predefinição:Página de discussão
+ઢાંચો:Quote box	Predefinição:Quote box
+ઢાંચો:માહિતીચોકઠું વિશ્વ ધરોહર સ્થળ	Predefinição:Info/Património Mundial
+ઢાંચો:અંક પદ્ધતિ	Predefinição:Sistemas numéricos
+ઢાંચો:Infobox astronaut	Predefinição:Info/Astronauta
+ઢાંચો:Geobox coor	Predefinição:Geobox coor
+ઢાંચો:Str len	Predefinição:Str len
+ઢાંચો:Purge	Predefinição:Purgar
+ઢાંચો:Infobox sport	Predefinição:Info/Desporto
+ઢાંચો:MedalSport	Predefinição:Medalhas Esporte
+ઢાંચો:Lang-de	Predefinição:Lang-de
+ઢાંચો:Empty category	Predefinição:Categoria vazia
+ઢાંચો:Country data Austria-Hungary	Predefinição:Country data Áustria-Hungria
+ઢાંચો:Infobox building	Predefinição:Info/Edifício
+ઢાંચો:Location map USA	Predefinição:Mapa de localização/Estados Unidos
+ઢાંચો:Lang-el	Predefinição:Lang-el
+ઢાંચો:NASDAQ	Predefinição:NASDAQ
+ઢાંચો:Clarify	Predefinição:Esclarecer
+ઢાંચો:Loremipsum	Predefinição:Lorem ipsum
+શ્રેણી:વિયેતનામમાં એરપોર્ટ	Categoria:Aeroportos do Vietname
+ઢાંચો:Emergency-bot-shutoff	Predefinição:Botão de emergência
+ઢાંચો:Image label small	Predefinição:Image label small
+ઢાંચો:Nihongo	Predefinição:Japonês
+ઢાંચો:Infobox military unit	Predefinição:Info/Unidade Militar
+ઢાંચો:Sec link auto	Predefinição:Sec link auto
+ઢાંચો:Align	Predefinição:Align
+ઢાંચો:Allcaps	Predefinição:Allcaps
+ઢાંચો:S-ttl	Predefinição:S-ttl
+ઢાંચો:Helpbox	Predefinição:Helpbox
+ઢાંચો:Infobox stadium	Predefinição:Info/Estádio
+ઢાંચો:IPAEng	Predefinição:IPA-en
+ઢાંચો:Cmbox	Predefinição:Cmbox
+ઢાંચો:Precision	Predefinição:Precision
+ઢાંચો:End date	Predefinição:Data de fim
+ઢાંચો:Infobox tennis player	Predefinição:Info/Tenista
+ઢાંચો:S-bef	Predefinição:S-bef
+ઢાંચો:Cite conference	Predefinição:Cite conference
+શ્રેણી:ભારતના રાષ્ટ્રપતિ	Categoria:Presidentes da Índia
+ઢાંચો:S-par	Predefinição:S-par
+ઢાંચો:Infobox UK place	Predefinição:Info/Cidade do Reino Unido
+ઢાંચો:Fake heading	Predefinição:Fake heading
+ઢાંચો:અઠવાડિયાના વારનાં નામો	Predefinição:Dias da semana
+ઢાંચો:Nobold	Predefinição:Nobold
+ઉપનિષદ	Upanixade
+ઢાંચો:Multicol-break	Predefinição:Multicol-break
+ઢાંચો:Infobox game	Predefinição:Info/Jogo de tabuleiro
+ઢાંચો:Country data West Germany	Predefinição:Country data Alemanha Ocidental
+ઢાંચો:Lang-ru	Predefinição:Lang-ru
+ઢાંચો:Country data East Germany	Predefinição:Country data Alemanha Oriental
+ઢાંચો:@	Predefinição:@
+શ્રેણી:Images	Categoria:!Imagens
+ઢાંચો:Polytonic	Predefinição:Politônico
+ઢાંચો:Country data Kingdom of the Netherlands	Predefinição:Country data Reino dos Países Baixos
+ઢાંચો:Family tree/start	Predefinição:Árvore genealógica/início
+ઢાંચો:URL	Predefinição:URL
+ઢાંચો:સંદિગ્ધ શીર્ષક	Predefinição:Desambiguação
+ઢાંચો:User gu-2	Predefinição:User gu-2
+ઢાંચો:No	Predefinição:Negado
+ઢાંચો:Plainlist	Predefinição:Lista simples
+ઢાંચો:Doi	Predefinição:DOI
+ઢાંચો:Partial	Predefinição:Partial
+ઢાંચો:Country data Madeira	Predefinição:Country data Madeira
+ઢાંચો:Country data Azores	Predefinição:Country data Açores
+ઢાંચો:જીવનકાળ	Predefinição:NF
+ઢાંચો:Infobox film	Predefinição:Info/Filme
+ઢાંચો:Order of magnitude	Predefinição:Ordem de magnitude
+ઢાંચો:ભારતના રાષ્ટ્રપતિ	Predefinição:Presidentes da Índia
+ઢાંચો:Country data Ottoman Empire	Predefinição:Country data Império Otomano
+ઢાંચો:Nutritionalvalue	Predefinição:Info/Valor nutricional
+ઢાંચો:User sandbox	Predefinição:Página de testes de utilizador
+ઢાંચો:Infobox philosopher	Predefinição:Info/Filósofo
+ઢાંચો:High-risk	Predefinição:Alto risco
+ઢાંચો:Infobox organisation	Predefinição:Info/Organização
+ઢાંચો:Audio-IPA	Predefinição:Áudio-AFI
+ઢાંચો:CategoryTOC	Predefinição:CategoriaTOC
+ઢાંચો:Infobox treaty	Predefinição:Info/Tratado
+ઢાંચો:Str rightc	Predefinição:Str rightc
+ઢાંચો:Infobox military installation	Predefinição:Info/Instalação militar
+ઢાંચો:Infobox museum	Predefinição:Info/Museu
+ઢાંચો:Lang-fr	Predefinição:Lang-fr
+ઢાંચો:FRA	Predefinição:FRA
+ઢાંચો:હિંદુ દેવી દેવતા અને ગ્રંથ	Predefinição:Mitologia hindu
+ઢાંચો:Pending	Predefinição:Pendente
+ઢાંચો:માહિતીચોકઠું વ્યક્તિ	Predefinição:Info/Biografia
+ઢાંચો:Geological range	Predefinição:Período fóssil
+ઢાંચો:?	Predefinição:?
+ઢાંચો:Country data Kingdom of Ireland	Predefinição:Country data Reino da Irlanda
+ઢાંચો:Country data Lordship of Ireland	Predefinição:Country data Senhorio da Irlanda
+ઢાંચો:Country data Israel	Predefinição:Country data Israel
+ઢાંચો:Country data Ukraine	Predefinição:Country data Ucrânia
+ઢાંચો:Country data Colombia	Predefinição:Country data Colômbia
+ઢાંચો:Country data Pakistan	Predefinição:Country data Paquistão
+ઢાંચો:Country data Ghana	Predefinição:Country data Gana
+ઢાંચો:Country data South Korea	Predefinição:Country data Coreia do Sul
+શ્રેણી:કેરળ	Categoria:Kerala
+ઢાંચો:Politics of Asia templates	Predefinição:Predefinições de política da Ásia
+ઢાંચો:Convert	Predefinição:Convert
+ઢાંચો:Country data Sint Eustatius	Predefinição:Country data Santo Eustáquio
+ઢાંચો:Copy edit	Predefinição:Corrigir
+ઢાંચો:Coord	Predefinição:Coord
+ઢાંચો:Country data Idaho	Predefinição:Country data Idaho
+ઢાંચો:Country data Kalmar Union	Predefinição:Country data União de Kalmar
+ઢાંચો:Dmoz	Predefinição:Dmoz
+ઢાંચો:Dated maintenance category	Predefinição:Categoria de manutenção datada
+ઢાંચો:Country data Bohemia	Predefinição:Country data Boêmia
+ઢાંચો:Country data Bahrain	Predefinição:Country data Bahrain
+ઢાંચો:યુરોપ	Predefinição:Países da Europa
+ઢાંચો:WikiProjectBannerShell	Predefinição:BannerWP
+શ્રેણી:User fr	Categoria:Usuários fr
+શ્રેણી:User gu	Categoria:Usuários gu
+શ્રેણી:User hi-3	Categoria:Usuário hi-3
+શ્રેણી:सदस्य hi-2	Categoria:Usuário hi-2
+શ્રેણી:User fr-N	Categoria:Usuário fr
+શ્રેણી:User hi-N	Categoria:Usuário hi
+ઢાંચો:Cite video	Predefinição:Citar vídeo
+ઢાંચો:IncreaseNegative	Predefinição:Aumento negativo
+ઢાંચો:Catmore	Predefinição:Cat principal
+ઢાંચો:Beta	Predefinição:Beta
+શ્રેણી:User de	Categoria:Usuários de
+શ્રેણી:User en-3	Categoria:Usuário en-3
+શ્રેણી:User en-N	Categoria:Usuário en
+ઢાંચો:Chembox Elements	Predefinição:Chembox Elements
+શ્રેણી:User gu-1	Categoria:Usuário gu-1
+શ્રેણી:User gu-2	Categoria:Usuário gu-2
+શ્રેણી:User gu-3	Categoria:Usuário gu-3
+શ્રેણી:User gu-N	Categoria:Usuário gu
+ઢાંચો:N/a	Predefinição:N/a
+ઢાંચો:Category class	Predefinição:Cat class
+ઢાંચો:Country data Germany	Predefinição:Country data Alemanha
+ઢાંચો:Country data United Kingdom	Predefinição:Country data Reino Unido
+ઢાંચો:Location map Greater London	Predefinição:Mapa de localização/United Kingdom Greater London
+ઢાંચો:Legend0	Predefinição:Legend0
+ઢાંચો:Country data Estonian SSR	Predefinição:Country data RSS da Estônia
+ઢાંચો:માહિતીચોકઠું રોગ	Predefinição:Info/Patologia
+ઢાંચો:Country data Scotland	Predefinição:Country data Escócia
+ઢાંચો:Color sample	Predefinição:Color sample
+ઢાંચો:Country data Estonia	Predefinição:Country data Estônia
+ઢાંચો:Country data Montenegro	Predefinição:Country data Montenegro
+ઢાંચો:Weather box	Predefinição:Tabela/Clima
+ઢાંચો:Smallsup	Predefinição:Smallsup
+ઢાંચો:Su	Predefinição:Su
+ઢાંચો:Protection templates	Predefinição:Proteções
+ઢાંચો:Confuse	Predefinição:Não confundir com
+ઢાંચો:Wikivoyage	Predefinição:Wikivoyage
+ઢાંચો:Pp-protected	Predefinição:Pp-protegida
+શ્રેણી:નવેમ્બર	Categoria:Novembro
+ઢાંચો:High-use	Predefinição:Alto uso
+પાણી (અણુ)	Propriedades físico-químicas da água
+ઢાંચો:Help pages header	Predefinição:WP páginas de ajuda (barra cabeçalho)
+ઢાંચો:User ta	Predefinição:User ta
+શ્રેણી:માર્ચ	Categoria:Março
+શ્રેણી:સપ્ટેમ્બર	Categoria:Setembro
+શ્રેણી:ઓક્ટોબર	Categoria:Outubro
+ઢાંચો:Only in print	Predefinição:Only in print
+શ્રેણી:ડિસેમ્બર	Categoria:Dezembro
+શ્રેણી:ઓગસ્ટ	Categoria:Agosto
+શ્રેણી:મે	Categoria:Maio
+ઢાંચો:No2	Predefinição:Não2
+ઢાંચો:Rp	Predefinição:Rp
+ઢાંચો:Country data Korean Empire	Predefinição:Country data Império da Coreia
+ઢાંચો:Country data Zimbabwe Rhodesia	Predefinição:Country data Zimbabwe-Rodésia
+શ્રેણી:ઇંગ્લેન્ડ	Categoria:Inglaterra
+અર્થીંગ	Terra (eletricidade)
+શ્રેણી:એપ્રિલ	Categoria:Abril
+ઢાંચો:Str ≥ len	Predefinição:Str ≥ len
+ઢાંચો:String templates see also text	Predefinição:Navegação modificadores de cadeias
+ઢાંચો:Rh	Predefinição:Rh
+ઢાંચો:Red	Predefinição:Vermelho
+ઢાંચો:Coord/dms2dec	Predefinição:Coord/dms2dec
+ઢાંચો:Country data Brazil	Predefinição:Country data Brasil
+ઢાંચો:Yes2	Predefinição:Sim2
+ઢાંચો:Yes-No	Predefinição:Sim-Não
+ઢાંચો:ફિફા ખેલાડી	Predefinição:FIFA Player
+ઢાંચો:Country data Northern Ireland	Predefinição:Country data Irlanda do Norte
+ઢાંચો:Country data Dahomey	Predefinição:Country data Dahomey
+ઢાંચો:ચર્ચા-પૂરી	Predefinição:Respondido
+ઢાંચો:Country data Kingdom of Great Britain	Predefinição:Country data Reino da Grã-Bretanha
+ઢાંચો:Country data Swaziland	Predefinição:Country data Suazilândia
+ઢાંચો:Country data United Kingdom of Great Britain and Ireland	Predefinição:Country data Reino Unido da Grã-Bretanha e Irlanda
+ઢાંચો:Country data Somaliland	Predefinição:Country data Somalilândia
+ઢાંચો:Start date and age	Predefinição:Data de lançamento
+ઢાંચો:Country data Hungary	Predefinição:Country data Hungria
+શ્રેણી:ભારતના વિશ્વધરોહર સ્થળો	Categoria:Patrimônio Mundial da UNESCO na Índia
+ઢાંચો:--	Predefinição:Mdash
+ઢાંચો:Infobox government agency	Predefinição:Info/Agência do governo
+ઢાંચો:Country data New Zealand	Predefinição:Country data Nova Zelândia
+શ્રેણી:User ru	Categoria:Usuários ru
+શ્રેણી:User ru-3	Categoria:Usuário ru-3
+શ્રેણી:1533 જન્મો	Categoria:Nascidos em 1533
+શ્રેણી:User tr	Categoria:Usuários tr
+શ્રેણી:User tr-N	Categoria:Usuário tr
+ઢાંચો:Gallery/aux	Predefinição:Galeria/aux
+ઢાંચો:Country data Faroe Islands	Predefinição:Country data Ilhas Faroe
+ઢાંચો:Lang	Predefinição:Lang
+ઢાંચો:Country data United States	Predefinição:Country data Estados Unidos
+ઢાંચો:Country data Russian SFSR	Predefinição:Country data RSFS da Rússia
+શ્રેણી:દિલ્હી	Categoria:Deli
+ઢાંચો:OCLC	Predefinição:OCLC
+ઢાંચો:માહિતીચોકઠું તૈયાર ખોરાક	Predefinição:Info/Comida pronta
+વિકિપીડિયા:નિષ્પક્ષતા વિવાદ	Wikipédia:Parcial
+ઢાંચો:Infobox River	Predefinição:Info/Rio
+ઢાંચો:Country data Turkmenistan	Predefinição:Country data Turquemenistão
+શ્રેણી:1986 જન્મો	Categoria:Nascidos em 1986
+ઢાંચો:Country data North Korea	Predefinição:Country data Coreia do Norte
+ઢાંચો:Country data Afghanistan	Predefinição:Country data Afeganistão
+ઢાંચો:Country data Bangladesh	Predefinição:Country data Bangladesh
+ઢાંચો:Country data South Sudan	Predefinição:Country data Sudão do Sul
+ઢાંચો:Any	Predefinição:Qualquer
+ઢાંચો:As of	Predefinição:Desde
+ઢાંચો:Awards	Predefinição:Awd
+ઢાંચો:BLACK	Predefinição:PRETO
+ઢાંચો:Bibleref2	Predefinição:Bibleref2
+ઢાંચો:Twitter	Predefinição:Twitter
+ઢાંચો:Lang-hi	Predefinição:Lang-hi
+ઢાંચો:Chembox header	Predefinição:Chembox header
+ઢાંચો:Convert/-/AoffSoff	Predefinição:Convert/-/AoffSoff
+ઢાંચો:Convert/LoutAonDbSoff	Predefinição:Convert/LoutAonDbSoff
+ઢાંચો:Convert/sqyd	Predefinição:Convert/sqyd
+ઢાંચો:Coord/dec2dms/dm	Predefinição:Coord/dec2dms/dm
+ઢાંચો:F1	Predefinição:AnosF1
+ઢાંચો:Weather box/cold	Predefinição:Infobox Weather/cold
+ઢાંચો:RUS	Predefinição:RUS
+ઢાંચો:Importance/colour	Predefinição:Importância/cor
+ઢાંચો:Cat priority	Predefinição:Cat priority
+ઢાંચો:Chembox 3DMet	Predefinição:Chembox 3DMet
+ઢાંચો:Chembox Beilstein	Predefinição:Chembox Beilstein
+ઢાંચો:Family tree/step2	Predefinição:Árvore genealógica/2
+ઢાંચો:Chembox ChEBI	Predefinição:Chembox ChEBI
+ઢાંચો:Infobox civil conflict	Predefinição:Info/Conflito civil
+ઢાંચો:Citation	Predefinição:Citation
+ઢાંચો:Citation/core	Predefinição:Citation/core
+ઢાંચો:Cite EB1911	Predefinição:Cite EB1911
+ઢાંચો:User ur	Predefinição:User ur
+ઢાંચો:Country data Yugoslavia	Predefinição:Country data Iugoslávia
+ઢાંચો:DecreasePositive	Predefinição:Baixa positiva
+ઢાંચો:Country data Marshall Islands	Predefinição:Country data Ilhas Marshall
+ઢાંચો:Country data Mauritania	Predefinição:Country data Mauritânia
+ઢાંચો:Country data Guam	Predefinição:Country data Guam
+ઢાંચો:Country data Northern Mariana Islands	Predefinição:Country data Marianas Setentrionais
+ઢાંચો:Country data American Samoa	Predefinição:Country data Samoa Americana
+ઢાંચો:Country data Sudan	Predefinição:Country data Sudão
+ઢાંચો:Country data Chad	Predefinição:Country data Chade
+ઢાંચો:Unbulleted list	Predefinição:Lista sem marcas
+શ્રેણી:કાગડો	Categoria:Corvus
+ઢાંચો:Country data Federated States of Micronesia	Predefinição:Country data Estados Federados da Micronésia
+ઢાંચો:Country data Nova Scotia	Predefinição:Country data Nova Escócia
+ઢાંચો:Country data North Vietnam	Predefinição:Country data Vietnã do Norte
+શ્રેણી:રાષ્ટ્રધ્વજો	Categoria:Bandeiras nacionais
+શ્રેણી:રાસાયણિક તત્વો	Categoria:Elementos químicos
+ઢાંચો:Country data Lithuanian SSR	Predefinição:Country data RSS da Lituânia
+ઢાંચો:Country data Latvian SSR	Predefinição:Country data RSS da Letónia
+શ્રેણી:ભૂગોળ સ્ટબ	Categoria:!Esboços sobre geografia
+ઢાંચો:User gu-1	Predefinição:User gu-1
+ઢાંચો:Country data Burkina Faso	Predefinição:Country data Burkina Faso
+ઢાંચો:Umbox	Predefinição:Umbox
+શ્રેણી:નેપાળ	Categoria:Nepal
+ઢાંચો:PAGENAMEBASE	Predefinição:PAGENAMEBASE
+ઢાંચો:Country data Byelorussian SSR	Predefinição:Country data RSS da Bielorrússia
+શ્રેણી:માછલી	Categoria:Peixes
+શ્રેણી:Public domain images	Categoria:Imagens domínio público
+શ્રેણી:મહાસાગર	Categoria:Oceanos
+શ્રેણી:અંક પદ્ધતિ	Categoria:Sistemas de numeração
+શ્રેણી:ગોઆ	Categoria:Goa
+શ્રેણી:કર્ણાટક	Categoria:Karnataka
+શ્રેણી:છત્તીસગઢ	Categoria:Chhattisgarh
+શ્રેણી:ગુજરાત	Categoria:Guzerate
+શ્રેણી:ઝારખંડ	Categoria:Jharkhand
+શ્રેણી:તમિલનાડુ	Categoria:Tamil Nadu
+શ્રેણી:મધ્ય પ્રદેશ	Categoria:Madhya Pradesh
+શ્રેણી:મિઝોરમ	Categoria:Mizoram
+શ્રેણી:રાજસ્થાન	Categoria:Rajastão
+શ્રેણી:સિક્કિમ	Categoria:Siquim
+શ્રેણી:હરિયાણા	Categoria:Haryana
+શ્રેણી:ઉત્તર પ્રદેશ	Categoria:Uttar Pradesh
+શ્રેણી:મેઘાલય	Categoria:Meghalaya
+શ્રેણી:પશ્ચિમ બંગાળ	Categoria:Bengala Ocidental
+શ્રેણી:ઑડિશા	Categoria:Orissa
+શ્રેણી:પ્રાણીઓ	Categoria:Animais
+ઢાંચો:Country data Ethiopian Empire	Predefinição:Country data Império Etíope
+ઢાંચો:Infobox book series	Predefinição:Info/Série literária
+ઢાંચો:MedalCompetition	Predefinição:MedalCompetition
+શ્રેણી:હિમાલય	Categoria:Himalaia
+શ્રેણી:ઍન્ટાર્કટીકા	Categoria:Antártida
+ઢાંચો:Wikiversity	Predefinição:Wikiversidade
+ઢાંચો:Country data Hawaii	Predefinição:Country data Havaí
+શ્રેણી:નાગાલેંડ	Categoria:Nagaland
+શ્રેણી:જમ્મુ અને કાશ્મીર	Categoria:Jammu e Caxemira
+શ્રેણી:મણિપુર	Categoria:Manipur
+શ્રેણી:મહારાષ્ટ્ર	Categoria:Maharashtra
+શ્રેણી:અરુણાચલ પ્રદેશ	Categoria:Arunachal Pradesh
+શ્રેણી:હિમાચલ પ્રદેશ	Categoria:Himachal Pradesh
+શ્રેણી:આંધ્ર પ્રદેશ	Categoria:Andhra Pradesh
+શ્રેણી:આસામ	Categoria:Assam
+ધ પ્રોડિજિ	The Prodigy
+ઢાંચો:First word	Predefinição:Primeira palavra
+રાણકી વાવ	Rani ki kav
+ઢાંચો:WPBannerMeta	Predefinição:Marca de projeto
+Module:Gallery	Módulo:Gallery
+ઢાંચો:Country data Alabama	Predefinição:Country data Alabama
+ઢાંચો:Country data Alaska	Predefinição:Country data Alaska
+ઢાંચો:Country data Alberta	Predefinição:Country data Alberta
+ઢાંચો:Lang-or	Predefinição:Lang-or
+ઢાંચો:Country data Kingdom of Bulgaria	Predefinição:Country data Reino da Bulgária
+ઢાંચો:Mojo title	Predefinição:Mojo
+ઢાંચો:CountryAbbr	Predefinição:CountryAbbr
+શ્રેણી:ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Categoria:Estados e territórios da Índia
+ઢાંચો:Str ≠ len	Predefinição:Str ≠ len
+ઢાંચો:FULLROOTPAGENAME	Predefinição:FULLROOTPAGENAME
+ઢાંચો:S-vac	Predefinição:S-vac
+શ્રેણી:Articles with invalid date parameter in template	Categoria:!Artigos com parâmetro de data inválido em predefinições
+શ્રેણી:અંગ્રેજી ભાષાના ગાયકો	Categoria:Cantores de língua inglesa
+ઢાંચો:Country data Mexican Federal District	Predefinição:Country data Distrito Federal (México)
+ઢાંચો:Country data Michoacán	Predefinição:Country data Michoacán
+ઢાંચો:Country data Nuevo León	Predefinição:Country data Nuevo León
+ઢાંચો:Country data Hidalgo	Predefinição:Country data Hidalgo
+ઢાંચો:Country data Nayarit	Predefinição:Country data Nayarit
+ઢાંચો:Country data Oaxaca	Predefinição:Country data Oaxaca
+ઢાંચો:Country data Jalisco	Predefinição:Country data Jalisco
+ઢાંચો:Country data Sinaloa	Predefinição:Country data Sinaloa
+ઢાંચો:Country data Zacatecas	Predefinição:Country data Zacatecas
+ઢાંચો:Country data San Luis Potosí	Predefinição:Country data San Luis Potosí
+ઢાંચો:Country data Tlaxcala	Predefinição:Country data Tlaxcala
+ઢાંચો:Country data Yucatán	Predefinição:Country data Yucatán
+ઢાંચો:Country data Guanajuato	Predefinição:Country data Guanajuato
+ઢાંચો:Country data Querétaro	Predefinição:Country data Querétaro
+ઢાંચો:Country data México (state)	Predefinição:Country data México (estado)
+ઢાંચો:Country data Guerrero	Predefinição:Country data Guerrero
+ઢાંચો:Country data Tamaulipas	Predefinição:Country data Tamaulipas
+ઢાંચો:Country data Tabasco	Predefinição:Country data Tabasco
+ઢાંચો:Country data Quintana Roo	Predefinição:Country data Quintana Roo
+ઢાંચો:Country data Sonora	Predefinição:Country data Sonora
+ઢાંચો:Country data Aguascalientes	Predefinição:Country data Aguascalientes
+ઢાંચો:Country data Campeche	Predefinição:Country data Campeche
+ઢાંચો:Country data Chihuahua	Predefinição:Country data Chihuahua
+ઢાંચો:Country data Chiapas	Predefinição:Country data Chiapas
+ઢાંચો:Country data Durango	Predefinição:Country data Durango
+ઢાંચો:Country data Baja California	Predefinição:Country data Baja California
+ઢાંચો:Country data Coahuila	Predefinição:Country data Coahuila
+ઢાંચો:Country data Baja California Sur	Predefinição:Country data Baja California Sur
+ઢાંચો:Country data Colima	Predefinição:Country data Colima
+ઢાંચો:Substituted	Predefinição:Nota-subst
+ઢાંચો:Country data Veracruz	Predefinição:Country data Veracruz
+ઢાંચો:Country data Puebla	Predefinição:Country data Puebla
+ઢાંચો:Country data Morelos	Predefinição:Country data Morelos
+ઢાંચો:Country data Spain	Predefinição:Country data Espanha
+ઢાંચો:Pad	Predefinição:Pad
+ઢાંચો:Country data Canada	Predefinição:Country data Canadá
+ઢાંચો:The Anti-Vandalism Barnstar	Predefinição:Condecoração AntiVandalismo
+ઢાંચો:Class	Predefinição:Class
+ઢાંચો:Conservation status	Predefinição:Estado de conservação
+ઢાંચો:Convert/3	Predefinição:Convert/3
+ઢાંચો:Convert/Dual/LoffAoffDbSoffT	Predefinição:Convert/Dual/LoffAoffDxSoffT
+ઢાંચો:Convert/LoffAnoneDbSoff	Predefinição:Convert/LoffAnoneDbSoff
+ઢાંચો:Convert/LoffAoffDorSoff	Predefinição:Convert/LoffAoffDorSoff
+ઢાંચો:Convert/and/AonSoff	Predefinição:Convert/and/AonSoff
+ઢાંચો:Convert/numdisp/frac1	Predefinição:Convert/numdisp/frac1
+ઢાંચો:Cookbook	Predefinição:Livro de receitas
+ઢાંચો:Coord/dec2dms	Predefinição:Coord/dec2dms
+ઢાંચો:Coord/prec dec	Predefinição:Coord/prec dec
+ઢાંચો:CountryAbbr2	Predefinição:CountryAbbr2
+ઢાંચો:Country data Aden	Predefinição:Country data Aden
+ઢાંચો:Country data Arizona	Predefinição:Country data Arizona
+ઢાંચો:Country data Bermuda	Predefinição:Country data Bermudas
+ઢાંચો:Country data British Columbia	Predefinição:Country data Colúmbia Britânica
+ઢાંચો:Country data Burgenland	Predefinição:Country data Burgenland
+ઢાંચો:Country data California	Predefinição:Country data Califórnia
+ઢાંચો:Country data Colorado	Predefinição:Country data Colorado
+ઢાંચો:Country data Commonwealth of Independent States	Predefinição:Country data Comunidade dos Estados Independentes
+ઢાંચો:Country data Connecticut	Predefinição:Country data Connecticut
+ઢાંચો:Country data Delaware	Predefinição:Country data Delaware
+ઢાંચો:Country data East Flanders	Predefinição:Country data Flandres Oriental
+ઢાંચો:Country data Flemish Brabant	Predefinição:Country data Brabante Flamengo
+ઢાંચો:Country data Flemish Region	Predefinição:Country data Região flamenga
+ઢાંચો:Country data Florida	Predefinição:Country data Florida
+ઢાંચો:Country data Friesland	Predefinição:Country data Frísia
+ઢાંચો:Country data Flevoland	Predefinição:Country data Flevoland
+ઢાંચો:Country data Georgia (U.S. state)	Predefinição:Country data Geórgia (Estados Unidos)
+ઢાંચો:Country data Great Britain	Predefinição:Country data Grã-Bretanha
+ઢાંચો:Country data Georgian SSR	Predefinição:Country data RSS da Geórgia
+ઢાંચો:Country data Illinois	Predefinição:Country data Illinois
+ઢાંચો:Country data Independent State of Croatia	Predefinição:Country data Estado Independente da Croácia
+ઢાંચો:Country data Indiana	Predefinição:Country data Indiana
+ઢાંચો:Country data Iowa	Predefinição:Country data Iowa
+ઢાંચો:Country data Irish Free State	Predefinição:Country data Estado Livre Irlandês
+ઢાંચો:Country data Jordan	Predefinição:Country data Jordânia
+ઢાંચો:Country data Kansas	Predefinição:Country data Kansas
+ઢાંચો:Country data Kentucky	Predefinição:Country data Kentucky
+ઢાંચો:Country data Kazakh SSR	Predefinição:Country data RSS do Cazaquistão
+ઢાંચો:Country data Kingdom of Montenegro	Predefinição:Country data Reino de Montenegro
+ઢાંચો:Country data Korea	Predefinição:Country data Coreia
+ઢાંચો:Country data Kyrgyzstan	Predefinição:Country data Quirguistão
+ઢાંચો:Country data Kingdom of Yugoslavia	Predefinição:Country data Reino da Iugoslávia
+ઢાંચો:Country data Lesotho	Predefinição:Country data Lesoto
+ઢાંચો:Country data Liberia	Predefinição:Country data Libéria
+ઢાંચો:Country data Limburg (Belgium)	Predefinição:Country data Limburgo (Bélgica)
+ઢાંચો:Country data Liège	Predefinição:Country data Liège (província)
+ઢાંચો:Country data Louisiana	Predefinição:Country data Louisiana
+ઢાંચો:Country data Leinster	Predefinição:Country data Leinster
+ઢાંચો:Country data Limburg (Netherlands)	Predefinição:Country data Limburgo (Países Baixos)
+ઢાંચો:Country data Luxembourg (Belgium)	Predefinição:Country data Luxemburgo (Bélgica)
+ઢાંચો:Country data Maine	Predefinição:Country data Maine
+ઢાંચો:Country data Malawi	Predefinição:Country data Malawi
+ઢાંચો:Country data Maldives	Predefinição:Country data Maldivas
+ઢાંચો:Country data Manitoba	Predefinição:Country data Manitoba
+ઢાંચો:Country data Maryland	Predefinição:Country data Maryland
+ઢાંચો:Country data Massachusetts	Predefinição:Country data Massachusetts
+ઢાંચો:Country data Mauritius	Predefinição:Country data Maurícia
+ઢાંચો:Country data Michigan	Predefinição:Country data Michigan
+ઢાંચો:Country data Minnesota	Predefinição:Country data Minnesota
+ઢાંચો:Country data Mississippi	Predefinição:Country data Mississippi
+ઢાંચો:Country data Missouri	Predefinição:Country data Missouri
+ઢાંચો:Country data Mongolia	Predefinição:Country data Mongólia
+ઢાંચો:Country data Montana	Predefinição:Country data Montana
+ઢાંચો:Country data Nagorno-Karabakh Republic	Predefinição:Country data Nagorno-Karabakh
+ઢાંચો:Country data Namur	Predefinição:Country data Namur (província)
+ઢાંચો:Country data Munster	Predefinição:Country data Munster (Irlanda)
+ઢાંચો:Country data Nevada	Predefinição:Country data Nevada
+ઢાંચો:Country data New Brunswick	Predefinição:Country data New Brunswick
+ઢાંચો:Country data New Hampshire	Predefinição:Country data New Hampshire
+ઢાંચો:Country data New Jersey	Predefinição:Country data Nova Jersei
+ઢાંચો:Country data New Mexico	Predefinição:Country data Novo México
+ઢાંચો:Country data New York	Predefinição:Country data Nova Iorque
+ઢાંચો:Country data Newfoundland and Labrador	Predefinição:Country data Terra Nova e Labrador
+ઢાંચો:Country data Niger	Predefinição:Country data Níger
+ઢાંચો:Country data North Carolina	Predefinição:Country data Carolina do Norte
+ઢાંચો:Country data North Dakota	Predefinição:Country data Dakota do Norte
+ઢાંચો:Country data North Yemen	Predefinição:Country data Iêmen do Norte
+ઢાંચો:Country data Northwest Territories	Predefinição:Country data Territórios do Noroeste
+ઢાંચો:Country data Nunavut	Predefinição:Country data Nunavut
+ઢાંચો:Country data Ohio	Predefinição:Country data Ohio
+ઢાંચો:Country data Oklahoma	Predefinição:Country data Oklahoma
+ઢાંચો:Country data Ontario	Predefinição:Country data Ontário
+ઢાંચો:Country data Oregon	Predefinição:Country data Oregon
+ઢાંચો:Country data Pennsylvania	Predefinição:Country data Pensilvânia
+ઢાંચો:Country data Prince Edward Island	Predefinição:Country data Ilha do Príncipe Eduardo
+ઢાંચો:Country data Puerto Rico	Predefinição:Country data Porto Rico
+ઢાંચો:Country data Quebec	Predefinição:Country data Quebec
+ઢાંચો:Country data Rhode Island	Predefinição:Country data Rhode Island
+ઢાંચો:Country data Rhodesia	Predefinição:Country data Rodésia
+ઢાંચો:Country data SR Montenegro	Predefinição:Country data RS Montenegro
+ઢાંચો:Country data Saskatchewan	Predefinição:Country data Saskatchewan
+ઢાંચો:Country data South Dakota	Predefinição:Country data Dakota do Sul
+ઢાંચો:Country data South Yemen	Predefinição:Country data Iêmen do Sul
+ઢાંચો:Country data South Arabia	Predefinição:Country data Arábia do Sul
+ઢાંચો:Country data Southern Rhodesia	Predefinição:Country data Rodésia do Sul
+ઢાંચો:Country data Southern Ireland	Predefinição:Country data Irlanda do Sul
+ઢાંચો:દેશ માહિતી સુરીનામ	Predefinição:Country data Suriname
+ઢાંચો:Country data Syria	Predefinição:Country data Síria
+ઢાંચો:Country data Sovereign Military Order of Malta	Predefinição:Country data Ordem Soberana Militar de Malta
+ઢાંચો:Country data Tennessee	Predefinição:Country data Tennessee
+ઢાંચો:Country data Texas	Predefinição:Country data Texas
+ઢાંચો:Country data Tanganyika	Predefinição:Country data Tanganyika
+ઢાંચો:Country data Singapore	Predefinição:Country data Singapura
+ઢાંચો:Country data Uganda	Predefinição:Country data Uganda
+ઢાંચો:Country data Ukrainian SSR	Predefinição:Country data RSS da Ucrânia
+ઢાંચો:Country data Union of South Africa	Predefinição:Country data União Sul-Africana
+ઢાંચો:Country data Utah	Predefinição:Country data Utah
+ઢાંચો:Country data Vermont	Predefinição:Country data Vermont
+ઢાંચો:Country data Uzbek SSR	Predefinição:Country data RSS do Uzbequistão
+ઢાંચો:Country data Washington	Predefinição:Country data Washington
+ઢાંચો:Country data Washington, D.C.	Predefinição:Country data Washington, D.C.
+ઢાંચો:Country data West Flanders	Predefinição:Country data Flandres Ocidental
+ઢાંચો:Country data West Virginia	Predefinição:Country data Virgínia Ocidental
+ઢાંચો:Country data Walloon Brabant	Predefinição:Country data Brabante Valão
+ઢાંચો:Country data Wisconsin	Predefinição:Country data Wisconsin
+ઢાંચો:Country data Wyoming	Predefinição:Country data Wyoming
+ઢાંચો:Country data Yemen	Predefinição:Country data Iémen
+ઢાંચો:Country data Yukon	Predefinição:Country data Yukon
+ઢાંચો:Country data Zanzibar	Predefinição:Country data Zanzibar
+ઢાંચો:Country data Åland Islands	Predefinição:Country data Ilhas Åland
+ઢાંચો:Country flagbio	Predefinição:Country flagbio
+ઢાંચો:Str right	Predefinição:Str right
+ઢાંચો:હિન્દુત્વ	Predefinição:Hinduísmo
+ઢાંચો:Spacecraft-stub	Predefinição:Esboço-espaçonave
+ઢાંચો:Article history	Predefinição:História do artigo
+ઢાંચો:User hi-2	Predefinição:User hi-2
+ઢાંચો:User gu-3	Predefinição:User gu-3
+ઢાંચો:User gu	Predefinição:User gu
+ઢાંચો:UF-hcard-geo	Predefinição:UF-hcard-geo
+ઢાંચો:Lang-pa	Predefinição:Lang-pa
+ઢાંચો:Lang-kn	Predefinição:Lang-kn
+ઢાંચો:Lang-bo	Predefinição:Lang-bo
+ઢાંચો:ભાષા-બં	Predefinição:Lang-bn
+શ્રેણી:ઉત્તરાખંડ	Categoria:Uttarakhand
+ઢાંચો:IPA audio link	Predefinição:IPA audio link
+ઢાંચો:Country data Ulster	Predefinição:Country data Ulster
+ઢાંચો:Country data Turkmen SSR	Predefinição:Country data RSS do Turcomenistão
+ઢાંચો:Country data Tajik SSR	Predefinição:Country data RSS do Tadjiquistão
+ઢાંચો:Country data Moldavian SSR	Predefinição:Country data RSS da Moldávia
+ઢાંચો:Country data Kirghiz SSR	Predefinição:Country data RSS do Quirguistão
+ઢાંચો:Country data Drenthe	Predefinição:Country data Drenthe
+ઢાંચો:Country data British Guiana	Predefinição:Country data Guiana Britânica
+ઢાંચો:Country data Batavian Republic	Predefinição:Country data República Batava
+ઢાંચો:Country data Antwerp	Predefinição:Country data Antuérpia (província)
+શ્રેણી:બિહાર	Categoria:Bihar
+શ્રેણી:બોલીવુડ	Categoria:Bollywood
+શ્રેણી:Userboxes	Categoria:!Userboxes
+ઢાંચો:Multicol	Predefinição:Multicol
+ઢાંચો:Country data Dutch Republic	Predefinição:Country data República Dutch
+ઢાંચો:દેશ માહિતી Dutch Guiana	Predefinição:Country data Guiana Holandesa
+શ્રેણી:દમણ અને દીવ	Categoria:Damão e Diu
+ઢાંચો:Country data Falkland Islands	Predefinição:Country data Ilhas Malvinas
+શ્રેણી:નેપાળના જિલ્લાઓ	Categoria:Distritos do Nepal
+શ્રેણી:તમિલનાડુના જિલ્લાઓ	Categoria:Distritos de Tamil Nadu
+ઢાંચો:Country data Gold Coast	Predefinição:Country data Costa do Ouro
+ઢાંચો:Infobox Weapon	Predefinição:Info/Arma
+શ્રેણી:અંગ્રેજી ચલચિત્ર	Categoria:Filmes da Inglaterra
+ઢાંચો:Lang-am	Predefinição:Lang-am
+ઢાંચો:Lang-zh	Predefinição:Lang-zh
+ઢાંચો:IAST	Predefinição:IAST
+ઢાંચો:Lang-mr	Predefinição:Lang-mr
+શ્રેણી:જ્યોતિષ	Categoria:Astrologia hindu
+શ્રેણી:ભારતીય ક્રિકેટ ખેલાડી	Categoria:Jogadores de críquete da Índia
+ઢાંચો:Country data Azerbaijan SSR	Predefinição:Country data RSS do Azerbaijão
+ઢાંચો:Listen	Predefinição:Escute
+કેળ	Bananeira
+ઢાંચો:Country data Macedonia	Predefinição:Country data Macedônia
+ઢાંચો:Country data Nebraska	Predefinição:Country data Nebraska
+ઢાંચો:Country data United Arab Republic	Predefinição:Country data República Árabe Unida
+ઢાંચો:Country data Tanzania	Predefinição:Country data Tanzânia
+ઢાંચો:Country data Principality of Montenegro	Predefinição:Country data Principado de Montenegro
+ઢાંચો:Country data Somalia	Predefinição:Country data Somália
+ઢાંચો:Country data South Carolina	Predefinição:Country data Carolina do Sul
+ઢાંચો:Image label begin	Predefinição:Image label begin
+શ્રેણી:ગુજરાતનાં શહેરો અને નગરો	Categoria:Cidades e vilas de Gujarat
+શ્રેણી:અર્થશાસ્ત્રમાં નોબેલ મેળવનારા	Categoria:Prémio de Ciências Económicas em Memória de Alfred Nobel
+વિકિપીડિયા:સબસ્ટબ	Wikipédia:Mínimo
+ઢાંચો:Social and political philosophy	Predefinição:Filosofia social e política
+ઢાંચો:Ethics	Predefinição:Ética
+ઢાંચો:Coord/display/title	Predefinição:Coord/display/title
+ઢાંચો:Ombox/core	Predefinição:Ombox/core
+ઢાંચો:Convert/AU	Predefinição:Convert/AU
+ઢાંચો:MedalBottom	Predefinição:Lista de Medalhas Fim
+ઢાંચો:Ntsh	Predefinição:Ntsh
+ઢાંચો:Country data Armenian SSR	Predefinição:Country data RSS da Armênia
+ઢાંચો:Start date	Predefinição:Data de início
+ઢાંચો:Country data Hainaut	Predefinição:Country data Hainaut
+ઢાંચો:Decimals	Predefinição:Decimals
+ઢાંચો:Unknown	Predefinição:Des
+ઢાંચો:Terminated	Predefinição:Encerrado
+ઢાંચો:Country data Connacht	Predefinição:Country data Connacht
+ઢાંચો:Dropped	Predefinição:Caiu
+ઢાંચો:Free	Predefinição:Livre
+ઢાંચો:૧૦ લાખથી વધુ વસ્તીવાળા ભારતના શહેરો	Predefinição:Cidades indianas com mais de um milhão de habitantes
+ઢાંચો:MedalBronze	Predefinição:MedalBronze
+ઢાંચો:Nonfree	Predefinição:Nãolivre
+ઢાંચો:MedalSilver	Predefinição:MedalSilver
+ઢાંચો:Table-experimental	Predefinição:Tabela-experimental
+ઢાંચો:Incorrect	Predefinição:Incorreto
+ઢાંચો:ભારતના રાષ્ટ્રીય ઉદ્યાનો	Predefinição:Parques Nacionais da Índia
+ઢાંચો:MedalCountry	Predefinição:MedalCountry
+ઢાંચો:Infobox file format	Predefinição:Info/Formato de ficheiro
+ઢાંચો:No result	Predefinição:Sem resultado
+ઢાંચો:Windows Components	Predefinição:Componentes do Windows
+ઢાંચો:User UK	Wikipédia:Userbox/Britânico
+ઢાંચો:Campaignbox Indo-Pakistani Wars	Predefinição:Guerras entre Índia e Paquistão
+ઢાંચો:Str ≤ len	Predefinição:Str ≤ len
+ઢાંચો:સભ્ય સાઉથ આફ્રિકા	Wikipédia:Userbox/África do Sul
+ઢાંચો:Subpages	Predefinição:Subpáginas
+ઢાંચો:S-hou	Predefinição:S-hou
+ઢાંચો:માહિતીચોકઠું સંગીત કલાકાર/રંગ	Predefinição:Navbox/Músico/cor
+ઢાંચો:Importance	Predefinição:Importance
+ઢાંચો:S-non	Predefinição:S-non
+ઢાંચો:Country data Arkansas	Predefinição:Country data Arkansas
+Module:Citation/CS1/Whitelist	Módulo:Citation/CS1/Whitelist
+ઢાંચો:Location map/decdeg	Predefinição:Mapa de localização/decdeg
+ઢાંચો:Sec link/text	Predefinição:Sec link/text
+ઢાંચો:Weather box/colh	Predefinição:Infobox weather/colh
+ઢાંચો:Grading scheme	Predefinição:Sistema de classificação
+ઢાંચો:Convert/to(-)	Predefinição:Convert/to(-)
+ઢાંચો:Str len/core	Predefinição:Str len/core
+ઢાંચો:Random page in category	Predefinição:Artigo aleatório em categoria
+ઢાંચો:IPAc-en/pronunciation	Predefinição:IPAc-en/pronúncia
+ઢાંચો:\	Predefinição:\
+ઢાંચો:Chembox LogP	Predefinição:Chembox LogP
+ઢાંચો:Contains Ethiopic text	Predefinição:Contém texto em etíope
+ઢાંચો:S-new	Predefinição:S-new
+ઢાંચો:Str index/getchar	Predefinição:Str index/getchar
+ઢાંચો:Str ≤ ≥ len	Predefinição:Str ≤ ≥ len
+ઢાંચો:Country flagairforce	Predefinição:Força aérea/core
+ઢાંચો:Style/ril	Predefinição:Style/ril
+ઢાંચો:Infobox venue	Predefinição:Info/Casa de eventos
+ઢાંચો:Infobox weather/line	Predefinição:Infobox weather/line
+ઢાંચો:Weather box/colp	Predefinição:Infobox weather/colp
+ઢાંચો:Weather box/colt	Predefinição:Infobox weather/colt
+ઢાંચો:INRConvert	Predefinição:INRConvert
+ઢાંચો:Convert/Dual/LoffAnoneDbSoff	Predefinição:Convert/Dual/LoffAnoneDbSoff
+ઢાંચો:Class/colour	Predefinição:Classcol
+ઢાંચો:Style/yid	Predefinição:Style/yid
+ઢાંચો:Sec link/secure url	Predefinição:Sec link/secure url
+Module:Documentation	Módulo:Documentação
+ઢાંચો:Weather box/cols	Predefinição:Infobox weather/cols
+ઢાંચો:Sec link/normal url	Predefinição:Sec link/normal url
+ઢાંચો:Infobox Indian Jurisdiction/urban-type	Predefinição:Infobox Indian Jurisdiction/urban-type
+ઢાંચો:Sec link/relative url	Predefinição:Sec link/relative url
+ઢાંચો:Importance scheme	Predefinição:Esquema de importância
+ઢાંચો:Importance/icon	Predefinição:Importanceicon
+ઢાંચો:Assessment Class Summary	Predefinição:Assessment Class Summary
+ઢાંચો:Weather box/oneline	Predefinição:Infobox Weather/line/onevalue
+ઢાંચો:Language icon/Notes	Predefinição:Languageicon/Notas
+ઢાંચો:Country data Oman	Predefinição:Country data Omã
+ઢાંચો:Country data Mozambique	Predefinição:Country data Moçambique
+ઢાંચો:Country data Cameroon	Predefinição:Country data Camarões
+વીર્ય સ્ખલન	Ejaculação
+Module:Yesno	Módulo:Yesno
+Module:Message box	Módulo:Message box
+Module:Category handler	Módulo:Category handler
+Module:Message box/configuration	Módulo:Message box/configuration
+Module:Unsubst	Módulo:Unsubst
+Module:Arguments	Módulo:Arguments
+વિશેષ:તાજાફેરફારો	Especial:Mudanças recentes
+Module:Citation/CS1	Módulo:Citation/CS1
+Module:Citation/CS1/Configuration	Módulo:Citation/CS1/Configuration
+Module:TableTools	Módulo:TableTools
+Module:Documentation/config	Módulo:Documentação/config
+Module:Namespace detect	Módulo:Namespace detect
+Module:HtmlBuilder	Módulo:HtmlBuilder
+Module:String	Módulo:String
+Module:Math	Módulo:Math
+Module:InfoboxImage	Módulo:InfoboxImage
+Module:Navbar	Módulo:Navbar
+Module:Navbox	Módulo:Navbox
+Module:Infobox	Módulo:Infobox
+Module:Namespace detect/data	Módulo:Namespace detect/data
+Module:Namespace detect/config	Módulo:Namespace detect/config
+હોવાર્ડ ગોબિઓફ	Howard Gobioff
